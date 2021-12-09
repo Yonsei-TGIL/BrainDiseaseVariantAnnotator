@@ -25,7 +25,7 @@ echo '=============START running============='
 echo ${BAM_Path}/${BAM}
 echo ${VCF_Path}
 
-sh pipe_HaplotypeCaller.sh $REF $dbSNP $BAM_Path $SAMPLE $VCF_Path
+sh pipe_HaplotypeCaller.sh ${REF} $dbSNP $BAM_Path $SAMPLE $VCF_Path
 
 sh pipe_HaplotypeCaller_VariantFiltration.sh $REF $SAMPLE $VCF_Path
 
