@@ -1,5 +1,15 @@
 # BrainDiseaseVariantCaller
-BrainDiseaseVariantCaller is a pipeline for selecting brain disease related germline variants from a alignment file.
+**BrainDiseaseVariantCaller** is a pipeline for selecting brain disease related germline variants from a alignment file.
+
+**BrainDiseaseVariantCaller** currently covers Alzheimer's Disease, Autism, Dystonia, Parkinson's Disease, Epliepsy, Stroke, brain cancers, and is contantly updated along with [BrainBase](http://ngdc.cncb.ac.cn/brainbase/index) database.
+
+   <img src="https://user-images.githubusercontent.com/56012432/145349432-99b996d6-c7c4-48a9-8fde-50bd26d5fc16.png" width = "500">
+
++ Requirement:
+  +  Linux
+  +  Python 2.7 or higher
+  +  GATK 4.0 or higher
+  +  VEP
 
 To run the pipeline :
 
