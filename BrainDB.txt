@@ -1,0 +1,5666 @@
+116HG	Prader-Willi Syndrome
+4EBP2	Glioma
+51A	Alzheimer's Disease
+A1CF	Narcolepsy
+A2M	Alzheimer's Disease
+AACSP1	Autism Spectrum Disorder
+AACS	Parkinson's Disease
+AAK1	Parkinson's Disease
+AARS2	Alzheimer's Disease
+AB073614	Glioma
+ABCA11P	Autism Spectrum Disorder
+ABCA2	Glioma
+ABCA5	Autism Spectrum Disorder
+ABCA7	Alzheimer's Disease
+ABCA8	Alzheimer's Disease
+ABCB9	Autism Spectrum Disorder
+ABCC10	Autism Spectrum Disorder
+ABCC13	Down Syndrome
+ABCD1P4	Alzheimer's Disease
+ABCF1	Autism Spectrum Disorder
+ABCG1	Glioma
+ABCG2	Glioma
+ABHD11OS	Neurodegenerative Disease
+ABHD16A	Autism Spectrum Disorder
+ABI1	Alzheimer's Disease
+ABI3	Alzheimer's Disease
+ABI3BP	Multiple Sclerosis
+ABITRAM	Dysautonomia
+ABO	Stroke
+ABRA	Epilepsy
+ABT1	Autism Spectrum Disorder
+ABTB2	Alzheimer's Disease
+AC000067.1	Alzheimer's Disease
+AC002069.2	Alzheimer's Disease
+AC002996.1	Stroke
+AC003005.2	Alzheimer's Disease
+AC003044.1	Autism Spectrum Disorder
+AC003986.1	Amyotrophic Lateral Sclerosis
+AC004076.9	Alzheimer's Disease
+AC004112.4	Alzheimer's Disease
+AC004160.1	Alzheimer's Disease
+AC004593.2	Alzheimer's Disease
+AC004594.1	Alzheimer's Disease
+AC004687.2	Stroke
+AC004817.5	Alzheimer's Disease
+AC004877.2	Alzheimer's Disease
+AC004972.1	Autism Spectrum Disorder
+AC005008.2	Autism Spectrum Disorder
+AC005013.5	Glioma
+AC005017.1	Alzheimer's Disease
+AC005040.2	Alzheimer's Disease
+AC005789.9	Alzheimer's Disease
+AC005833.1	Alzheimer's Disease
+AC005972.3	Alzheimer's Disease
+AC006041.2	Stroke
+AC006126.3	Alzheimer's Disease
+AC006277.2	Alzheimer's Disease
+AC006380.1	Alzheimer's Disease
+AC006398.1	Alzheimer's Disease
+AC006971.1	Glioma
+AC007091.1	Amyotrophic Lateral Sclerosis
+AC007221.1	Autism Spectrum Disorder
+AC007318.2	Alzheimer's Disease
+AC007402.1	Alzheimer's Disease
+AC007603.3	Alzheimer's Disease
+AC007786.1	Stroke
+AC007786.2	Stroke
+AC008060.3	Alzheimer's Disease
+AC008069.1	Alzheimer's Disease
+AC008125.1	Alzheimer's Disease, Stroke
+AC008158.1	Parkinson's Disease
+AC008164.1	Alzheimer's Disease
+AC008281.1	Alzheimer's Disease
+AC008550.1	Alzheimer's Disease
+AC008574.1	Alzheimer's Disease
+AC008581.2	Autism Spectrum Disorder
+AC008937.3	Alzheimer's Disease
+AC009055.1	Autism Spectrum Disorder
+AC009110.1	Alzheimer's Disease
+AC009161.1	Alzheimer's Disease
+AC009310.1	Alzheimer's Disease
+AC009404.5	Alzheimer's Disease
+AC009446.1	Autism Spectrum Disorder
+AC009498.1	Alzheimer's Disease
+AC009522.1	Alzheimer's Disease
+AC009804.1	Alzheimer's Disease
+AC010230.1	Epilepsy
+AC010255.3	Stroke
+AC010538.1	Autism Spectrum Disorder
+AC010683.1	Intracranial Aneurysm
+AC010883.2	Multiple Sclerosis
+AC010883.3	Multiple Sclerosis
+AC011029.1	Alzheimer's Disease
+AC011366.4	Cerebral Palsy
+AC011374.3	Stroke
+AC011472.2	Alzheimer's Disease
+AC011472.3	Alzheimer's Disease
+AC011481.2	Alzheimer's Disease
+AC011481.3	Alzheimer's Disease
+AC011997.1	Stroke
+AC012445.1	Stroke
+AC012669.1	Autism Spectrum Disorder
+AC013287.1	Autism Spectrum Disorder
+AC013467.1	Alzheimer's Disease
+AC013467.2	Alzheimer's Disease
+AC013799.1	Alzheimer's Disease
+AC015522.1	Alzheimer's Disease
+AC016573.1	Stroke
+AC016598.2	Alzheimer's Disease
+AC016745.3	Glioma
+AC017007.5	Stroke
+AC018467.1	Alzheimer's Disease
+AC018618.1	Parkinson's Disease
+AC018659.2	Stroke
+AC018696.1	Alzheimer's Disease
+AC018765.1	Alzheimer's Disease
+AC018767.1	Epilepsy
+AC018890.6	Alzheimer's Disease
+AC019131.1	Alzheimer's Disease
+AC021192.2	Autism Spectrum Disorder
+AC021594.2	Amyotrophic Lateral Sclerosis
+AC021613.1	Autism Spectrum Disorder
+AC021660.1	Narcolepsy
+AC022137.4	Alzheimer's Disease
+AC022153.1	Alzheimer's Disease
+AC022182.1	Autism Spectrum Disorder
+AC022325.2	Epilepsy
+AC022387.1	Autism Spectrum Disorder
+AC022414.1	Autism Spectrum Disorder
+AC022418.1	Autism Spectrum Disorder
+AC023050.3	Amyotrophic Lateral Sclerosis
+AC025254.1	Autism Spectrum Disorder
+AC026167.1	Alzheimer's Disease
+AC026320.3	Autism Spectrum Disorder
+AC026367.2	Alzheimer's Disease
+AC026391.1	Alzheimer's Disease
+AC026583.1	Amyotrophic Lateral Sclerosis
+AC026585.1	Autism Spectrum Disorder
+AC026688.1	Alzheimer's Disease
+AC027612.4	Alzheimer's Disease
+AC027612.6	Alzheimer's Disease
+AC034102.2	Alzheimer's Disease
+AC034213.1	Parkinson's Disease
+AC044784.1	Stroke
+AC046174.1	Alzheimer's Disease
+AC046185.1	Alzheimer's Disease
+AC048352.1	Restless legs Syndrome
+AC048383.1	Amyotrophic Lateral Sclerosis
+AC061975.3	Amyotrophic Lateral Sclerosis
+AC061975.5	Amyotrophic Lateral Sclerosis
+AC063952.2	Autism Spectrum Disorder
+AC064853.3	Alzheimer's Disease
+AC067902.1	Autism Spectrum Disorder
+AC068205.1	Alzheimer's Disease
+AC068205.2	Alzheimer's Disease
+AC068491.1	Alzheimer's Disease
+AC068787.2	Alzheimer's Disease
+AC069287.2	Intracranial Aneurysm
+AC069288.1	Autism Spectrum Disorder
+AC073023.1	Autism Spectrum Disorder
+AC073114.1	Autism Spectrum Disorder
+AC073143.1	Alzheimer's Disease
+AC073225.1	Alzheimer's Disease
+AC073254.1	Alzheimer's Disease
+AC073900.1	Alzheimer's Disease
+AC074035.1	Amyotrophic Lateral Sclerosis
+AC074052.1	Epilepsy
+AC074212.3	Alzheimer's Disease
+AC074351.1	Glioma
+AC078845.1	Autism Spectrum Disorder
+AC078880.1	Stroke
+AC078923.1	Alzheimer's Disease, Glioma
+AC079070.1	Amyotrophic Lateral Sclerosis
+AC079112.1	Restless legs Syndrome
+AC079385.1	Parkinson's Disease
+AC079809.1	Amyotrophic Lateral Sclerosis
+AC083867.2	Autism Spectrum Disorder
+AC083867.3	Autism Spectrum Disorder
+AC084116.2	Alzheimer's Disease
+AC084361.1	Stroke
+AC084375.1	Alzheimer's Disease
+AC087667.1	Alzheimer's Disease
+AC087763.2	Autism Spectrum Disorder
+AC090049.2	Autism Spectrum Disorder
+AC090132.1	Alzheimer's Disease
+AC090132.2	Alzheimer's Disease
+AC090337.2	Autism Spectrum Disorder
+AC090415.2	Stroke
+AC090515.7	Alzheimer's Disease
+AC090791.1	Amyotrophic Lateral Sclerosis
+AC090819.1	Autism Spectrum Disorder
+AC090987.1	Autism Spectrum Disorder
+AC090993.1	Autism Spectrum Disorder
+AC091182.1	Alzheimer's Disease
+AC091832.1	Epilepsy
+AC092110.1	Amyotrophic Lateral Sclerosis
+AC092162.2	Alzheimer's Disease
+AC092168.1	Alzheimer's Disease
+AC092327.1	Alzheimer's Disease
+AC092506.1	Autism Spectrum Disorder
+AC092720.1	Stroke
+AC092720.3	Stroke
+AC093277.1	Multiple Sclerosis
+AC093606.1	Alzheimer's Disease
+AC093627.3	Glioma
+AC093635.1	Alzheimer's Disease, Autism Spectrum Disorder
+AC093909.4	Autism Spectrum Disorder
+AC094104.2	Epilepsy
+AC095031.1	Autism Spectrum Disorder
+AC095060.1	Alzheimer's Disease
+AC096553.5	Alzheimer's Disease
+AC096647.1	Autism Spectrum Disorder
+AC097375.4	Autism Spectrum Disorder
+AC098595.1	Alzheimer's Disease
+AC098650.1	Alzheimer's Disease, Parkinson's Disease
+AC099520.1	Alzheimer's Disease, Autism Spectrum Disorder
+AC100802.1	Amyotrophic Lateral Sclerosis
+AC103957.1	Parkinson's Disease
+AC103957.2	Parkinson's Disease
+AC103993.1	Alzheimer's Disease
+AC104169.1	Autism Spectrum Disorder
+AC104417.1	Amyotrophic Lateral Sclerosis
+AC104417.2	Amyotrophic Lateral Sclerosis
+AC104574.2	Autism Spectrum Disorder
+AC105411.1	Alzheimer's Disease
+AC105916.2	Alzheimer's Disease
+AC106868.1	Alzheimer's Disease
+AC107391.1	Amyotrophic Lateral Sclerosis
+AC107990.1	Alzheimer's Disease
+AC108019.2	Alzheimer's Disease
+AC108105.1	Multiple Sclerosis
+AC108112.1	Alzheimer's Disease
+AC108488.3	Cerebral Palsy
+AC109635.4	Alzheimer's Disease
+AC113367.2	Autism Spectrum Disorder
+AC113410.1	Alzheimer's Disease
+AC113414.1	Autism Spectrum Disorder
+AC113607.1	Alzheimer's Disease
+AC114812.8	Neuroblastoma
+AC116003.1	Autism Spectrum Disorder
+AC116534.1	Parkinson's Disease
+AC116634.1	Alzheimer's Disease
+AC120036.1	Autism Spectrum Disorder
+AC122138.1	Autism Spectrum Disorder
+AC127459.1	Multiple Sclerosis
+AC127459.2	Multiple Sclerosis
+AC127496.1	Alzheimer's Disease
+AC131097.3	Narcolepsy
+AC133109.1	Alzheimer's Disease
+AC133865.1	Amyotrophic Lateral Sclerosis
+AC136007.2	Alzheimer's Disease
+AC139795.3	Alzheimer's Disease
+AC141586.1	Alzheimer's Disease
+AC207130.1	Restless legs Syndrome
+AC233982.1	Amyotrophic Lateral Sclerosis
+AC243964.3	Alzheimer's Disease
+ACE	Alzheimer's Disease, Stroke
+ACER3	Alzheimer's Disease
+ACKR3	Glioma
+ACMSD	Alzheimer's Disease, Parkinson's Disease
+ACOT2	Alzheimer's Disease
+ACP2	Autism Spectrum Disorder
+ACP5	Multiple Sclerosis
+ACSL1	Neuroblastoma
+ACSL4	Intellectual Disability
+ACSL5	Amyotrophic Lateral Sclerosis
+ACSL6	Alzheimer's Disease
+ACSS2	Glioma
+ACTA1	Muscular Dystrophy
+ACTA2	Cerebral Aneurysm, Stroke
+ACTB	Dystonia
+ACTC1	Alzheimer's Disease
+ACTL7A	Dysautonomia
+ACTL7B	Dysautonomia
+ACTN1	Muscular Dystrophy
+ACTR1A	Autism Spectrum Disorder
+ACTR5	Autism Spectrum Disorder
+ACVR1	Glioma
+ADAM10	Alzheimer's Disease
+ADAM22	Autism Spectrum Disorder
+ADAM29	Glioma
+ADAM2	Restless legs Syndrome
+ADAM8	Alzheimer's Disease
+ADAMTS12	Stroke
+ADAMTS16	Parkinson's Disease
+ADAMTS1	Alzheimer's Disease
+ADAMTS20	Alzheimer's Disease, Parkinson's Disease
+ADAMTS2	Alzheimer's Disease, Stroke
+ADAMTS4	Alzheimer's Disease
+ADAMTS7	Autism Spectrum Disorder
+ADAMTS9	Alzheimer's Disease
+ADAMTS9-AS2	Glioma
+ADAMTSL3	Autism Spectrum Disorder
+ADARB2	Alzheimer's Disease
+ADARB2-AS1	Alzheimer's Disease
+ADCK5	Autism Spectrum Disorder
+ADCY3	Multiple Sclerosis
+ADCY9	Alzheimer's Disease
+ADD1	Huntington's Disease
+ADDA	Huntington's Disease
+ADGRA2	Alzheimer's Disease, Glioma
+ADGRB3	Autism Spectrum Disorder
+ADGRE3	Alzheimer's Disease
+ADGRE5	Multiple Sclerosis
+ADGRF2	Alzheimer's Disease
+ADGRG1	Epilepsy
+ADGRG4	Neuroblastoma
+ADGRL4	Autism Spectrum Disorder, Glioma
+ADGRV1	Epilepsy, Glioma
+ADNP	Intellectual Disability
+ADORA1	Alzheimer's Disease
+ADPGK-AS1	Epilepsy
+ADRA1D	Autism Spectrum Disorder
+ADSL	Epilepsy, Glioma
+ADSS2	Glioma
+ADTRP	Autism Spectrum Disorder
+AF086127	Glioma
+AF086217	Glioma
+AF086391	Glioma
+AF096876.1	Stroke
+AF119852	Glioma
+AF165147.1	Alzheimer's Disease
+AF207955.1	Alzheimer's Disease
+AFF1	Alzheimer's Disease, Multiple Sclerosis
+AFF2	Intellectual Disability
+AGAP1	Alzheimer's Disease, Autism Spectrum Disorder, Parkinson's Disease
+AGAP2-AS1	Glioma
+AGAP2	Multiple Sclerosis
+AGBL1	Alzheimer's Disease
+AGBL2	Multiple Sclerosis
+AGER	Alzheimer's Disease, Autism Spectrum Disorder, Glioma
+AGFG2	Alzheimer's Disease
+AGPAT1	Autism Spectrum Disorder
+AGRN	Alzheimer's Disease
+AHCYL1	Alzheimer's Disease
+AHI1	Multiple Sclerosis
+AHNAK	Alzheimer's Disease
+AHSA1	Down Syndrome
+AICDA	Alzheimer's Disease
+AIF1	Alzheimer's Disease, Autism Spectrum Disorder
+AIMP2	Parkinson's Disease
+AK021535	Glioma
+AK021630	Parkinson's Disease
+AK022370	Glioma
+AK056155	Glioma
+AK098425	Glioma
+AK127238	Multiple Sclerosis
+AK128216	Alzheimer's Disease
+AKAP12	Alzheimer's Disease
+AKAP13	Multiple Sclerosis
+AKAP6	Glioma
+AKAP7	Alzheimer's Disease
+AKAP8L	Huntington's Disease
+AKT1	Epilepsy, Tuberous Sclerosis
+AKT3	Epilepsy, Glioma
+AL022724.3	Autism Spectrum Disorder
+AL023754.1	Amyotrophic Lateral Sclerosis
+AL031668.2	Alzheimer's Disease
+AL032822.1	Autism Spectrum Disorder
+AL034346.1	Stroke
+AL049437	Parkinson's Disease
+AL050068	Glioma
+AL050338.1	Alzheimer's Disease
+AL096799.1	Alzheimer's Disease
+AL096816.1	Alzheimer's Disease
+AL109954.2	Alzheimer's Disease
+AL117332.1	Autism Spectrum Disorder
+AL121612.1	Alzheimer's Disease
+AL121988.1	Alzheimer's Disease
+AL133270.1	Autism Spectrum Disorder
+AL133334.1	Stroke
+AL133355.1	Stroke
+AL136140.2	Stroke
+AL136456.1	Alzheimer's Disease, Autism Spectrum Disorder
+AL137058.1	Alzheimer's Disease
+AL138720.1	Multiple Sclerosis
+AL139003.1	Stroke
+AL139093.1	Autism Spectrum Disorder
+AL139350.1	Autism Spectrum Disorder
+AL161912.1	Amyotrophic Lateral Sclerosis
+AL162253.2	Alzheimer's Disease
+AL163541.1	Autism Spectrum Disorder
+AL353093.1	Alzheimer's Disease
+AL353588.1	Alzheimer's Disease
+AL353595.1	Alzheimer's Disease
+AL353604.1	Alzheimer's Disease
+AL354854.1	Autism Spectrum Disorder
+AL355592.1	Epilepsy
+AL355773.1	Parkinson's Disease
+AL355862.1	Autism Spectrum Disorder
+AL356094.1	Stroke
+AL356094.2	Stroke
+AL356157.1	Parkinson's Disease
+AL356234.2	Multiple Sclerosis
+AL356807.1	Stroke
+AL356966.1	Alzheimer's Disease
+AL358875.1	Alzheimer's Disease
+AL359502.1	Parkinson's Disease
+AL359546.1	Multiple Sclerosis
+AL359987.1	Amyotrophic Lateral Sclerosis
+AL391117.1	Autism Spectrum Disorder
+AL391704.1	Alzheimer's Disease
+AL392086.3	Autism Spectrum Disorder
+AL445426.1	Stroke
+AL445433.2	Alzheimer's Disease
+AL451123.1	Amyotrophic Lateral Sclerosis
+AL512328.1	Alzheimer's Disease
+AL512634.1	Amyotrophic Lateral Sclerosis
+AL512782.1	Alzheimer's Disease
+AL589684.1	Alzheimer's Disease
+AL589739.1	Alzheimer's Disease
+AL589740.1	Autism Spectrum Disorder
+AL590635.1	Alzheimer's Disease
+AL590807.1	Alzheimer's Disease
+AL590814.2	Alzheimer's Disease
+AL591122.1	Amyotrophic Lateral Sclerosis
+AL591518.1	Alzheimer's Disease
+AL591888.1	Autism Spectrum Disorder
+AL606519.1	Stroke
+AL645933.5	Autism Spectrum Disorder
+AL645941.2	Autism Spectrum Disorder
+AL645944.1	Autism Spectrum Disorder
+AL662789.1	Autism Spectrum Disorder
+AL662844.2	Autism Spectrum Disorder
+AL671277.1	Autism Spectrum Disorder
+AL772161.2	Stroke
+AL833059	Glioma
+AL844908.5	Alzheimer's Disease
+AL928742.9	Alzheimer's Disease
+ALAS1	Autism Spectrum Disorder, Parkinson's Disease
+ALCAM	Alzheimer's Disease
+ALDH16A1	Alzheimer's Disease
+ALDH1A1	Glioma
+ALDH1A2	Stroke
+ALDH1A3	Glioma
+ALDH1L1	Multiple Sclerosis
+ALDH2	Intracranial Aneurysm, Stroke
+ALDH4A1	Alzheimer's Disease
+ALDH7A1	Epilepsy
+ALDOA	Autism Spectrum Disorder
+ALG13	Epilepsy
+ALKBH3	Alzheimer's Disease
+ALKBH5	Glioma
+ALOX12-AS1	Alzheimer's Disease
+ALOX5AP	Stroke
+ALPK1	Alzheimer's Disease
+ALPK2	Alzheimer's Disease, Multiple Sclerosis
+ALPK3	Alzheimer's Disease, Autism Spectrum Disorder
+ALX4	Alzheimer's Disease
+AMACR	Epilepsy
+AMBRA1	Autism Spectrum Disorder
+AMELY	Autism Spectrum Disorder
+AMPB	Glioma
+AMPD1	Autism Spectrum Disorder
+ANAPC5	Autism Spectrum Disorder
+ANGPT4	Intracranial Aneurysm
+ANGPTL4	Glioma
+ANK1	Alzheimer's Disease
+ANK2	Parkinson's Disease, Stroke
+ANK3	Autism Spectrum Disorder
+ANKFY1	Alzheimer's Disease
+ANKLE2	Alzheimer's Disease
+ANKRD11	Alzheimer's Disease
+ANKRD20A5P	Alzheimer's Disease
+ANKRD27	Alzheimer's Disease
+ANKRD29	Amyotrophic Lateral Sclerosis
+ANKRD30B	Alzheimer's Disease
+ANKRD31	Alzheimer's Disease
+ANKRD33B	Alzheimer's Disease
+ANKRD36BP2	Multiple Sclerosis
+ANKRD44	Autism Spectrum Disorder
+ANKRD44-IT1	Autism Spectrum Disorder
+ANKRD49	Alzheimer's Disease
+ANKRD55	Alzheimer's Disease, Multiple Sclerosis
+ANKS1B	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder
+ANO2	Parkinson's Disease
+ANO4	Alzheimer's Disease
+ANO5	Autism Spectrum Disorder, Muscular Dystrophy, Parkinson's Disease
+ANO7	Neuroblastoma
+ANP32A	Alzheimer's Disease
+ANPEP	Alzheimer's Disease
+anti-NOS2A	Glioma, Meningioma
+ANTXR1	Alzheimer's Disease
+ANXA1	Glioma, Parkinson's Disease
+ANXA9	Neuroblastoma
+AP000439.2	Alzheimer's Disease
+AP000474.2	Autism Spectrum Disorder
+AP000553.8	Amyotrophic Lateral Sclerosis
+AP000787.1	Alzheimer's Disease
+AP000820.2	Multiple Sclerosis
+AP000842.2	Alzheimer's Disease
+AP000892.4	Alzheimer's Disease
+AP000961.1	Autism Spectrum Disorder
+AP001021.1	Alzheimer's Disease
+AP001021.2	Alzheimer's Disease
+AP001021.3	Alzheimer's Disease
+AP001058.3	Alzheimer's Disease
+AP001267.5	Autism Spectrum Disorder
+AP001347.1	Stroke
+AP001407.1	Stroke
+AP001790.1	Alzheimer's Disease
+AP001830.2	Narcolepsy
+AP002755.1	Glioma
+AP003062.2	Amyotrophic Lateral Sclerosis
+AP003121.1	Amyotrophic Lateral Sclerosis
+AP003400.1	Amyotrophic Lateral Sclerosis
+AP003464.1	Autism Spectrum Disorder
+AP005262.1	Alzheimer's Disease
+AP1S2	Hydrocephalus, Intellectual Disability
+AP1S2P1	Alzheimer's Disease
+AP2A2	Alzheimer's Disease
+AP4B1	Cerebral Palsy, Intellectual Disability
+AP4E1	Cerebral Palsy, Intellectual Disability
+AP4M1	Alzheimer's Disease, Cerebral Palsy, Intellectual Disability
+AP4S1	Intellectual Disability
+AP5B1	Autism Spectrum Disorder
+APBA1	Alzheimer's Disease, Friedreich Ataxia
+APBA2	Alzheimer's Disease
+APBA3	Alzheimer's Disease
+APBB1	Alzheimer's Disease
+APBB3	Alzheimer's Disease
+APC2	Intellectual Disability
+APEX1	Glioma
+APH1B	Alzheimer's Disease
+API5	Alzheimer's Disease
+APLF	Multiple Sclerosis, Restless legs Syndrome
+APLP1	Alzheimer's Disease
+APLP2	Alzheimer's Disease
+APNG	Glioma
+APOA2	Alzheimer's Disease
+APOA5	Multiple Sclerosis
+APOBEC1	Alzheimer's Disease
+APOC1	Alzheimer's Disease
+APOC1P1	Alzheimer's Disease
+APOC2	Alzheimer's Disease
+APOC4	Alzheimer's Disease
+APOE	Alzheimer's Disease, Gaucher Disease, Parkinson's Disease
+APOM	Autism Spectrum Disorder
+APP	Alzheimer's Disease
+APPL2	Alzheimer's Disease
+APTR	Glioma
+APTX	Amyotrophic Lateral Sclerosis
+AQP10	Parkinson's Disease
+AQP1	Glioma
+AQP3	Neuroblastoma
+AQP4	Glioma
+AQP9	Glioma
+ARAP2	Amyotrophic Lateral Sclerosis
+ARC	Epilepsy
+ARFGAP2	Autism Spectrum Disorder
+ARFGEF2	Dystonia
+ARHGAP11B	Epilepsy
+ARHGAP1	Autism Spectrum Disorder
+ARHGAP20	Alzheimer's Disease
+ARHGAP24	Neuroblastoma
+ARHGAP26	Multiple Sclerosis
+ARHGAP27	Parkinson's Disease
+ARHGAP32	Intracranial Aneurysm
+ARHGAP45	Alzheimer's Disease
+ARHGEF10	Epilepsy, Multiple Sclerosis
+ARHGEF11	Autism Spectrum Disorder
+ARHGEF2	Amyotrophic Lateral Sclerosis
+ARHGEF3	Multiple Sclerosis
+ARHGEF40	Neuroblastoma
+ARHGEF5	Glioma
+ARHGEF9	Epilepsy, Intellectual Disability
+ARID1A	Glioma
+ARID1B	Alzheimer's Disease, Glioma
+ARID2	Glioma
+ARL11	Multiple Sclerosis
+ARL13B	Glioma
+ARL3	Autism Spectrum Disorder
+ARL5B	Autism Spectrum Disorder
+ARL6IP4	Autism Spectrum Disorder
+ARNT2	Autism Spectrum Disorder
+ARRDC4	Alzheimer's Disease
+ARSA	Hydrocephalus
+ARTN	Autism Spectrum Disorder
+ARVCF	Alzheimer's Disease
+ARX	Agenesis Corpus Callosum, Autism Spectrum Disorder, Epilepsy
+AS3MT	Autism Spectrum Disorder
+ASAP1	Autism Spectrum Disorder, Multiple Sclerosis
+ASAP2	Multiple Sclerosis
+ASB1	Amyotrophic Lateral Sclerosis
+ASB3	Stroke
+ASCL1	Glioma
+ASF1A	Multiple Sclerosis
+ASGR2	Alzheimer's Disease
+ASIC2	Autism Spectrum Disorder
+ASIC4	Dystonia
+ASIP	Alzheimer's Disease
+ASNS	Epilepsy, Intellectual Disability
+ASPHD1	Autism Spectrum Disorder
+ASTE1	Restless legs Syndrome
+AS Uchl1	Parkinson's Disease
+ASXL2	Intellectual Disability
+ASXL3	Intellectual Disability, Parkinson's Disease
+ATAT1	Autism Spectrum Disorder
+ATB	Glioma
+ATCAY	Dystonia
+ATF1	Multiple Sclerosis
+ATF3	Glioma
+ATF5	Glioma
+ATF6B	Autism Spectrum Disorder
+ATF6	Parkinson's Disease
+ATG13	Autism Spectrum Disorder
+ATG16L2	Alzheimer's Disease
+ATG4B	Glioma
+ATIC	Epilepsy
+ATM	Alzheimer's Disease
+ATN1	Epilepsy
+ATP13A2	Parkinson's Disease
+ATP1A3	Alternating Hemiplegia of Childhood, Dystonia
+ATP2A1	Epilepsy
+ATP2A2	Epilepsy
+ATP2B1	Intracranial Aneurysm
+ATP2B2	Autism Spectrum Disorder, Von Hippel-Lindau Syndrome
+ATP2C1	Restless legs Syndrome
+ATP5F1C	Alzheimer's Disease
+ATP5MC1	Batten Disease
+ATP5MC2	Batten Disease
+ATP5MC3	Batten Disease
+ATP5MFP3	Alzheimer's Disease
+ATP5MJ	Autism Spectrum Disorder
+ATP5MK	Autism Spectrum Disorder
+ATP5PD	Alzheimer's Disease
+ATP5PF	Alzheimer's Disease
+ATP6AP1	Down Syndrome
+ATP6AP2	Intellectual Disability
+ATP6V0B	Autism Spectrum Disorder
+ATP6V0C	Autism Spectrum Disorder
+ATP6V1B2	Alzheimer's Disease
+ATP6V1G2	Autism Spectrum Disorder
+ATP6V1G2-DDX39B	Autism Spectrum Disorder
+ATP6V1G3	Multiple Sclerosis
+ATP8A2P3	Alzheimer's Disease
+ATP9B	Alzheimer's Disease
+ATRNL1	Autism Spectrum Disorder
+ATRX	Alpha-Thalassemia X-Linked Intellectual Disability Syndrome, Glioma
+ATXN1	Amyotrophic Lateral Sclerosis, Multiple Sclerosis
+ATXN1L	Autism Spectrum Disorder
+ATXN2	Stroke
+ATXN3	Amyotrophic Lateral Sclerosis
+ATXN7L1	Alzheimer's Disease
+ATXN7L3B	Spinocerebellar Ataxia
+ATXN8OS	Spinocerebellar Ataxia
+AUH	Coma, Dystonia
+AUTS2	Autism Spectrum Disorder
+AVIL	Glioma
+AVPR1A	Autism Spectrum Disorder
+AXDND1	Multiple Sclerosis
+AZIN1-AS1	Alzheimer's Disease
+B2M	Glioma
+B3GALT1-AS1	Alzheimer's Disease
+B3GALT4	Alzheimer's Disease, Autism Spectrum Disorder
+B3GAT1	Neuroblastoma
+B3GLCT	Hydrocephalus
+B3GNT5	Alzheimer's Disease
+B4GALT2	Autism Spectrum Disorder
+B4GALT5	Multiple Sclerosis
+B4GALT6	Amyotrophic Lateral Sclerosis
+BACE1	Alzheimer's Disease
+BACE1-AS	Alzheimer's Disease
+BACH2	Multiple Sclerosis
+BAG3	Muscular Dystrophy, Parkinson's Disease
+BAG4	Autism Spectrum Disorder
+BAG5	Autism Spectrum Disorder
+BAG6	Autism Spectrum Disorder
+BAIAP2	Glioma
+BAK1	Autism Spectrum Disorder, Multiple Sclerosis
+BANK1	Alzheimer's Disease, Autism Spectrum Disorder
+BAP1	Autism Spectrum Disorder, Parkinson's Disease
+BARD1	Neuroblastoma
+BARX1	Parkinson's Disease
+BATF3	Multiple Sclerosis
+BATF	Multiple Sclerosis
+BC002811	Glioma
+BC012548	Glioma
+BC034767	Restless legs Syndrome
+BC041658	Glioma
+BCAM	Alzheimer's Disease
+BCAN	Glioma
+BCAP31	Dystonia, Intellectual Disability
+BCAR1	Intracranial Aneurysm
+BCAR3	Alzheimer's Disease
+BCAS1	Multiple Sclerosis
+BCAS2	Autism Spectrum Disorder
+BCAS3	Alzheimer's Disease
+BCHE	Alzheimer's Disease
+BCKDK	Alzheimer's Disease, Parkinson's Disease
+BCL10	Multiple Sclerosis
+BCL11A	Epilepsy, Intellectual Disability
+BCL2L11	Alzheimer's Disease, Multiple Sclerosis
+BCL2L12	Glioma
+BCL2L1	Glioma
+BCL2	Multiple Sclerosis
+BCL3	Alzheimer's Disease
+BCL6	Glioma, Multiple Sclerosis, Neuroblastoma
+BCL9L	Multiple Sclerosis
+BCLAF1	Muscular Dystrophy
+BCOR	Glioma
+BCYRN1	Alzheimer's Disease, Glioma
+BDNF-AS	Huntington's Disease, Psychiatric Disease, Schizophrenia
+BDNF	Parkinson's Disease
+BECN1	Encephalitis
+BET1L	Intracranial Aneurysm
+BHLHE40	Multiple Sclerosis
+BICD1	Parkinson's Disease
+BIN1	Alzheimer's Disease
+BIN3	Parkinson's Disease
+BIRC5	Glioma
+BMI1	Glioma
+BMP1	Alzheimer's Disease
+BMP2	Alzheimer's Disease
+BMP4	Glioma, Parkinson's Disease
+BMPER	Alzheimer's Disease
+BMPR1B	Glioma
+BMX	Glioma
+BNC2	Epilepsy
+BNIP3	Alzheimer's Disease
+BOD1L1	Amyotrophic Lateral Sclerosis
+BOLA3P1	Stroke
+BOLL	Autism Spectrum Disorder, Intracranial Aneurysm
+BORCS7-ASMT	Autism Spectrum Disorder
+BORCS7	Autism Spectrum Disorder, Parkinson's Disease
+BORCS8-MEF2B	Multiple Sclerosis
+BPNET	Neuroblastoma
+BPTF	Amyotrophic Lateral Sclerosis
+BRAF	Glioma
+BRAFV600E	Glioma
+BRAT1	Epilepsy
+BRD2	Autism Spectrum Disorder
+BRD7	Epilepsy
+BRD8	Autism Spectrum Disorder
+BRF1	Intellectual Disability
+BRINP2	Autism Spectrum Disorder
+BRIP1	Parkinson's Disease
+BRWD1	Down Syndrome
+BRWD3	Intellectual Disability
+BSCL2	Motor Neurone Disease
+BSG	Alzheimer's Disease, Glioma
+BST1	Parkinson's Disease
+BTBD18	Autism Spectrum Disorder
+BTBD7	Stroke
+BTBD9	Restless Legs Syndrome
+BTD	Alzheimer's Disease, Coma
+BTF3L4P3	Multiple Sclerosis
+BTK	Meningitis
+BTN1A1	Autism Spectrum Disorder
+BTN2A1	Autism Spectrum Disorder
+BTN2A2	Autism Spectrum Disorder
+BTN2A3P	Autism Spectrum Disorder
+BTN3A1	Autism Spectrum Disorder
+BTN3A2	Autism Spectrum Disorder
+BTN3A3	Autism Spectrum Disorder
+BTNL2	Autism Spectrum Disorder, Multiple Sclerosis
+BUD13	Multiple Sclerosis
+BX118339	West Syndrome
+BX284656.2	Alzheimer's Disease
+BZW2	Alzheimer's Disease
+C10orf105	Alzheimer's Disease
+C10ORF204	Multiple Sclerosis
+C10orf55	Multiple Sclerosis
+C10orf71	Alzheimer's Disease
+C10orf88	Alzheimer's Disease
+C10orf99	Alzheimer's Disease
+C11orf49	Autism Spectrum Disorder
+C11orf58	Autism Spectrum Disorder
+C12orf40	Parkinson's Disease
+C12orf57	Glioma
+C12orf75	Alzheimer's Disease
+C16orf92	Autism Spectrum Disorder
+C16orf95	Alzheimer's Disease
+C17orf64	Alzheimer's Disease
+C1D	Restless legs Syndrome
+C1GALT1	Multiple Sclerosis
+C1orf52	Multiple Sclerosis
+C1QL1	Glioma
+C1QL3	Alzheimer's Disease
+C2-AS1	Autism Spectrum Disorder
+C2	Autism Spectrum Disorder
+C2DAT1	Ischemic Brain injury
+C2orf69	Autism Spectrum Disorder
+C2orf69P2	Alzheimer's Disease
+C2orf80	Glioma
+C3	Glioma
+C3orf80	Multiple Sclerosis
+C4A	Autism Spectrum Disorder
+C4B_2	Autism Spectrum Disorder
+C4B	Autism Spectrum Disorder
+C4orf19	Multiple Sclerosis
+C4orf50	Alzheimer's Disease
+C4orf54	Stroke
+C5AR1	Glioma
+C5orf24	Parkinson's Disease
+C5orf46	Alzheimer's Disease
+C5orf64	Alzheimer's Disease
+C6orf136	Alzheimer's Disease, Autism Spectrum Disorder
+C6orf15	Autism Spectrum Disorder
+C6orf47	Autism Spectrum Disorder
+C7orf50	Alzheimer's Disease
+C8orf44-SGK3	Alzheimer's Disease
+C8orf58	Parkinson's Disease
+C8orf74	Autism Spectrum Disorder
+C9orf131	Alzheimer's Disease
+C9orf135	Stroke
+C9orf72	Amyotrophic Lateral Sclerosis
+C9orf92	Alzheimer's Disease, Epilepsy, Intracranial Aneurysm
+CA4	Autism Spectrum Disorder
+CA8	Intellectual Disability, Parkinson's Disease
+CAB39L	Parkinson's Disease
+CABIN1	Amyotrophic Lateral Sclerosis
+CACNA1A	Alzheimer's Disease, Coma
+CACNA1B	Parkinson's Disease
+CACNA1C-AS4	Autism Spectrum Disorder
+CACNA1C	Autism Spectrum Disorder
+CACNA1C-IT3	Autism Spectrum Disorder
+CACNA1E	Epilepsy
+CACNA1G	Alzheimer's Disease
+CACNA1H	Epilepsy
+CACNA1I	Autism Spectrum Disorder
+CACNA2D2	Epilepsy
+CACNA2D3	Alzheimer's Disease
+CACNB2	Autism Spectrum Disorder
+CACNB4	Epilepsy
+CACUL1	Alzheimer's Disease
+CADM2	Alzheimer's Disease, Autism Spectrum Disorder
+CADPS2	Alzheimer's Disease, Epilepsy
+CADPS	Autism Spectrum Disorder
+CALB1	Glioma
+CALHM1	Alzheimer's Disease
+CALHM2	Alzheimer's Disease
+CALHM3	Alzheimer's Disease
+CALHM6	Alzheimer's Disease
+CALHM6-AS1	Alzheimer's Disease
+CAMK1G	Amyotrophic Lateral Sclerosis
+CAMK2A	Glioma
+CAMK2B	Intracranial Aneurysm
+CAMK2D	Parkinson's Disease
+CAMK2G	Multiple Sclerosis
+CAMK4	Alzheimer's Disease
+CAMSAP2	Epilepsy
+CAND1	Amyotrophic Lateral Sclerosis
+CAPN10	Stroke
+CAPN3	Muscular Dystrophy
+CARD11	Intracranial Aneurysm, Multiple Sclerosis
+CARD16	Huntington's Disease
+CARHSP1	Intracranial Aneurysm
+CARMIL1	Autism Spectrum Disorder
+CARMN	Alzheimer's Disease
+CARTPT	Glioma
+CASC15	Neuroblastoma, Neuroblastoma
+CASC16	Parkinson's Disease
+CASC19	Multiple Sclerosis
+CASC2c	Glioma
+CASC2	Glioma
+CASDE1	Autism Spectrum Disorder
+CASK	Epilepsy
+CASP8	Multiple Sclerosis
+CASR	Epilepsy
+CASS4	Alzheimer's Disease
+CASTOR3	Alzheimer's Disease
+CASZ1	Stroke
+CAT	Glioma
+CATSPERB	Alzheimer's Disease
+CAV3	Muscular Dystrophy
+CAVIN1	Glioma
+CBFA2T3	Alzheimer's Disease, Multiple Sclerosis
+CBLB	Multiple Sclerosis
+CBLC	Alzheimer's Disease
+CBL	Glioma
+CBLN2	Multiple Sclerosis
+CBR1	Alzheimer's Disease, Glioma
+CBX5	Glioma
+CBX7	Glioma
+CC2D1A	Intellectual Disability
+CCAT1	Glioma
+CCBE1	Alzheimer's Disease
+CCDC12	Multiple Sclerosis
+CCDC134	Alzheimer's Disease
+CCDC148	Restless legs Syndrome
+CCDC167	Restless legs Syndrome
+CCDC172	Epilepsy
+CCDC181	Autism Spectrum Disorder
+CCDC182	Alzheimer's Disease
+CCDC192	Amyotrophic Lateral Sclerosis
+CCDC24	Autism Spectrum Disorder
+CCDC26	Glioma, Glioma
+CCDC50	Alzheimer's Disease
+CCDC62	Parkinson's Disease
+CCDC68	Autism Spectrum Disorder
+CCDC80	Intracranial Aneurysm
+CCDC82	Parkinson's Disease
+CCDC85C	Alzheimer's Disease
+CCDC88C	Hydrocephalus
+CCDC89	Alzheimer's Disease
+CCHCR1	Autism Spectrum Disorder
+CCL22	Multiple Sclerosis
+CCL2	Glioma
+CCL5	Glioma
+CCM2	Stroke
+CCN4	Glioma
+CCN6	Parkinson's Disease
+CCNB1	Glioma
+CCND1	Alzheimer's Disease, Glioma
+CCND2-AS1	Glioma
+CCND2	Glioma
+CCNT2-AS1	Alzheimer's Disease, Parkinson's Disease
+CCNT2	Parkinson's Disease
+CCR1	Narcolepsy
+CCR3	Narcolepsy
+CCR4	Multiple Sclerosis
+CCT4	Glioma
+CCT7	Glioma
+CCZ1B	Alzheimer's Disease
+CD14	Glioma
+CD163L1	Intracranial Aneurysm
+CD180	Alzheimer's Disease
+CD19	Parkinson's Disease
+CD200R1	Multiple Sclerosis
+CD226	Multiple Sclerosis
+CD248	Cerebral Palsy, Glioma
+CD24	Glioma, Multiple Sclerosis
+CD274	Glioma
+CD27-AS1	Multiple Sclerosis
+CD27	Glioma
+CD28	Multiple Sclerosis
+CD2AP	Alzheimer's Disease
+CD2	Multiple Sclerosis
+CD300LG	Alzheimer's Disease
+CD33	Alzheimer's Disease
+CD34	Glioma
+CD38	Parkinson's Disease
+CD3D	Alzheimer's Disease, Cerebral Palsy
+CD3G	Alzheimer's Disease
+CD40	Multiple Sclerosis
+CD44	Glioma
+CD46	Glioma
+CD48	Multiple Sclerosis
+CD4	Glioma
+CD55	Neuroblastoma
+CD58	Multiple Sclerosis
+CD5	Multiple Sclerosis
+CD63	Glioma
+CD68	Glioma
+CD69	Multiple Sclerosis
+CD6	Multiple Sclerosis
+CD70	Glioma
+CD7	Alzheimer's Disease
+CD81	Glioma
+CD86	Multiple Sclerosis
+CD8A	Glioma
+CD90	Glioma
+CD99	Glioma
+CD9	Glioma
+CDA	Alzheimer's Disease
+CDC23	Autism Spectrum Disorder
+CDC25C	Autism Spectrum Disorder
+CDC37	Multiple Sclerosis
+CDC42SE2	Alzheimer's Disease
+CDC5L	Alzheimer's Disease
+CDC71	Parkinson's Disease
+CDH10	Autism Spectrum Disorder
+CDH13	Alzheimer's Disease
+CDH15	Intellectual Disability
+CDH19	Alzheimer's Disease
+CDH23	Alzheimer's Disease
+CDH3	Multiple Sclerosis
+CDH8	Alzheimer's Disease
+CDH9	Autism Spectrum Disorder
+CDHR3	Multiple Sclerosis
+CDK2AP1	Autism Spectrum Disorder
+CDK4	Glioma
+CDK4P1	Autism Spectrum Disorder
+CDK5	Glioma
+CDK6	Glioma, Stroke
+CDKAL1	Alzheimer's Disease
+CDKL5	Epilepsy, Rett Syndrome
+CDKN1A	Glioma
+CDKN1B	Glioma
+CDKN1C	Glioma
+CDKN2A	Glioma, Intracranial Aneurysm
+CDKN2B-AS10	Stroke
+CDKN2B-AS11	Stroke
+CDKN2B-AS12	Glioma
+CDKN2B-AS13	Plexiform Neurofibroma
+CDKN2B-AS1	Alzheimer's Disease, Glioma, Glioma, Intracranial Aneurysm, Intracranial Aneurysm, Ischemic Stroke, Multiple Sclerosis, Neuroblastoma, Neurofibromatosis, Plexiform Neurofibroma, Stroke, Stroke
+CDKN2B-AS3	Intracranial Aneurysm
+CDKN2B	Glioma, Intracranial Aneurysm
+CDKN2C	Glioma
+CDLA-4	Glioma
+CDON	Alzheimer's Disease
+CDR1-AS (ciRS-7)	Glioma
+CDR1-AS	Glioma
+CDR2L	Alzheimer's Disease
+CDRT1	Charcot-Marie-Tooth Disease
+CDS2	Autism Spectrum Disorder
+CDSN	Autism Spectrum Disorder
+CDX2	Neuroblastoma
+CDYL2	Autism Spectrum Disorder
+CEACAM16	Alzheimer's Disease
+CEACAM20	Alzheimer's Disease
+CEACAM22P	Alzheimer's Disease
+CEBPB	Glioma
+CELF1	Alzheimer's Disease
+CELF2	Alzheimer's Disease
+CELF4	Alzheimer's Disease
+CENATAC	Autism Spectrum Disorder
+CENPC	Multiple Sclerosis
+CENPM	Autism Spectrum Disorder
+CENPO	Multiple Sclerosis
+CENPV	Amyotrophic Lateral Sclerosis
+CEP164	Alzheimer's Disease
+CEP295NL	Alzheimer's Disease
+CERNA1	Glioma
+CERS4	Autism Spectrum Disorder
+CERS6	Parkinson's Disease
+CETN4P	Alzheimer's Disease
+CFAP20DC	Alzheimer's Disease, Parkinson's Disease
+CFAP410	Amyotrophic Lateral Sclerosis
+CFAP58	Autism Spectrum Disorder
+CFAP74	Alzheimer's Disease
+CFB	Autism Spectrum Disorder
+CFD	Meningitis
+CHADL	Autism Spectrum Disorder
+CHAF1A	Glioma
+CHAF1B	Glioma
+CHAMP1	Intellectual Disability
+CHD2	Epilepsy, Intellectual Disability
+CHD3	Stroke
+CHD4	Alzheimer's Disease
+CHD5	Neuroblastoma
+CHD6	Glioma
+CHD7	Cerebral Palsy, Multiple Sclerosis
+CHD9	Parkinson's Disease
+CHEK1	Glioma
+CHEK2	Glioma
+CHI3L1	Glioma
+CHI3L2	Cerebral Palsy
+CHIT1	Gaucher Disease
+CHMP2B	Aphasia, Dystonia
+CHN2	Alzheimer's Disease
+CHODL	Neuroblastoma
+CHRFAM7A	Alzheimer's Disease
+CHRM4	Autism Spectrum Disorder
+CHRNA2	Alzheimer's Disease, Autism Spectrum Disorder, Autosomal Dominant Nocturnal Frontal Lobe Epilepsy, Epilepsy
+CHRNA321	Neuroblastoma
+CHRNA3	Autism Spectrum Disorder
+CHRNA4	Autosomal Dominant Nocturnal Frontal Lobe Epilepsy, Epilepsy
+CHRNA5	Autism Spectrum Disorder
+CHRNA7	Epilepsy, Intellectual Disability
+CHRNB1	Parkinson's Disease
+CHRNB2	Autosomal Dominant Nocturnal Frontal Lobe Epilepsy, Epilepsy
+CHRNB4	Autism Spectrum Disorder
+CHST12	Multiple Sclerosis
+CHST1	Alzheimer's Disease, Autism Spectrum Disorder
+CIB1	Alzheimer's Disease
+CIC	Glioma
+CIR1P1	Alzheimer's Disease
+circ-0000020	Glioma
+circ-0000177	Glioma
+circ-0000215	Glioma
+circ-0000337	Glioma
+circ-0000915	Glioma
+circ-0000936	Glioma
+circ-0001162	Glioma
+circ-0001367	Glioma
+circ-0001445	Glioma
+circ-0001467	Glioma
+circ-0001588	Glioma
+circ-0001649	Glioma
+circ-0001730	Glioma
+circ-0001801	Glioma
+circ-0001836	Glioma
+circ-0001946	Glioma
+circ-0002755	Glioma
+circ-0004379	Glioma
+circ-0005075	Glioma
+circ-0005114	Glioma
+circ-0005198	Glioma
+circ-0006168	Glioma
+circ-0007534	Glioma
+circ-0008225	Glioma
+circ-0008344	Glioma
+circ-0008362	Glioma
+circ-0012129	Glioma
+circ-001350	Glioma
+circ-0013520	Glioma
+circ-0014359	Glioma
+circ-001680	Glioma
+circ-002136	Glioma
+circ-0029426	Glioma
+circ-0030018	Glioma
+circ-0034642	Glioma
+circ-0037251	Glioma
+circ-0037655	Glioma
+circ-0042003	Glioma
+circ-0043278	Glioma
+circ-0046701	Glioma
+circ-0061868	Glioma
+circ-0067934	Glioma
+circ-0072083	Glioma
+circ-0074026	Glioma
+circ-0074027	Glioma
+circ-0074362	Glioma
+circ-0076248	Glioma
+circ-0079586	Glioma
+circ-0079593	Glioma
+circ-0082374	Glioma
+circ-0088732	Glioma
+circ-0091581	Glioma
+circ-0110757	Glioma
+circ-0127664	Glioma
+circ-01844	Glioma
+circ-101064	Glioma
+circ-104075	Glioma
+circ-ABCB10	Glioma
+circ-ARF1	Glioma
+circ-ASAP1	Glioma
+circ-ASPH	Glioma
+circ-ATP5B	Glioma
+circ-ATXN1	Glioma
+circ-BRAF	Glioma
+circ-CDC45	Glioma
+circ-CEP128	Glioma
+circ-CFH	Glioma
+circ-CHAF1A	Glioma
+circ-CPA4	Glioma
+circ-CSPP1	Glioma
+circ-DENND2A	Glioma
+circ-DICER1	Glioma
+circ-DTL	Glioma
+circ-E-Cad	Glioma
+circ-EGFR	Glioma
+circ-EIF4G3	Glioma
+circ-ELF2	Glioma
+circ-EPB41L5	Glioma
+circ-EPHB4	Glioma
+circ-EZH2	Glioma
+circ-FANCL	Glioma
+circ-FBXW7	Glioma
+circ-FOXO3	Glioma
+circ-GFRA1	Glioma
+circ-HECTD1	Glioma
+circ-HIPK3	Glioma
+circ-ITCH	Glioma
+circ-ITGA7	Glioma
+circ-KIF4A	Glioma
+circ-LINC-PINT	Glioma
+circ-MAN2B2	Glioma
+circ-MAPK4	Glioma
+circ-MELK	Glioma
+circ-MMP1	Glioma
+circ-MMP9	Glioma
+circ-MTO1	Glioma
+circ-NALCN	Glioma
+circ-NCAPG	Glioma
+circ-NFIX	Glioma
+circ-NT5E	Glioma
+circ-PARP4	Glioma
+circ-PCMTD1	Glioma
+circ-PIP5K1A	Glioma
+circ-PITX1	Glioma
+circ-POSTN	Glioma
+circ-PRKCI	Glioma
+circ-PTN	Glioma
+circ-PTPRZ1	Glioma
+circ-PVT1	Glioma
+circ-RPL15	Glioma
+circ-SCAF11	Glioma
+circ-SEPT9	Glioma
+circ-SFMBT2	Glioma
+circ-SHKBP1	Glioma
+circ-SHPRH	Glioma
+circ-SKA3	Glioma
+circ-SMAD7	Glioma
+circ-SMARCA5	Glioma
+circ-SMO	Glioma
+circ-TOP2A	Glioma
+circ-TTBK2	Glioma
+circ-U2AF1	Glioma
+circ-UBAP2	Glioma
+circ-VCAN	Glioma
+circ-ZNF264	Glioma
+circ-ZNF292	Glioma
+circ-ZNF609	Glioma
+cir-ITCH	Glioma
+CIT	Down Syndrome
+CITF22-92A6.2	Alzheimer's Disease
+CKAP5	Alzheimer's Disease, Autism Spectrum Disorder
+CKB	Autism Spectrum Disorder
+CKM	Alzheimer's Disease
+CLASP1	Autism Spectrum Disorder
+CLASP2	Autism Spectrum Disorder
+CLASRP	Alzheimer's Disease
+CLCN2	Epilepsy
+CLCN3	Autism Spectrum Disorder, Parkinson's Disease
+CLCN7	Autism Spectrum Disorder
+CLDN17	Stroke
+CLDN18	Alzheimer's Disease
+CLDN7	Multiple Sclerosis
+CLEC16A	Multiple Sclerosis
+CLEC17A	Autism Spectrum Disorder
+CLEC19A	Parkinson's Disease
+CLEC2D	Multiple Sclerosis
+CLECL1	Multiple Sclerosis
+CLIC1	Autism Spectrum Disorder, Glioma
+CLIP2	Autism Spectrum Disorder
+CLK2	Gaucher Disease
+CLMN	Alzheimer's Disease
+CLN3	Batten Disease
+CLN5	Epilepsy
+CLN6	Restless legs Syndrome
+CLN8	Epilepsy
+CLNK	Alzheimer's Disease
+CLOCK	Glioma
+CLP1	Autism Spectrum Disorder
+CLPTM1	Alzheimer's Disease
+CLRN3	Parkinson's Disease
+CLSTN1	Alzheimer's Disease
+CLSTN2	Multiple Sclerosis
+CLU	Alzheimer's Disease, Autism Spectrum Disorder
+CLUH	Alzheimer's Disease
+CMC1	Multiple Sclerosis
+CMYA5	Muscular Dystrophy
+CNKSR3	Parkinson's Disease
+CNN1	Down Syndrome
+CNN2	Down Syndrome
+CNNM2	Autism Spectrum Disorder, Intracranial Aneurysm, Parkinson's Disease
+CNOT1	Autism Spectrum Disorder
+CNOT2	Amyotrophic Lateral Sclerosis
+CNOT6	Alzheimer's Disease
+CNOT6LP1	Stroke
+CNOT8	Glioma
+CNR2	Alzheimer's Disease, Multiple Sclerosis
+CNTN1	Parkinson's Disease
+CNTN2	Epilepsy
+CNTN4	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Restless legs Syndrome
+CNTNAP2	Alzheimer's Disease, Autism Spectrum Disorder, Epilepsy
+CNTNAP4	Autism Spectrum Disorder
+COA4	Autism Spectrum Disorder
+COA8	Autism Spectrum Disorder
+COBL	Alzheimer's Disease
+COG2	Alzheimer's Disease
+COG6	Multiple Sclerosis
+COL11A1	Cerebral Aneurysm
+COL12A1	Alzheimer's Disease
+COL13A1	Parkinson's Disease
+COL18A1	Alzheimer's Disease
+COL22A1	Coma
+COL3A1	Cerebral Aneurysm
+COL4A1	Stroke
+COL4A2	Alzheimer's Disease
+COL4A4	Alzheimer's Disease
+COL5A1	Stroke
+COL5A2	Parkinson's Disease
+COL6A1	Muscular Dystrophy
+COL6A2	Muscular Dystrophy
+COL6A3	Muscular Dystrophy
+COL9A3	Alzheimer's Disease
+COPG2	Autism Spectrum Disorder
+COPS4	Alzheimer's Disease, Down Syndrome
+COPS7A	Alzheimer's Disease
+COQ10B	Autism Spectrum Disorder
+COQ7	Parkinson's Disease
+CORO2B	Alzheimer's Disease
+CORT	Neuroblastoma
+COTL1	Epilepsy
+COX10-AS1	Alzheimer's Disease
+COX20	Dystonia
+CPA5	Autism Spectrum Disorder
+CPEB4	Glioma
+CP	Glioma, Parkinson's Disease
+CPLX1	Alzheimer's Disease, Parkinson's Disease
+CPLX2	Huntington's Disease
+CPNE1	Alzheimer's Disease
+CPNE4	Amyotrophic Lateral Sclerosis, Intracranial Aneurysm
+CPT1A	Glioma
+CPT1B	Narcolepsy
+CR1	Alzheimer's Disease
+CR1L	Alzheimer's Disease, Multiple Sclerosis
+CR613436	Glioma
+CRACDL	Autism Spectrum Disorder
+CRADD	Alzheimer's Disease, Epilepsy, Intellectual Disability
+CRAMP1	Epilepsy
+CRBN	Intellectual Disability, Restless legs Syndrome
+CREB1	Glioma
+CREB3L1	Autism Spectrum Disorder
+CREB5	Amyotrophic Lateral Sclerosis
+CRHR1	Alzheimer's Disease, Parkinson's Disease
+CRIP3	Autism Spectrum Disorder
+CRISPLD1	Parkinson's Disease
+CRK	Alzheimer's Disease
+CRLS1	Parkinson's Disease
+CRNDE	Glioma
+CRTAP	Multiple Sclerosis
+CRTC1	Alzheimer's Disease
+CRYBG1	Stroke
+CS	Alzheimer's Disease
+CSDE1	Autism Spectrum Disorder
+CSF-1R	Glioma
+CSF2RB	Multiple Sclerosis
+CSGALNACT2	Multiple Sclerosis
+CSMD1	Alzheimer's Disease, Autism Spectrum Disorder, Multiple Sclerosis
+CSMD3	Epilepsy
+CSNK1D	Alzheimer's Disease
+CSNK1G2	Alzheimer's Disease
+CSNK1G3	Amyotrophic Lateral Sclerosis
+CSNK2A1	Intellectual Disability
+CSNK2B	Autism Spectrum Disorder
+CST1	Alzheimer's Disease
+CST3	Creutzfeldt Jakob Disease, Stroke
+CSTB	Epilepsy
+CSTP2	Alzheimer's Disease
+CTAGE14P	Alzheimer's Disease
+CTB-171A8.1	Alzheimer's Disease
+CTB-179K24.3	Alzheimer's Disease
+CTB-191K22.6	Alzheimer's Disease
+CTBP1	Intellectual Disability
+CTC1	Parkinson's Disease
+CTC-236F12.4	Alzheimer's Disease
+CTC-436P18.1	Autism Spectrum Disorder
+CTC-459F4.3	Alzheimer's Disease
+CTC-459F4.8	Alzheimer's Disease
+CTC-490E21.12	Alzheimer's Disease
+CTC-490G23.6	Alzheimer's Disease
+CTC-756D1.1	Alzheimer's Disease
+CTC-756D1.2	Alzheimer's Disease
+CTCF	Intellectual Disability
+CTD-2020K17.4	Alzheimer's Disease
+CTD-2132N18.3	Alzheimer's Disease
+CTD-2303B20.1	Alzheimer's Disease
+CTD-2311M21.5	Alzheimer's Disease
+CTD-2349B8.1	Alzheimer's Disease
+CTD-2517M22.14	Alzheimer's Disease
+CTD-2541J13.2	Alzheimer's Disease
+CTD-2554C21.1	Alzheimer's Disease
+CTD-3037G24.3	Neuroblastoma
+CTD-3187F8.11	Alzheimer's Disease
+CTD-3187F8.2	Alzheimer's Disease
+CTHRC1	Alzheimer's Disease
+CTLA4	Multiple Sclerosis
+CTNNA2	Alzheimer's Disease, Autism Spectrum Disorder
+CTNNAL1	Dysautonomia
+CTNNB1	Glioma, Intellectual Disability
+CTNND1	Alzheimer's Disease, Autism Spectrum Disorder, Parkinson's Disease
+CTNND2	Glioma
+CTSB	Alzheimer's Disease, Parkinson's Disease
+CTSD	Alzheimer's Disease, Glioma
+CTSH	Multiple Sclerosis, Narcolepsy
+CTSO	Alzheimer's Disease
+CTTNBP2	Autism Spectrum Disorder
+CTU1	Alzheimer's Disease
+CTU2	Autism Spectrum Disorder
+CUEDC1	Multiple Sclerosis
+CUEDC2	Autism Spectrum Disorder
+CUL4A	Intracranial Aneurysm
+CUL4B	Intellectual Disability
+CUTA	Autism Spectrum Disorder
+CWC22	Autism Spectrum Disorder
+CWF19L2	Parkinson's Disease
+CXCL8	Glioma
+CXCR3-A	Glioma
+CXCR4	Glioma, Multiple Sclerosis
+CXCR5	Multiple Sclerosis
+CXXC5	Alzheimer's Disease
+CYB561	Alzheimer's Disease
+CYCS	Alzheimer's Disease
+CYFIP1	Alzheimer's Disease, Epilepsy, Intellectual Disability
+CYFIP2	Multiple Sclerosis
+CYP17A1	Autism Spectrum Disorder, Parkinson's Disease
+CYP1B1-AS1	Parkinson's Disease
+CYP1B1	Parkinson's Disease
+CYP21A1P	Autism Spectrum Disorder
+CYP21A2	Alzheimer's Disease, Autism Spectrum Disorder
+CYP24A1	Multiple Sclerosis
+CYP26A1	Alzheimer's Disease
+CYP27B1	Multiple Sclerosis
+CYP2A7	Alzheimer's Disease
+CYP2D6	Autism Spectrum Disorder
+CYP2D7	Autism Spectrum Disorder
+CYRIB	Parkinson's Disease
+CYTH4	Alzheimer's Disease
+CYTOR	Glioma
+D21S2088E	Alzheimer's Disease
+D2HGDH	Epilepsy, Glioma
+DAB1	Alzheimer's Disease
+DAB2IP	Glioma
+DACH1	Alzheimer's Disease, Restless legs Syndrome
+DAGLA	Spasmodic Dysphonia
+DANT2	Autism Spectrum Disorder
+DAOA-AS1	Bipolar Disorder, Panic Disorder, Schizophrenia
+DAPL1	Alzheimer's Disease
+DAPP1	Stroke
+DAXX	Autism Spectrum Disorder
+DCAF7	Alzheimer's Disease
+DCC	Autism Spectrum Disorder
+DCDC2B	Alzheimer's Disease
+DCDC2C	Restless legs Syndrome
+DCDC2	Dyslexia
+DCHS2	Alzheimer's Disease
+DCP1B	Autism Spectrum Disorder
+DCTN1	Motor Neurone Disease, Muscular Dystrophy
+DCTN6	Alzheimer's Disease
+DCUN1D1	Autism Spectrum Disorder, Parkinson's Disease
+DCX	Epilepsy, Neuroblastoma
+DDAH1	Multiple Sclerosis
+DDAH2	Autism Spectrum Disorder
+DDB2	Autism Spectrum Disorder
+DDC	Neuroblastoma
+DDHD2	Autism Spectrum Disorder
+DDIT4	Parkinson's Disease
+DDR1	Alzheimer's Disease, Autism Spectrum Disorder
+DDRGK1	Parkinson's Disease
+DDX18	Alzheimer's Disease
+DDX25	Alzheimer's Disease
+DDX39B	Autism Spectrum Disorder
+DDX3X	Glioma
+DDX3Y	Autism Spectrum Disorder
+DDX58	Encephalitis
+DDX6	Multiple Sclerosis
+DEAF1	Alzheimer's Disease
+DEL	Neuroblastoma
+DENND2B	Alzheimer's Disease, Parkinson's Disease
+DENND2C	Autism Spectrum Disorder
+DENND3	Alzheimer's Disease
+DEPDC1B	Autism Spectrum Disorder
+DEPDC5	Familial Focal Epilepsy with Variable Foci
+DGCR5	Autism Spectrum Disorder, Huntington's Disease
+DGKI	Autism Spectrum Disorder
+DGKQ	Parkinson's Disease
+DGKZ	Autism Spectrum Disorder
+DHCR24	Alzheimer's Disease
+DHX15	Parkinson's Disease
+DHX16	Autism Spectrum Disorder
+DICER1	Glioma
+DIP2A	Down Syndrome
+DIP2C	Alzheimer's Disease
+DIP2C-AS1	Alzheimer's Disease
+DIPK1A	Multiple Sclerosis
+DIRAS2	Multiple Sclerosis
+DIRAS3	Glioma
+DIS3	Restless legs Syndrome
+DISC1	Alzheimer's Disease, Amyotrophic Lateral Sclerosis
+DISC1FP1	Schizophrenia
+DISC2	Affective Disorder, Autism Spectrum Disorder, Bipolar Disorder, Depression Disorder, Major Depression Disorder, Schizophrenia
+DKFZP434H0512	Alzheimer's Disease
+DKKL1	Multiple Sclerosis
+DLEU1	Alzheimer's Disease, Multiple Sclerosis
+DLEU2	Alzheimer's Disease
+DLEU7	Multiple Sclerosis
+DLG2-AS1	Schizophrenia
+DLG2	Autism Spectrum Disorder, Parkinson's Disease
+DLG3	Intellectual Disability
+DLGAP1	Autism Spectrum Disorder
+DLGAP2	Alzheimer's Disease, Cerebral Palsy, Epilepsy, Stroke
+DLGAP4	Neuroblastoma
+DLL3	Glioma
+DLL4	Glioma, Multiple Sclerosis
+DLX2	Glioma
+DLX3	Alzheimer's Disease
+DLX5	Alzheimer's Disease
+DMBT1	Glioma
+DMD	Muscular Dystrophy
+DMPK	Muscular Dystrophy
+DMRT2	Parkinson's Disease
+DMTN	Alzheimer's Disease
+DMXL1	Alzheimer's Disease
+DNAAF4	Dyslexia
+DNAH10	Stroke
+DNAH11	Stroke
+DNAH12	Stroke
+DNAH14	Stroke
+DNAH17	Parkinson's Disease, Stroke
+DNAH1	Autism Spectrum Disorder, Parkinson's Disease, Stroke
+DNAH2	Stroke
+DNAH3	Stroke
+DNAH5	Stroke
+DNAH6	Stroke
+DNAH7	Stroke
+DNAH8	Stroke
+DNAH9	Stroke
+DNAJA4	Intracranial Aneurysm
+DNAJB7	Autism Spectrum Disorder
+DNAJC15	Alzheimer's Disease
+DNAJC28	Down Syndrome
+DNAJC5B	Epilepsy
+DNAJC6	Autism Spectrum Disorder
+DNM1	Epilepsy
+DNM1L	Intellectual Disability
+DNM1P41	Autism Spectrum Disorder
+DNM2	Charcot-Marie-Tooth Disease
+DNMT1	Narcolepsy
+DNMT3A	Intellectual Disability, Multiple Sclerosis
+DOC2A	Alzheimer's Disease, Autism Spectrum Disorder
+DOCK10	Multiple Sclerosis
+DOCK1	Amyotrophic Lateral Sclerosis
+DOCK3	Attention Deficit Hyperactivity Disorder
+DOCK4	Alzheimer's Disease
+DOCK7	Epilepsy, Intellectual Disability
+DOP1B	Down Syndrome
+DOT1L	Alzheimer's Disease
+DPF2	Glioma
+DPH2	Autism Spectrum Disorder
+DPH6	Parkinson's Disease, Restless legs Syndrome
+DPP10	Autism Spectrum Disorder
+DPP4	Multiple Sclerosis
+DPP6	Amyotrophic Lateral Sclerosis
+DPYD-AS2	Autism Spectrum Disorder
+DPYD	Autism Spectrum Disorder
+DQA1	Multiple Sclerosis
+DRAIC	Alzheimer's Disease, Glioma
+DRAM1	Intracranial Aneurysm
+DRAP1	Multiple Sclerosis
+DRD2	Autism Spectrum Disorder, Dystonia
+DRD3	Essential Tremor
+DRD4	Attention Deficit Hyperactivity Disorder
+DRD5	Alzheimer's Disease, Dystonia
+DRGX	Autism Spectrum Disorder
+DSC1	Multiple Sclerosis
+DSCAM	Down Syndrome, Intracranial Aneurysm
+DSCAML1	Alzheimer's Disease, Down Syndrome
+DSCR10	Down Syndrome
+DSCR4	Down Syndrome, Down Syndrome
+DSCR8	Down Syndrome, Down Syndrome
+DSCR9	Down Syndrome
+DSEL	Alzheimer's Disease
+DSERG1	Down Syndrome
+DSG3	Parkinson's Disease
+DST	Alzheimer's Disease, Dystonia
+DSTNP5	Alzheimer's Disease
+DTNB	Intracranial Aneurysm
+DUSP22	Alzheimer's Disease
+DUSP8	Alzheimer's Disease
+DUX4L1	Muscular Dystrophy
+DVL2	Alzheimer's Disease
+DXO	Autism Spectrum Disorder
+DYNC1H1	Stroke
+DYNLL1P4	Alzheimer's Disease
+DYRK1A	Down Syndrome, Intellectual Disability, Parkinson's Disease, Stroke
+DYRK2	Amyotrophic Lateral Sclerosis
+DYSF	Muscular Dystrophy
+E1F1	Glioma
+E2F1	Glioma
+EBAG9	Glioma
+ECHDC3	Alzheimer's Disease
+ECT2L	Neuroblastoma
+EDAR	Alzheimer's Disease
+EDEM1	Alzheimer's Disease
+EDIL3	Alzheimer's Disease, Narcolepsy
+EDNRA	Intracranial Aneurysm
+EDNRB	Down Syndrome
+EDRF1-AS1	Glioma
+EEF1A1P11	Autism Spectrum Disorder
+EEF1A2	Autism Spectrum Disorder, Epilepsy, Intellectual Disability
+EEF1AKMT1	Neuroblastoma
+EEF1D	Alzheimer's Disease
+EEFSEC	Alzheimer's Disease
+EFEMP1	Amyotrophic Lateral Sclerosis
+EFHC1	Epilepsy
+EFHC2	Epilepsy
+EFHD1	Alzheimer's Disease
+EFL1P1	Autism Spectrum Disorder
+EFNA5	Alzheimer's Disease
+EFS	Glioma
+EGF	Glioma
+EGFL6	Multiple Sclerosis
+EGFL7	Glioma
+EGFL8	Autism Spectrum Disorder
+EGFR	Glioma
+EGFRvIII	Glioma
+EGLN3	Alzheimer's Disease
+EGR1	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder
+EGR2	Autism Spectrum Disorder, Charcot-Marie-Tooth Disease
+EHMT2	Autism Spectrum Disorder
+EIF1AY	Autism Spectrum Disorder
+EIF2D	Alzheimer's Disease
+eIF4A3	Glioma
+EIF5	Autism Spectrum Disorder
+EIPR1	Alzheimer's Disease
+ELAPOR2	Autism Spectrum Disorder
+ELAVL3	Encephalitis
+ELF3	Glioma
+ELF4	Glioma
+ELL	Alzheimer's Disease
+ELMO1	Alzheimer's Disease, Multiple Sclerosis
+ELOVL1	Alzheimer's Disease
+ELOVL2	Glioma
+ELOVL7	Autism Spectrum Disorder, Parkinson's Disease
+ELP1	Dysautonomia
+ELP3	Dysautonomia
+ELP4	Dysautonomia
+EMD	Muscular Dystrophy
+EMP1	Glioma
+EN1	Multiple Sclerosis
+EN2	Autism Spectrum Disorder
+ENKUR	Alzheimer's Disease
+ENO1	Autism Spectrum Disorder, Glioma
+ENO2	Glioma
+ENST01108	Glioma
+ENTHD1	Multiple Sclerosis
+ENTPD1-AS1	Glioma
+EOMES	Agenesis Corpus Callosum, Multiple Sclerosis
+EP300-AS1	Autism Spectrum Disorder
+EP300	Autism Spectrum Disorder
+EP400	Alzheimer's Disease
+EPB41L3	Glioma
+EPB41L4B	Dysautonomia
+EPC2	Alzheimer's Disease
+EPHA1	Alzheimer's Disease
+EPHA2	Glioma
+EPHA3	Glioma
+EPHB1	Epilepsy
+EPHX1	Alzheimer's Disease
+EPHX2	Alzheimer's Disease, Autism Spectrum Disorder
+EPM2A	Epilepsy
+EPM2AIP1	Autism Spectrum Disorder, Epilepsy
+EPN1	Alzheimer's Disease
+EPO	Glioma
+EPOP	Alzheimer's Disease
+EPPK1	Glioma, Multiple Sclerosis
+EPS15	Autism Spectrum Disorder
+EPS15L1	Multiple Sclerosis
+EPS8L2	Alzheimer's Disease
+ERBB2	Glioma
+ERBB4	Alzheimer's Disease
+ERCC6	Cerebro-Oculo-Facio-Skeletal Syndrome
+ERCC6L2	Parkinson's Disease
+ERCC8	Autism Spectrum Disorder
+ERG	Multiple Sclerosis
+ERLIN2	Intellectual Disability
+ERN1	Glioma
+ERVW-1	Multiple Sclerosis
+ERVW-2	Multiple Sclerosis
+ESAM	Autism Spectrum Disorder
+ESPN	Multiple Sclerosis
+ESRP1	Alzheimer's Disease
+ESRRB	Autism Spectrum Disorder
+ESRRG	Intracranial Aneurysm
+ETF1	Autism Spectrum Disorder
+ETFA	Glioma
+ETS1	Alzheimer's Disease, Multiple Sclerosis
+ETV3L	Multiple Sclerosis
+ETV7	Multiple Sclerosis
+EVI5	Multiple Sclerosis
+EVS	Glioma
+EXOC2	Multiple Sclerosis
+EXOC3L2	Alzheimer's Disease
+EXOC4	Alzheimer's Disease
+EXOSC3	Intellectual Disability, Pontocerebellar Hypoplasia
+EXT1	Autism Spectrum Disorder
+EXTL2	Multiple Sclerosis
+EYA1	Autism Spectrum Disorder
+EYA4	Alzheimer's Disease
+EZH1	Autism Spectrum Disorder
+EZH2	Glioma
+F10	Glioma
+F11R	Glioma
+F13A1	Alzheimer's Disease
+F2	Alzheimer's Disease, Autism Spectrum Disorder, Stroke
+F2R	Alzheimer's Disease
+F2RL1	Alzheimer's Disease
+F5	Stroke
+F7	Alzheimer's Disease
+FA2H	Dystonia
+FABP7	Glioma
+FAM118A	Alzheimer's Disease
+FAM120AOS	Glioma
+FAM126A	Parkinson's Disease
+FAM13B	Autism Spectrum Disorder
+FAM155A	Autism Spectrum Disorder
+FAM163A	Alzheimer's Disease
+FAM167A-AS1	Multiple Sclerosis
+FAM167A	Multiple Sclerosis
+FAM167B	Multiple Sclerosis
+FAM171A1	Parkinson's Disease
+FAM171A2	Parkinson's Disease
+FAM172BP	Alzheimer's Disease
+FAM178B	Alzheimer's Disease
+FAM181A	Alzheimer's Disease
+FAM181A-AS1	Alzheimer's Disease
+FAM184A	Parkinson's Disease
+FAM189A2	Friedreich Ataxia
+FAM189B	Gaucher Disease
+FAM193A	Huntington's Disease
+FAM200B	Parkinson's Disease
+FAM207A	Alzheimer's Disease
+FAM20C	Alzheimer's Disease
+FAM221B	Multiple Sclerosis
+FAM241A	Multiple Sclerosis
+FAM24B	Alzheimer's Disease
+FAM47E	Parkinson's Disease
+FAM47E-STBD1	Parkinson's Disease
+FAM53B	Alzheimer's Disease
+FAM53C	Autism Spectrum Disorder
+FAM71B	Multiple Sclerosis
+FAM76B	Multiple Sclerosis
+FANCB	Hydrocephalus
+FANCD2	Alzheimer's Disease
+FANCD2OS	Alzheimer's Disease
+FANCL	Autism Spectrum Disorder, Epilepsy
+FARP1	Alzheimer's Disease
+FARP2	Alzheimer's Disease
+FAS-AS1	Ataxia Telangiectasia
+FAS	Glioma
+FAT1	Alzheimer's Disease, Glioma
+FAT2	Glioma
+FBLN1	Glioma
+FBN1	Cerebral Aneurysm
+FBRSL1	Parkinson's Disease
+FBXL13	Alzheimer's Disease
+FBXL6	Autism Spectrum Disorder
+FBXL7	Alzheimer's Disease
+FBXO16	Alzheimer's Disease
+FBXO31	Intellectual Disability
+FBXO40	Alzheimer's Disease
+FBXO45	Multiple Sclerosis
+FBXO48	Multiple Sclerosis
+FBXO7	Parkinson's Disease
+FBXO9	Cerebral Palsy
+FBXW7	Glioma
+FCGR2A	Parkinson's Disease
+FCRL1	Multiple Sclerosis
+FCRL3	Multiple Sclerosis
+FDFT1	Parkinson's Disease
+FENDRR	Autism Spectrum Disorder
+FERMT2	Alzheimer's Disease
+FES	Autism Spectrum Disorder
+FGA	Stroke
+FGB	Stroke
+FGD4	Charcot-Marie-Tooth Disease, Parkinson's Disease
+FGD6	Intracranial Aneurysm
+FGF10	Alzheimer's Disease, Parkinson's Disease
+FGF12	Autism Spectrum Disorder
+FGF14	Autism Spectrum Disorder
+FGF17	Alzheimer's Disease
+FGF20	Parkinson's Disease
+FGFR1	Agenesis Corpus Callosum, Autism Spectrum Disorder, Glioma
+FGFR3	Chiari Malformation, Huntington's Disease, Hydrocephalus
+FGFR	Glioma
+FHDC1	Amyotrophic Lateral Sclerosis
+FHIT	Autism Spectrum Disorder, Intracranial Aneurysm
+FHL1	Muscular Dystrophy
+FHL5	Intracranial Aneurysm
+FIG4	Charcot-Marie-Tooth Disease, Epilepsy
+FKBP10	Alzheimer's Disease
+FKBPL	Autism Spectrum Disorder
+FKRP	Hydrocephalus, Muscular Dystrophy
+FKTN	Hydrocephalus, Muscular Dystrophy
+FLJ22536	Neuroblastoma
+FLJ34870	Multiple Sclerosis
+FLJ35379	Parkinson's Disease
+FLJ38122	Multiple Sclerosis
+FLJ44180	Neuroblastoma
+FLJ45256	Alzheimer's Disease
+FLJ45964	Intracranial Aneurysm
+FLNA	Epilepsy
+FLNC	Muscular Dystrophy
+FLOT1	Autism Spectrum Disorder
+FMC1	Alzheimer's Disease
+FMC1-LUC7L2	Alzheimer's Disease
+FMN2	Alzheimer's Disease
+FMNL2	Autism Spectrum Disorder
+FMO4	Intracranial Aneurysm
+FMOD	Glioma
+FMR1-AS1	Fragile X Syndrome, Neurological Disorder
+FMR5	Fragile X Syndrome
+FMR6	Fragile X Syndrome
+FN3K	Alzheimer's Disease
+FNDC1	Multiple Sclerosis
+FNDC3B	Parkinson's Disease
+FNIP1	Alzheimer's Disease
+FNTAP1	Alzheimer's Disease
+FOLH1B	Amyotrophic Lateral Sclerosis
+FOXA1	Glioma
+FOXC2	Glioma
+FOXD3-AS1	Glioma
+FOXE1	Alzheimer's Disease
+FOXG1-AS1	Autism Spectrum Disorder
+FOXG1	Epilepsy, Multiple Sclerosis, Rett Syndrome
+FOXK1	Alzheimer's Disease
+FOXM1-AS1	Glioma
+FOXM1-AS	Glioma
+FOXM1	Glioma
+FOXN2	Alzheimer's Disease, Autism Spectrum Disorder
+FOXN3	Alzheimer's Disease
+FOXO4	Dystonia
+FOXO	Glioma
+FOXP1	Autism Spectrum Disorder, Intellectual Disability, Multiple Sclerosis
+FOXP2	Dyslexia, Dyspraxia
+FOXP3	Glioma
+FP325330.2	Alzheimer's Disease
+FPR2	Multiple Sclerosis
+FPR3	Multiple Sclerosis
+FRMD4A	Alzheimer's Disease, Autism Spectrum Disorder
+FRMD4B	Alzheimer's Disease
+FRMD6	Multiple Sclerosis
+FRRS1L	Dysautonomia
+FRZB	Autism Spectrum Disorder
+FST	Alzheimer's Disease
+FTCDNL1	Autism Spectrum Disorder
+FTH1	Glioma
+FTL	Cerebral Aneurysm, Glioma
+FTO	Glioma
+FTSJ1	Intellectual Disability
+FTX	Autism Spectrum Disorder, Glioma
+FUBP1	Glioma
+FUCA2	Multiple Sclerosis
+FURIN	Autism Spectrum Disorder, Stroke
+FUT8	Multiple Sclerosis
+FUT9	Autism Spectrum Disorder
+FXN	Alzheimer's Disease, Friedreich Ataxia
+FYN	Glioma, Parkinson's Disease
+FZD6	Alzheimer's Disease
+G34	Glioma
+G3BP1	Alzheimer's Disease
+GAA	Muscular Dystrophy
+GAB2	Alzheimer's Disease
+GABBR1	Autism Spectrum Disorder, Epilepsy
+GABRA1	Epilepsy, Generalized Epilepsy with Febrile Seizures Plus
+GABRA2	Alzheimer's Disease, Epilepsy
+GABRA-3	Anxiety Disorder
+GABRA3	Rett Syndrome
+GABRA5	Prader-Willi Syndrome
+GABRB1	Epilepsy
+GABRB3	Autism Spectrum Disorder, Epilepsy, Generalized Epilepsy with Febrile Seizures Plus
+GABRD	Epilepsy, Generalized Epilepsy with Febrile Seizures Plus
+GABRG2	Epilepsy, Generalized Epilepsy with Febrile Seizures Plus
+GABRG3	Alzheimer's Disease
+GAD1	Cerebral Palsy, Epilepsy
+GADD45G	Pituitary Adenoma, Pituitary Neoplasms
+GAK	Parkinson's Disease
+GALC	Multiple Sclerosis, Parkinson's Disease
+GALK2	Alzheimer's Disease
+GALNT10	Autism Spectrum Disorder
+GALNT18	Stroke
+GALNT1	Autism Spectrum Disorder
+GAP43	Glioma, Neuroblastoma
+GAPDHP15	Alzheimer's Disease
+GAPLINC	Glioma
+GARS1	Charcot-Marie-Tooth Disease
+GAS5	Glioma
+GAS6	Stroke
+GATA3	Glioma, Intracranial Aneurysm, Multiple Sclerosis
+GATA6	Glioma
+GATD1	Parkinson's Disease
+GATD3A	Alzheimer's Disease
+GBA3	Gaucher Disease
+GBA	Dysautonomia, Gaucher Disease, Intracranial Aneurysm, Parkinson's Disease
+GBAP1	Parkinson's Disease
+GBF1	Parkinson's Disease
+GBM128	Glioma
+GBM131	Glioma
+GCDH	Dystonia
+GCFC2	Dyslexia
+GCH1	Dystonia, Parkinson's Disease
+G-CIMP	Glioma
+GCN1	Alzheimer's Disease
+GCNA	Dystonia
+GDAP1	Charcot-Marie-Tooth Disease
+GDI1	Intellectual Disability
+GDNF-AS1	Alzheimer's Disease
+GDPD3	Autism Spectrum Disorder
+GEC	Neuroblastoma
+GEMIN7	Alzheimer's Disease
+GEMIN7-AS1	Alzheimer's Disease
+GFAP	Glioma
+GFI1B	Glioma
+GFI1	Glioma, Multiple Sclerosis
+GFOD2	Autism Spectrum Disorder
+GFPT2	Parkinson's Disease
+GFRA1	Epilepsy
+GFRA3	Autism Spectrum Disorder
+GGACT	Alzheimer's Disease
+GGN	Alzheimer's Disease
+GGNBP1	Autism Spectrum Disorder, Multiple Sclerosis
+GGT2	Glioma
+GGT3P	Epilepsy
+GGT5	Amyotrophic Lateral Sclerosis
+GHRL	Autism Spectrum Disorder
+GHRLOS	Autism Spectrum Disorder
+GIGYF2	Autism Spectrum Disorder, Parkinson's Disease
+GIMAP6	Multiple Sclerosis
+GJA3	Alzheimer's Disease
+GJB1	Charcot-Marie-Tooth Disease
+GJB3	Alzheimer's Disease
+GJB5	Narcolepsy
+GLB1	Dystonia
+GLEA2	Glioma
+GLI2	Glioma
+GLIDR	Glioma
+GLIPR1	Glioma
+GLIS3	Alzheimer's Disease
+GLO1	Restless legs Syndrome
+GLRA2	Rett Syndrome
+GLT1D1	Autism Spectrum Disorder
+GLT8D1	Autism Spectrum Disorder
+GLU	Parkinson's Disease
+GLYAT	Alzheimer's Disease
+GLYCTK-AS1	Autism Spectrum Disorder
+GLYCTK	Autism Spectrum Disorder
+GM2AP1	Parkinson's Disease
+GM2A	Tay-Sachs Disease
+GMDS	Alzheimer's Disease
+GMNC	Alzheimer's Disease
+GMPS	Glioma
+GNAO1	Epilepsy
+GNG7	Alzheimer's Disease
+GNL1	Autism Spectrum Disorder
+GNL3	Autism Spectrum Disorder
+GNL3L	Autism Spectrum Disorder
+GOLGA2P7	Autism Spectrum Disorder
+GOLGA3	Autism Spectrum Disorder, Glioma
+GOLGA4	Autism Spectrum Disorder
+GOLGA6L4	Autism Spectrum Disorder
+GOLGA6L5P	Autism Spectrum Disorder
+GOLGA8EP	Prader-Willi Syndrome
+GOLGA8F	Prader-Willi Syndrome
+GOLIM4	Epilepsy
+GOLM1	Alzheimer's Disease
+GP1BB	Alzheimer's Disease
+GPA33	Alzheimer's Disease
+GPANK1	Autism Spectrum Disorder
+GPC3	Glioma
+GPC5	Multiple Sclerosis
+GPC6	Alzheimer's Disease
+GPCPD1	Autism Spectrum Disorder
+GPD1	Glioma
+GPM6A	Autism Spectrum Disorder
+GPM6B	Rett Syndrome
+GPNMB	Parkinson's Disease
+GPR161	Glioma
+GPR19	Parkinson's Disease
+GPR32	Parkinson's Disease
+GPR37	Parkinson's Disease
+GPR65	Multiple Sclerosis, Parkinson's Disease
+GPR87	Alzheimer's Disease
+GPRIN3	Parkinson's Disease
+GPSM3	Alzheimer's Disease, Autism Spectrum Disorder
+GPT2	Intellectual Disability
+GPT	Alzheimer's Disease
+GPX5	Alzheimer's Disease, Autism Spectrum Disorder
+GPX6	Alzheimer's Disease, Autism Spectrum Disorder
+GRAMD1B	Autism Spectrum Disorder
+GRAMD2B	Alzheimer's Disease
+GRB2	Multiple Sclerosis
+GRIA1	Autism Spectrum Disorder
+GRIA2	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Forebrain Ischemia, Huntington's Disease, Neuroblastoma, Neurodegenerative Disease
+GRIA3	Intellectual Disability, Rett Syndrome
+GRID1	Alzheimer's Disease
+GRIK1-AS2	Down Syndrome
+GRIK1	Autism Spectrum Disorder, Epilepsy
+GRIK2	Autism Spectrum Disorder, Epilepsy, Intellectual Disability
+GRIN1	Epilepsy
+GRIN2A	Autism Spectrum Disorder, Epilepsy
+GRIN2B	Alzheimer's Disease, Epilepsy
+GRIN3A	Alzheimer's Disease
+GRIN3B	Alzheimer's Disease
+GRM3	Autism Spectrum Disorder
+GRM7	Autism Spectrum Disorder
+GRN	Motor Neurone Disease
+GRTP1	Alzheimer's Disease
+GS1-124K5.11	Parkinson's Disease
+GSC	Glioma
+GSTA4	Epilepsy
+GSTP1	Neuroblastoma
+GTDC1	Multiple Sclerosis
+GTF2H4	Autism Spectrum Disorder
+GTF2I	Glioma
+GTF2IP11	Alzheimer's Disease
+GTSCR1	Stroke, Tourette Syndrome, Tourette Syndrome
+GUCY1A2	Autism Spectrum Disorder
+GUCY2D	Alzheimer's Disease
+GULOP	Alzheimer's Disease
+GUSBP2	Autism Spectrum Disorder
+GXYLT1	Parkinson's Disease
+H1-1	Autism Spectrum Disorder
+H1-2	Autism Spectrum Disorder
+H1-3	Autism Spectrum Disorder
+H1-4	Autism Spectrum Disorder
+H1-5	Autism Spectrum Disorder
+H1-6	Autism Spectrum Disorder
+H19	Glioma, Meningioma, Neuroblastoma, Parkinson's Disease, Pituitary Adenoma, Pituitary Neoplasms, Prader-Willi Syndrome
+H2AC11	Autism Spectrum Disorder
+H2AC12	Autism Spectrum Disorder
+H2AC13	Autism Spectrum Disorder
+H2AC14	Autism Spectrum Disorder
+H2AC15	Autism Spectrum Disorder
+H2AC16	Autism Spectrum Disorder
+H2AC17	Autism Spectrum Disorder
+H2AC1	Autism Spectrum Disorder
+H2AC2P	Autism Spectrum Disorder
+H2AC4	Autism Spectrum Disorder
+H2AC6	Autism Spectrum Disorder, Narcolepsy
+H2AC7	Autism Spectrum Disorder
+H2AC8	Autism Spectrum Disorder
+H2BC10	Autism Spectrum Disorder
+H2BC11	Autism Spectrum Disorder
+H2BC12	Autism Spectrum Disorder
+H2BC13	Autism Spectrum Disorder, Parkinson's Disease
+H2BC14	Autism Spectrum Disorder
+H2BC15	Autism Spectrum Disorder
+H2BC17	Autism Spectrum Disorder
+H2BC1	Autism Spectrum Disorder
+H2BC3	Autism Spectrum Disorder
+H2BC4	Autism Spectrum Disorder
+H2BC5	Autism Spectrum Disorder
+H2BC6	Autism Spectrum Disorder
+H2BC7	Autism Spectrum Disorder
+H2BC8	Autism Spectrum Disorder
+H2BC9	Autism Spectrum Disorder
+H3-3A	Glioma
+H3-3B	Glioma
+H3C10	Autism Spectrum Disorder
+H3C11	Autism Spectrum Disorder
+H3C12	Autism Spectrum Disorder
+H3C1	Autism Spectrum Disorder
+H3C2	Autism Spectrum Disorder, Glioma
+H3C3	Autism Spectrum Disorder, Glioma
+H3C4	Autism Spectrum Disorder
+H3C6	Autism Spectrum Disorder
+H3C7	Autism Spectrum Disorder
+H3C8	Autism Spectrum Disorder
+H3K9	Glioma
+H3P11	Restless legs Syndrome
+H4C11	Autism Spectrum Disorder
+H4C12	Autism Spectrum Disorder
+H4C13	Autism Spectrum Disorder
+H4C1	Autism Spectrum Disorder
+H4C2	Autism Spectrum Disorder
+H4C3	Autism Spectrum Disorder
+H4C4	Autism Spectrum Disorder
+H4C5	Autism Spectrum Disorder
+H4C6	Autism Spectrum Disorder
+H4C7	Autism Spectrum Disorder
+H4C8	Autism Spectrum Disorder
+H4C9	Autism Spectrum Disorder
+H6PD	Alzheimer's Disease
+HACE1	Epilepsy, Multiple Sclerosis, Neuroblastoma
+HACL1	Alzheimer's Disease
+HAGLR	Neuroblastoma
+HAND2-AS1	Neuroblastoma
+HAP1	Huntington's Disease
+HAR1A	Alzheimer's Disease, Huntington's Disease
+HAR1B	Alzheimer's Disease, Glioma, Huntington's Disease
+HAR1	Huntington's Disease
+HARBI1	Autism Spectrum Disorder
+HAS2-AS1	Alzheimer's Disease
+has-mir-10b	Glioma
+has-mir-589??p	Glioma
+HAVCR2	Glioma
+HBEGF	Alzheimer's Disease
+HBS1L	Multiple Sclerosis
+HCCS	Agenesis Corpus Callosum, Rett Syndrome
+HCG11	Autism Spectrum Disorder
+HCG14	Autism Spectrum Disorder
+HCG17	Autism Spectrum Disorder
+HCG18	Autism Spectrum Disorder
+HCG22	Autism Spectrum Disorder
+HCG23	Autism Spectrum Disorder
+HCG25	Autism Spectrum Disorder
+HCG26	Autism Spectrum Disorder
+HCG27	Autism Spectrum Disorder
+HCG4	Autism Spectrum Disorder
+HCG4B	Autism Spectrum Disorder
+HCG9	Autism Spectrum Disorder
+HCN1	Autism Spectrum Disorder, Epilepsy, Intellectual Disability
+HCP5	Autism Spectrum Disorder
+HCRT	Narcolepsy
+HCRTR1	Narcolepsy
+HCRTR2	Narcolepsy
+HDAC2	Glioma
+HDAC4	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Glioma
+HDAC9	Alzheimer's Disease, Epilepsy, Stroke
+HEATR3	Epilepsy, Glioma
+HECW1	Alzheimer's Disease
+HELLPAR	Restless legs Syndrome
+HEPN1	Alzheimer's Disease
+HERC2	Alzheimer's Disease
+HESX1	Alzheimer's Disease
+HEXA	Tay-Sachs Disease
+HEY2	Alzheimer's Disease
+HFE	Autism Spectrum Disorder
+HFN	Glioma
+HHEX	Multiple Sclerosis
+HHIP	Glioma
+HID1	Alzheimer's Disease
+HIF1A-AS2	Glioma
+HIF1A	Glioma
+HIF-2	Glioma
+HIF-2α	Glioma
+HIFs	Glioma
+HINT1	Autism Spectrum Disorder
+HIP1	Huntington's Disease
+HIP1R	Parkinson's Disease
+HIRIP3	Autism Spectrum Disorder
+HJURP	Glioma
+HK1	Charcot-Marie-Tooth Disease
+HLA-A	Autism Spectrum Disorder
+HLA-AS1	Multiple Sclerosis
+HLA-B	Autism Spectrum Disorder, Multiple Sclerosis
+HLA-C	Autism Spectrum Disorder
+HLA-DMA	Autism Spectrum Disorder, Cerebral Palsy
+HLA-DMB	Autism Spectrum Disorder
+HLA-DOA	Autism Spectrum Disorder
+HLA-DOB	Autism Spectrum Disorder
+HLA-DPA1	Alzheimer's Disease, Autism Spectrum Disorder
+HLA-DPB1	Autism Spectrum Disorder
+HLA-DPB2	Autism Spectrum Disorder
+HLA-DQA1	Autism Spectrum Disorder, Multiple Sclerosis, Narcolepsy, Neuroblastoma, Parkinson's Disease
+HLA-DQA2	Alzheimer's Disease, Autism Spectrum Disorder, Multiple Sclerosis, Narcolepsy
+HLA-DQB1	Autism Spectrum Disorder, Multiple Sclerosis, Narcolepsy, Parkinson's Disease
+HLA-DQB2	Autism Spectrum Disorder
+HLA-DRA	Alzheimer's Disease, Autism Spectrum Disorder, Multiple Sclerosis, Parkinson's Disease
+HLA-DRB1	Alzheimer's Disease, Autism Spectrum Disorder, Multiple Sclerosis, Narcolepsy, Neuroblastoma, Parkinson's Disease
+HLA-DRB5	Alzheimer's Disease, Autism Spectrum Disorder, Multiple Sclerosis, Parkinson's Disease
+HLA-DRB6	Autism Spectrum Disorder, Parkinson's Disease
+HLA-DRB9	Autism Spectrum Disorder
+HLA-DRB	Multiple Sclerosis
+HLA-E	Autism Spectrum Disorder
+HLA-F-AS1	Autism Spectrum Disorder
+HLA-F	Autism Spectrum Disorder
+HLA-G	Autism Spectrum Disorder
+HLA-J	Autism Spectrum Disorder
+HLA-L	Autism Spectrum Disorder
+HLA	Multiple Sclerosis, Parkinson's Disease
+HLA-Z	Autism Spectrum Disorder
+HLCS	Intracranial Aneurysm
+HLTF	Autism Spectrum Disorder
+HMGA1	Glioma
+HMGCL	Coma
+HMGI	Neuroblastoma
+HMGN4	Autism Spectrum Disorder
+HNF1A-AS1	Stroke
+HNF1B	Autism Spectrum Disorder
+HNF4A	Glioma
+HNF4G	Alzheimer's Disease
+HnRNPA1	Glioma
+HNRNPL	Cerebral Palsy
+HNRNPM	Glioma
+HNRNPU	Epilepsy
+HORMAD1	Multiple Sclerosis
+HOTAIR	Glioma, Ischemic Stroke, Parkinson's Disease, Pituitary Adenoma, Pituitary Neoplasms
+HOTAIRM1	Glioma
+HOTTIP	Glioma
+HOXA11-AS	Glioma
+HOXA1	Autism Spectrum Disorder, Multiple Sclerosis
+HOXA3	Alzheimer's Disease
+HOXA-AS2	Alzheimer's Disease
+HOXA-AS3	Glioma
+HOXB1	Autism Spectrum Disorder
+HOXB-AS1	Restless legs Syndrome
+HOXD10	Charcot-Marie-Tooth Disease
+HOXD	Glioma
+HP1BP3	Autism Spectrum Disorder
+HPCA	Dystonia
+HPF1	Autism Spectrum Disorder
+HPRT1P2	Alzheimer's Disease
+HPSE2	Glioma
+HRH3	Shy Drager Syndrome
+HRK	Alzheimer's Disease
+HS1BP3	Essential Tremor
+HS3ST1	Alzheimer's Disease
+HS6ST1	Alzheimer's Disease
+HS6ST3	Autism Spectrum Disorder
+hsa-let-7a-1	Glioma
+hsa-let-7a-2	Glioma
+hsa-let-7a-3	Glioma
+hsa-let-7a	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Brain Neoplasms, Glioma
+hsa-let-7b	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Cerebral Cavernous Malformation, Epilepsy, Glioma, Neuroblastoma, Neurodegenerative Disease
+hsa-let-7c	Cerebral Ischemia, Glioma
+hsa-let-7d	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Epilepsy, Glioma
+hsa-let-7f	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Cerebral Ischemia, Glioma
+hsa-let-7g-5p	Glioma
+hsa-let-7g	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Glioma, Schizophrenia
+hsa-let-7	Glioma, Neuroblastoma, Schizophrenia
+hsa-let-7i	Acute Ischemic Stroke, Amyotrophic Lateral Sclerosis, Cerebral Malaria, Glioma
+hsa-mir-100	Alzheimer's Disease, Glioma
+hsa-mir-101-1	Alzheimer's Disease, Glioma
+hsa-mir-101-2	Glioma
+hsa-mir-101	Alzheimer's Disease, Glioma
+hsa-mir-103-1	Alzheimer's Disease, Bipolar Disorder, Schizophrenia
+hsa-mir-103-1-as	Schizophrenia
+hsa-mir-103-2	Alzheimer's Disease, Schizophrenia
+hsa-mir-103-2-as	Schizophrenia
+hsa-mir-103a	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder
+hsa-mir-103	Alzheimer's Disease, Glioma
+hsa-mir-105	Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-106a-5p	Glioma
+hsa-mir-106a	Autism Spectrum Disorder, Glioma, Neuroblastoma
+hsa-mir-106b	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Brain Neoplasms, Epilepsy, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-107	Alzheimer's Disease, Glioma, Meningioma
+hsa-mir-107_st	Glioma
+hsa-mir-10a	Alzheimer's Disease, Glioma, Neuroblastoma
+hsa-mir-10b	Glioma, Huntington's Disease, Neuroblastoma
+hsa-mir-112	Alzheimer's Disease
+hsa-mir-1202	Depression Disorder, Glioma
+hsa-mir-1204	Multiple Sclerosis
+hsa-mir-1208	Multiple Sclerosis
+hsa-mir-1224	Glioma
+hsa-mir-1225	Glioma
+hsa-mir-1227	Glioma
+hsa-mir-1228	Autism Spectrum Disorder
+hsa-mir-122a	Acute Ischemic Stroke, Glioma, Schizophrenia
+hsa-mir-1231	Glioma
+hsa-mir-1234	Autism Spectrum Disorder
+hsa-mir-1236	Autism Spectrum Disorder
+hsa-mir-1238	Glioma
+hsa-mir-124-3p	Glioma
+hsa-mir-1246	Neuroblastoma
+hsa-mir-1247	Glioma
+hsa-mir-124a-1	Acute Cerebral Infarction, Alzheimer's Disease, Cerebral Ischemia, Glioma, Neuroblastoma
+hsa-mir-124a-2	Acute Cerebral Infarction, Alzheimer's Disease, Cerebral Ischemia, Glioma, Neuroblastoma
+hsa-mir-124a-3	Acute Cerebral Infarction, Alzheimer's Disease, Glioma, Neuroblastoma
+hsa-mir-124a	Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-124	Acute Ischemic Stroke, Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Bipolar Disorder, Cerebrovascular Disease, Depression Disorder, Glioma, Neuroblastoma, Neurodegenerative Disease, Neuronal Apoptosis-Related Disease, Schizophrenia
+hsa-mir-125	Acute Ischemic Stroke, Glioma
+hsa-mir-125a	Glioma
+hsa-mir-125b-1	Alzheimer's Disease, Glioma, Huntington's Disease, Neuroblastoma
+hsa-mir-125b-2	Alzheimer's Disease, Glioma, Huntington's Disease
+hsa-mir-125b	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Glioma, Meningitis
+hsa-mir-1260a	Glioma
+hsa-mir-126	Acute Ischemic Stroke, Glioma, Intracerebral Hemorrhage, Schizophrenia, Status Epilepticus
+hsa-mir-1271	Glioma
+hsa-mir-1275	Alzheimer's Disease, Glioma
+hsa-mir-127	Glioma
+hsa-mir-1280	Glioma
+hsa-mir-1281	Autism Spectrum Disorder
+hsa-mir-1284	Autism Spectrum Disorder
+hsa-mir-1285	Alzheimer's Disease
+hsa-mir-1287	Glioma
+hsa-mir-128a	Alzheimer's Disease, Glioma, Neuroblastoma
+hsa-mir-128	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Anxiety Disorder, Cerebral Ischemia, Glioma, Huntington's Disease, Mild Cognitive Impairment, Neuroblastoma
+hsa-mir-128b	Alzheimer's Disease, Glioma, Neuroblastoma
+hsa-mir-129-1	Autism Spectrum Disorder, Brain Neoplasms, Glioma
+hsa-mir-129-2	Autism Spectrum Disorder, Brain Neoplasms, Glioma
+hsa-mir-1297	Amyotrophic Lateral Sclerosis
+hsa-mir-129	Amyotrophic Lateral Sclerosis, Glioma, Neuroblastoma
+hsa-mir-1303	Neuroblastoma
+hsa-mir-1305	Glioma
+hsa-mir-1307	Autism Spectrum Disorder
+hsa-mir-130a-3p	Glioma
+hsa-mir-130a	Acute Ischemic Stroke, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Epilepsy, Glioma, Neuroblastoma
+hsa-mir-130b	Amyotrophic Lateral Sclerosis, Glioma, Schizophrenia
+hsa-mir-130	Schizophrenia
+hsa-mir-132-3p	Frontotemporal Dementia, Progressive Supranuclear Plasy
+hsa-mir-132	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Aneurysmal Subarachnoid Hemorrhage, Autism Spectrum Disorder, Bipolar Disorder, Encephalomyelitis, Epilepsy, Glioma, Huntington's Disease, Intracerebral Hemorrhage, Mild Cognitive Impairment, Neuroblastoma, Neurodegenerative Disease, Schizophrenia
+hsa-mir-133a	Glioma, Intracranial Aneurysm, Neuroendocrine Tumor
+hsa-mir-133b	Glioma, Intracranial Aneurysm
+hsa-mir-133	Glioma
+hsa-mir-134	Bipolar Disorder, Central Nervous System Embryonal Tumor, Cerebral Ischemia, Epilepsy, Glioma, Mild Cognitive Impairment
+hsa-mir-135-1	Autism Spectrum Disorder, Glioma
+hsa-mir-135-2	Glioma
+hsa-mir-135a	Depression Disorder, Glioma
+hsa-mir-135b	Cerebral Ischemia, Glioma
+hsa-mir-135	Glioma
+hsa-mir-136	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-137	Alzheimer's Disease, Autism Spectrum Disorder, Bipolar Disorder, Glioma, Huntington's Disease, Meningioma, Neuroblastoma, Schizophrenia
+hsa-mir-138-1	Glioma, Neuroblastoma
+hsa-mir-138-2	Glioma, Neuroblastoma
+hsa-mir-138	Alzheimer's Disease, Bipolar Disorder, Cerebral Ischemia, Glioma, Glioma, Schizophrenia
+hsa-mir-139	Alzheimer's Disease, Epilepsy, Glioma, Neurodegenerative Disease
+hsa-mir-140	Autism Spectrum Disorder, Glioma
+hsa-mir-141-3p	Glioma
+hsa-mir-141	Amyotrophic Lateral Sclerosis, Glioma, Neuroblastoma
+hsa-mir-142-3p	Glioma
+hsa-mir-142a	Alzheimer's Disease
+hsa-mir-142	Alzheimer's Disease, Alzheimer's Disease, Cerebral Malaria, Glioma
+hsa-mir-143	Alzheimer's Disease, Glioma, Intracranial Aneurysm, Neuroblastoma
+hsa-mir-144	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Glioma, Neurodegenerative Disease, Schizophrenia
+hsa-mir-145	Acute Ischemic Stroke, Cerebral Ischemia, Glioma, Intracranial Aneurysm, Meningioma, Neuroblastoma
+hsa-mir-146	Acute Cerebral Infarction, Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Cerebral Ischemia, Cerebral Malaria, Epilepsy, Glioma, Huntington's Disease, Intracranial Aneurysm, Meningitis, Neurodegenerative Disease, Status Epilepticus
+hsa-mir-146b	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-147b	Glioma, Neuroblastoma
+hsa-mir-148	Acute Ischemic Stroke, Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Anxiety Disorder, Glioma, Huntington's Disease
+hsa-mir-148b	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Anxiety Disorder, Autism Spectrum Disorder, Glioma
+hsa-mir-149	Acute Cerebral Infarction, Glioma
+hsa-mir-150	Cerebral Malaria, Glioma, Huntington's Disease
+hsa-mir-151a	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-151b	Amyotrophic Lateral Sclerosis
+hsa-mir-151	Glioma
+hsa-mir-152	Anxiety Disorder, Glioma, Neuroblastoma
+hsa-mir-153-1	Alzheimer's Disease, Glioma
+hsa-mir-153-2	Alzheimer's Disease, Glioma
+hsa-mir-153	Alzheimer's Disease, Glioma, Neuroblastoma
+hsa-mir-154	Glioma
+hsa-mir-155-3p	Glioma
+hsa-mir-155	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Cerebral Malaria, Encephalitis, Encephalomyelitis, Epilepsy, Glioma, Intracerebral Hemorrhage, Neuronal Apoptosis-Related Disease
+hsa-mir-15a	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Epilepsy, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-15b-3p	Glioma
+hsa-mir-15b-5p	Glioma
+hsa-mir-15b	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Bipolar Disorder, Glioma, Schizophrenia
+hsa-mir-15	Glioma
+hsa-mir-161	Alzheimer's Disease
+hsa-mir-16-1	Glioma
+hsa-mir-16-2	Alzheimer's Disease, Glioma
+hsa-mir-16-5p	Glioma
+hsa-mir-16	Acute Cerebral Infarction, Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Depression Disorder, Glioma
+hsa-mir-17-5p	Glioma
+hsa-mir-17	Alzheimer's Disease, Brain Neoplasms, Encephalomyelitis, Epilepsy, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-181a-2	Glioma
+hsa-mir-181a-5p	Glioma
+hsa-miR-181a-5p	Glioma
+hsa-mir-181a	Cerebral Cavernous Malformation, Glioma, Neuroblastoma, Neurodegenerative Disease
+hsa-mir-181	Autism Spectrum Disorder, Schizophrenia
+hsa-mir-181b-1	Autism Spectrum Disorder, Glioma, Schizophrenia
+hsa-mir-181b-2	Glioma, Schizophrenia
+hsa-mir-181b-5p	Glioma
+hsa-mir-181b	Autism Spectrum Disorder, Glioma, Schizophrenia
+hsa-mir-181c	Alzheimer's Disease, Brain Neoplasms, Epilepsy, Glioma, Neuroblastoma
+hsa-mir-181d	Autism Spectrum Disorder, Glioma
+hsa-mir-1825	Glioma
+hsa-mir-182	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Cerebral Ischemia, Glioma, Neuroblastoma
+hsa-mir-183	Amyotrophic Lateral Sclerosis, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-184	Autism Spectrum Disorder, Epilepsy, Glioma
+hsa-mir-185	Depression Disorder, Glioma
+hsa-mir-186	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-188	Alzheimer's Disease, Glioma
+hsa-mir-1896	Encephalomyelitis
+hsa-mir-18	Alzheimer's Disease, Brain Neoplasms, Glioma, Neuroblastoma
+hsa-mir-18b	Glioma
+hsa-mir-1908	Glioma
+hsa-mir-1909	Neuroepithelial Tumor
+hsa-mir-190a	Meningioma, Neuroblastoma
+hsa-mir-190b	Alzheimer's Disease, Neuroblastoma
+hsa-mir-191	Alzheimer's Disease, Glioma, Neuroendocrine Tumor
+hsa-mir-192	Glioma, Mild Cognitive Impairment, Neuroblastoma
+hsa-mir-193b	Alzheimer's Disease, Autism Spectrum Disorder, Cerebral Malaria, Glioma
+hsa-mir-193	Glioma, Schizophrenia
+hsa-mir-194	Epilepsy, Glioma
+hsa-mir-195	Alzheimer's Disease, Glioma, Schizophrenia
+hsa-mir-196-1	Acute Cerebral Infarction, Glioma
+hsa-mir-196-2	Acute Cerebral Infarction, Glioma
+hsa-mir-196a	Glioma, Huntington's Disease, Neuroendocrine Tumor
+hsa-mir-196b	Glioma
+hsa-mir-196	Glioma
+hsa-mir-197	Glioma
+hsa-mir-198	Glioma, Schizophrenia
+hsa-mir-199a-3p	Glioma
+hsa-mir-199a	Autism Spectrum Disorder, Glioma
+hsa-mir-19a-3p	Glioma
+hsa-mir-19a	Acute Ischemic Stroke, Brain Neoplasms, Cerebral Malaria, Glioma, Huntington's Disease, Neuroblastoma
+hsa-mir-19b-1	Brain Neoplasms, Glioma, Neuroblastoma
+hsa-mir-19b-2	Glioma
+hsa-mir-19b-3p	Glioma
+hsa-mir-19b	Cerebral Malaria, Glioma, Neuroblastoma
+hsa-mir-19	Glioma, Neurodegenerative Disease, Schizophrenia
+hsa-mir-1	Glioma, Intracranial Aneurysm, Neuroblastoma
+hsa-mir-200a	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Glioma, Huntington's Disease, Meningioma, Neuroblastoma
+hsa-mir-200b	Glioma
+hsa-mir-200c	Alzheimer's Disease, Glioma, Huntington's Disease
+hsa-mir-200	Glioma
+hsa-mir-203	Glioma, Neuroblastoma, Neurodegenerative Disease
+hsa-mir-204	Frontotemporal Dementia, Glioma, Neuroblastoma
+hsa-mir-205	Cerebral Malaria, Glioma, Neuroblastoma
+hsa-mir-206	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Bipolar Disorder, Encephalitis, Glioma, Mild Cognitive Impairment, Schizophrenia
+hsa-mir-208a-3p	Glioma
+hsa-mir-208b	Glioma
+hsa-mir-208	Glioma
+hsa-mir-20a-5p	Glioma
+hsa-mir-20	Alzheimer's Disease, Brain Neoplasms, Glioma, Neuroblastoma
+hsa-mir-20b	Encephalomyelitis, Glioma, Schizophrenia
+hsa-mir-210	Acute Cerebral Infarction, Acute Cerebral Ischemia, Acute Ischemic Stroke, Cerebral Ischemia, Epilepsy, Glioma, Neurilemmoma, Neuroblastoma, Neuroendocrine Tumor
+hsa-mir-2110	Amyotrophic Lateral Sclerosis
+hsa-mir-211	Glioma
+hsa-mir-212	Alzheimer's Disease, Autism Spectrum Disorder, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-214	Glioma, Huntington's Disease
+hsa-mir-215	Cerebral Malaria, Glioma
+hsa-mir-216b	Glioma
+hsa-mir-218-1	Bipolar Disorder, Glioma, Schizophrenia
+hsa-mir-218-2	Glioma
+hsa-mir-218	Acute Ischemic Stroke, Amyotrophic Lateral Sclerosis, Glioma, Neuroblastoma
+hsa-mir-219-2	Schizophrenia
+hsa-mir-219	Alzheimer's Disease, Glioma, Meningioma, Schizophrenia
+hsa-mir-21	Acute Cerebral Infarction, Alzheimer's Disease, Autism Spectrum Disorder, Brain Neoplasms, Central Nervous System Embryonal Tumor, Epilepsy, Glioma, Meningioma, Neurilemmoma, Neuroblastoma, Neuroma
+hsa-mir-220a	Glioma
+hsa-mir-221	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Brain Neoplasms, Central Nervous System Embryonal Tumor, Epilepsy, Glioma, Neuroblastoma
+hsa-mir-222-3p	Glioma
+hsa-mir-222	Alzheimer's Disease, Brain Neoplasms, Central Nervous System Embryonal Tumor, Epilepsy, Glioma, Neuroblastoma
+hsa-mir-223	Acute Ischemic Stroke, Amyotrophic Lateral Sclerosis, Cerebral Malaria, Encephalomyelitis, Epilepsy, Glioma
+hsa-mir-22-3p	Glioma
+hsa-mir-224	Cerebral Ischemia, Glioma, Meningioma
+hsa-miR-22-5p	Glioma
+hsa-mir-22	Acute Ischemic Stroke, Amyotrophic Lateral Sclerosis, Glioma, Huntington's Disease, Schizophrenia
+hsa-mir-23a	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Epilepsy, Glioma, Huntington's Disease, Neuronal Apoptosis-Related Disease, Schizophrenia
+hsa-mir-23	Acute Ischemic Stroke
+hsa-mir-23b	Autism Spectrum Disorder, Glioma, Intracranial Aneurysm, Neuronal Apoptosis-Related Disease
+hsa-mir-24-1	Glioma, Intracranial Aneurysm, Schizophrenia
+hsa-mir-24-2	Glioma, Schizophrenia
+hsa-mir-24	Acute Cerebral Infarction, Aneurysmal Subarachnoid Hemorrhage, Cerebral Ischemia, Glioma, Huntington's Disease
+hsa-mir-25	Brain Neoplasms, Glioma, Meningitis, Neuroblastoma
+hsa-mir-2682	Autism Spectrum Disorder, Schizophrenia
+hsa-mir-26a-1	Alzheimer's Disease, Glioma, Intracerebral Hemorrhage
+hsa-mir-26a-2	Alzheimer's Disease, Glioma, Intracerebral Hemorrhage
+hsa-mir-26a	Acute Cerebral Infarction, Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Glioma, Neurodegenerative Disease
+hsa-mir-26b	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Glioma, Schizophrenia
+hsa-mir-27a	Alzheimer's Disease, Autism Spectrum Disorder, Cerebral Malaria, Glioma, Intracerebral Hemorrhage, Neuronal Apoptosis-Related Disease
+hsa-mir-27b	Amyotrophic Lateral Sclerosis, Glioma, Neuroblastoma, Neuronal Apoptosis-Related Disease
+hsa-mir-28	Amyotrophic Lateral Sclerosis
+hsa-mir-296	Alzheimer's Disease, Brain Neoplasms, Glioma, Neurofibromatosis
+hsa-mir-297	Glioma
+hsa-mir-298	Epilepsy, Intracerebral Hemorrhage
+hsa-mir-299	Glioma
+hsa-mir-29	Alzheimer's Disease, Glioma, Neurilemmoma, Neuroblastoma, Schizophrenia
+hsa-mir-29b-1	Alzheimer's Disease, Glioma, Schizophrenia
+hsa-mir-29b-2	Alzheimer's Disease, Glioma, Intracranial Aneurysm
+hsa-mir-29b	Alzheimer's Disease, Cerebral Aneurysm, Cerebral Ischemia, Encephalitis, Glioma, Meningioma, Neuroblastoma, Schizophrenia
+hsa-mir-29c	Alzheimer's Disease, Glioma, Meningioma, Neurilemmoma, Schizophrenia
+hsa-mir-300	Glioma
+hsa-mir-301	Alzheimer's Disease, Epilepsy, Glioma
+hsa-mir-302b	Glioma
+hsa-mir-302c	Glioma
+hsa-mir-302d	Glioma
+hsa-mir-302f	Alzheimer's Disease
+hsa-mir-302	Glioma, Neurodegenerative Disease
+hsa-mir-30a-5p	Glioma
+hsa-mir-30	Acute Ischemic Stroke, Glioma
+hsa-mir-30a	Epilepsy, Glioma, Neuroblastoma, Neuroendocrine Tumor, Schizophrenia
+hsa-mir-30b	Amyotrophic Lateral Sclerosis, Epilepsy, Glioma, Schizophrenia
+hsa-mir-30c-1	Glioma
+hsa-mir-30c-2	Glioma
+hsa-mir-30c	Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-30d	Schizophrenia
+hsa-mir-30e	Glioma, Schizophrenia
+hsa-mir-3125	Glioma
+hsa-mir-3125_st	Glioma
+hsa-mir-3135b	Autism Spectrum Disorder
+hsa-mir-3138	Neuroepithelial Tumor
+hsa-mir-3143	Autism Spectrum Disorder
+hsa-mir-3146	Intracranial Aneurysm
+hsa-mir-3160-1	Autism Spectrum Disorder
+hsa-mir-3160-2	Autism Spectrum Disorder
+hsa-mir-3163	Glioma
+hsa-mir-3177	Aneurysmal Subarachnoid Hemorrhage
+hsa-mir-3189	Glioma
+hsa-mir-31	Alzheimer's Disease, Glioma
+hsa-mir-320a	Epilepsy, Glioma
+hsa-mir-320b	Acute Ischemic Stroke
+hsa-mir-320	Cerebral Ischemia, Glioma
+hsa-mir-320c	Glioma
+hsa-mir-320d	Acute Ischemic Stroke, Glioma
+hsa-mir-320e	Glioma
+hsa-mir-323a	Epilepsy, Glioma
+hsa-mir-323	Alzheimer's Disease, Glioma, Mild Cognitive Impairment
+hsa-mir-323b	Glioma
+hsa-mir-324	Alzheimer's Disease, Aneurysmal Subarachnoid Hemorrhage, Glioma
+hsa-mir-325	Glioma
+hsa-mir-326	Brain Neoplasms, Glioma
+hsa-mir-328	Glioma, Neurodegenerative Disease
+hsa-mir-329-1	Glioma
+hsa-mir-329-2	Glioma
+hsa-mir-329	Glioma, Neuroblastoma
+hsa-mir-32	Glioma
+hsa-mir-330	Acute Ischemic Stroke, Alzheimer's Disease, Glioma
+hsa-mir-331-3p	Glioma
+hsa-mir-331-3p_st	Glioma
+hsa-mir-331	Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-335	Acute Ischemic Stroke, Depression Disorder, Glioma, Meningioma, Neuroblastoma, Schizophrenia
+hsa-mir-336	Amyotrophic Lateral Sclerosis
+hsa-mir-337	Glioma, Neuroblastoma, Neurodegenerative Disease
+hsa-mir-338	Amyotrophic Lateral Sclerosis, Glioma, Huntington's Disease, Neuroblastoma, Neurodegenerative Disease, Schizophrenia
+hsa-mir-339	Alzheimer's Disease, Glioma, Neuroblastoma, Neuroendocrine Tumor
+hsa-mir-33	Acute Ischemic Stroke, Alzheimer's Disease, Glioma
+hsa-mir-340	Acute Ischemic Stroke, Glioma, Neuroblastoma
+hsa-mir-342-3p	Glioma
+hsa-mir-342	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Epilepsy, Glioma, Neurodegenerative Disease
+hsa-mir-345	Glioma, Neuroendocrine Tumor
+hsa-mir-346	Glioma, Schizophrenia
+hsa-mir-34a-5	Glioma
+hsa-mir-34a	Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Bipolar Disorder, Brain Neoplasms, Epilepsy, Glioma, Huntington's Disease, Neuroblastoma, Schizophrenia
+hsa-mir-34b	Autism Spectrum Disorder, Huntington's Disease, Intracranial Aneurysm, Neuroblastoma
+hsa-mir-34c	Alzheimer's Disease, Glioma, Intracranial Aneurysm, Neuroblastoma
+hsa-mir-34	Neurodegenerative Disease, Schizophrenia
+hsa-mir-361-5p	Glioma
+hsa-mir-361	Cerebral Cavernous Malformation, Glioma
+hsa-mir-3622b	Alzheimer's Disease
+hsa-mir-362	Glioma, Intracerebral Hemorrhage, Neuroblastoma
+hsa-mir-363	Autism Spectrum Disorder, Glioma, Glioma, Neuroblastoma
+hsa-mir-365	Glioma, Schizophrenia
+hsa-mir-367	Glioma, Neurodegenerative Disease
+hsa-mir-368	Glioma
+hsa-mir-370	Cerebral Aneurysm, Cerebral Cavernous Malformation, Glioma, Mild Cognitive Impairment, Neuroblastoma
+hsa-mir-371a	Glioma
+hsa-mir-372	Cerebellum Cancer, Glioma
+hsa-mir-373	Cerebellum Cancer, Glioma
+hsa-mir-374	Glioma
+hsa-mir-375	Alzheimer's Disease, Glioma, Neuroblastoma
+hsa-mir-376a-2	Glioma
+hsa-mir-376a	Glioma
+hsa-mir-376b	Cerebral Ischemia, Glioma
+hsa-mir-376	Glioma
+hsa-mir-377	Glioma
+hsa-mir-378b	Autism Spectrum Disorder
+hsa-mir-378	Epilepsy, Glioma
+hsa-mir-380	Neuroblastoma
+hsa-mir-381	Autism Spectrum Disorder, Glioma
+hsa-mir-382	Mild Cognitive Impairment
+hsa-mir-383	Glioma
+hsa-mir-384	Glioma
+hsa-mir-409	Alzheimer's Disease, Encephalomyelitis
+hsa-mir-410	Glioma, Neuroblastoma
+hsa-mir-421	Neuroblastoma
+hsa-mir-422a	Glioma
+hsa-mir-423	Glioma
+hsa-mir-424	Glioma, Neuroblastoma
+hsa-mir-425	Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-4262	Multiple Sclerosis
+hsa-mir-4284	Glioma
+hsa-mir-429	Glioma
+hsa-mir-4301	Autism Spectrum Disorder
+hsa-mir-4304	Autism Spectrum Disorder
+hsa-mir-4306	Neurodegenerative Disease
+hsa-mir-431	Autism Spectrum Disorder, Glioma
+hsa-mir-432	Autism Spectrum Disorder, Neuroblastoma, Schizophrenia
+hsa-mir-433	Depression Disorder
+hsa-mir-4429	Acute Ischemic Stroke
+hsa-mir-4432	Alzheimer's Disease
+hsa-mir-4436b-1	Autism Spectrum Disorder
+hsa-mir-4436b-2	Autism Spectrum Disorder
+hsa-mir-4437	Multiple Sclerosis
+hsa-mir-4443	Glioma
+hsa-mir-4446	Epilepsy
+hsa-mir-4449	Schizophrenia
+hsa-mir-4467	Alzheimer's Disease
+hsa-mir-4487	Neuroblastoma
+hsa-mir-4489	Glioma
+hsa-mir-449	Bipolar Disorder, Glioma, Schizophrenia
+hsa-mir-4505	Anxiety Disorder
+hsa-mir-451a	Amyotrophic Lateral Sclerosis, Epilepsy, Glioma
+hsa-mir-451	Glioma, Neuroblastoma
+hsa-mir-4529	Autism Spectrum Disorder
+hsa-mir-452	Glioma
+hsa-mir-454-3p	Glioma
+hsa-mir-454	Glioma
+hsa-mir-455	Alzheimer's Disease, Glioma, Intracranial Aneurysm
+hsa-mir-4640	Autism Spectrum Disorder
+hsa-mir-4646	Autism Spectrum Disorder
+hsa-mir-4648	Alzheimer's Disease
+hsa-mir-4655	Autism Spectrum Disorder
+hsa-mir-4675	Alzheimer's Disease
+hsa-mir-467a	Cerebral Malaria
+hsa-mir-4688	Autism Spectrum Disorder
+hsa-mir-4697	Parkinson's Disease
+hsa-mir-4717	Anxiety Disorder
+hsa-mir-4758	Glioma
+hsa-mir-4766	Autism Spectrum Disorder
+hsa-mir-483	Alzheimer's Disease, Glioma
+hsa-mir-484	Autism Spectrum Disorder, Glioma
+hsa-mir-485-3p	Glioma
+hsa-mir-485	Anxiety Disorder
+hsa-mir-486	Autism Spectrum Disorder, Cerebral Malaria, Glioma
+hsa-mir-487b	Acute Ischemic Stroke, Neuroblastoma
+hsa-mir-489	Glioma
+hsa-mir-491	Acute Cerebral Infarction, Depression Disorder, Glioma, Mild Cognitive Impairment
+hsa-mir-494-3p	Glioma
+hsa-mir-494	Glioma
+hsa-mir-495	Glioma
+hsa-mir-496	Amyotrophic Lateral Sclerosis, Neuroblastoma
+hsa-mir-497	Cerebral Ischemia, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-499a	Glioma
+hsa-mir-5004	Autism Spectrum Disorder
+hsa-mir-500a-5p	Glioma
+hsa-mir-500a	Glioma
+hsa-mir-5010	Alzheimer's Disease
+hsa-mir-501	Glioma
+hsa-mir-502-5p	Glioma
+hsa-mir-502	Aneurysmal Subarachnoid Hemorrhage
+hsa-mir-503	Glioma
+hsa-mir-504	Amyotrophic Lateral Sclerosis, Glioma, Neuroblastoma
+hsa-mir-505	Alzheimer's Disease, Glioma
+hsa-mir-506	Glioma
+hsa-mir-5088	Alzheimer's Disease
+hsa-mir-508	Glioma
+hsa-mir-5096	Glioma
+hsa-mir-509	Anxiety Disorder
+hsa-mir-511	Alzheimer's Disease, Depression Disorder
+hsa-mir-512	Alzheimer's Disease
+hsa-mir-513c	Glioma
+hsa-mir-514a-3p	Glioma
+hsa-mir-516-1	Frontotemporal Lobar Degeneration
+hsa-mir-516-2	Frontotemporal Lobar Degeneration
+hsa-mir-518b	Glioma
+hsa-mir-519d	Glioma
+hsa-mir-520c	Glioma
+hsa-mir-520f-3p	Glioma
+hsa-mir-520f	Glioma
+hsa-mir-520g	Brain Neoplasms
+hsa-mir-522	Glioma
+hsa-mir-524	Glioma
+hsa-mir-527	Glioma
+hsa-mir-532	Alzheimer's Disease, Amyotrophic Lateral Sclerosis
+hsa-mir-539	Autism Spectrum Disorder, Glioma
+hsa-mir-542	Glioma, Neuroblastoma
+hsa-mir-544a	Glioma
+hsa-mir-544b	Glioma
+hsa-mir-545	Alzheimer's Disease
+hsa-mir-548ab	Alzheimer's Disease
+hsa-mir-548an	Multiple Sclerosis
+hsa-mir-548b-5p	Glioma
+hsa-mir-548b	Frontotemporal Lobar Degeneration
+hsa-mir-548c	Frontotemporal Lobar Degeneration
+hsa-mir-548	Glioma
+hsa-mir-548h-4	Epilepsy
+hsa-mir-548x	Glioma
+hsa-mir-548x_st	Glioma
+hsa-mir-549a	Glioma
+hsa-mir-550-2	Autism Spectrum Disorder
+hsa-mir-550a-1	Autism Spectrum Disorder
+hsa-mir-550a	Amyotrophic Lateral Sclerosis
+hsa-mir-552	Narcolepsy
+hsa-mir-5582	Alzheimer's Disease, Autism Spectrum Disorder
+hsa-mir-558	Neuroblastoma
+hsa-mir-566	Glioma
+hsa-mir-5691	Alzheimer's Disease
+hsa-mir-571	Frontotemporal Lobar Degeneration
+hsa-mir-572	Neuroblastoma
+hsa-mir-574-3	Glioma
+hsa-mir-574-3p	Glioma
+hsa-mir-576-5p	Glioma
+hsa-mir-576	Glioma
+hsa-mir-577	Glioma
+hsa-mir-579	Anxiety Disorder
+hsa-mir-584	Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-589	Glioma
+hsa-mir-590-3p	Glioma
+hsa-mir-590	Alzheimer's Disease, Glioma, Intracerebral Hemorrhage
+hsa-mir-592	Glioma
+hsa-mir-595	Neuroblastoma
+hsa-mir-598	Autism Spectrum Disorder, Glioma
+hsa-mir-599	Glioma
+hsa-mir-602	Glioma
+hsa-mir-603	Glioma
+hsa-mir-608	Anxiety Disorder
+hsa-mir-610	Glioma
+hsa-mir-612	Glioma
+hsa-mir-613	Alzheimer's Disease, Glioma
+hsa-mir-615	Glioma
+hsa-mir-622	Glioma
+hsa-mir-625	Glioma
+hsa-mir-626	Glioma
+hsa-mir-628	Glioma, Neuroblastoma
+hsa-mir-632	Frontotemporal Dementia
+hsa-mir-637	Glioma
+hsa-mir-638	Amyotrophic Lateral Sclerosis, Glioma
+hsa-mir-646	Glioma
+hsa-mir-650	Glioma
+hsa-mir-652	Autism Spectrum Disorder, Bipolar Disorder, Glioma, Schizophrenia
+hsa-mir-653-5p	Neuroblastoma
+hsa-mir-656	Glioma
+hsa-mir-659	Neuroblastoma
+hsa-mir-660	Neuroendocrine Tumor
+hsa-mir-661	Glioma
+hsa-mir-663a	Autism Spectrum Disorder, Neuroblastoma
+hsa-mir-663	Alzheimer's Disease, Anxiety Disorder, Glioma, Neurodegenerative Disease
+hsa-mir-671	Glioma
+hsa-mir-6721	Autism Spectrum Disorder
+hsa-mir-6745	Autism Spectrum Disorder
+hsa-mir-675	Glioma, Neuroblastoma
+hsa-mir-6780b	Autism Spectrum Disorder
+hsa-mir-6798	Glioma
+hsa-mir-6832	Autism Spectrum Disorder
+hsa-mir-6833	Autism Spectrum Disorder
+hsa-mir-6834	Autism Spectrum Disorder
+hsa-mir-6836	Autism Spectrum Disorder
+hsa-mir-6842	Autism Spectrum Disorder
+hsa-mir-6843	Autism Spectrum Disorder
+hsa-mir-6873	Autism Spectrum Disorder
+hsa-mir-6889	Autism Spectrum Disorder
+hsa-mir-6891	Autism Spectrum Disorder
+hsa-mir-690	Neuroblastoma
+hsa-mir-708	Alzheimer's Disease, Bipolar Disorder, Glioma
+hsa-mir-7154	Alzheimer's Disease, Autism Spectrum Disorder
+hsa-mir-7-1	Autism Spectrum Disorder, Glioma, Neurilemmoma, Neuroblastoma, Neurofibromatosis, Schizophrenia
+hsa-mir-7-2	Autism Spectrum Disorder, Glioma, Neurilemmoma, Neuroblastoma, Neurofibromatosis, Schizophrenia
+hsa-mir-7-3	Autism Spectrum Disorder, Glioma, Neurilemmoma, Neurofibromatosis, Schizophrenia
+hsa-mir-744	Glioma
+hsa-mir-758	Glioma
+hsa-mir-7-5p	Glioma
+hsa-mir-765	Anxiety Disorder
+hsa-mir-766	Alzheimer's Disease
+hsa-mir-767	Glioma
+hsa-mir-770	Glioma
+hsa-mir-7	Alzheimer's Disease, Brain Neoplasms, Glioma, Neuroblastoma, Neurodegenerative Disease, Schizophrenia
+hsa-mir-8064	Autism Spectrum Disorder
+hsa-mir-8072	Autism Spectrum Disorder
+hsa-mir-873	Glioma
+hsa-mir-874-3p	Glioma
+hsa-mir-874	Mild Cognitive Impairment
+hsa-mir-877	Autism Spectrum Disorder
+hsa-mir-885	Alzheimer's Disease, Autism Spectrum Disorder, Glioma, Neuroblastoma
+hsa-mir-9-1	Alzheimer's Disease, Brain Neoplasms, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-92-1	Autism Spectrum Disorder, Brain Neoplasms, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-922	Alzheimer's Disease, Frontotemporal Lobar Degeneration
+hsa-mir-92-2	Autism Spectrum Disorder, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-92a	Alzheimer's Disease, Autism Spectrum Disorder, Glioma, Intracranial Aneurysm, Schizophrenia
+hsa-mir-9-2	Alzheimer's Disease, Brain Neoplasms, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-92b	Brain Neoplasms, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-937	Alzheimer's Disease
+hsa-mir-938	Glioma
+hsa-mir-93	Acute Ischemic Stroke, Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Brain Neoplasms, Glioma, Neuroblastoma, Neuroendocrine Tumor
+hsa-mir-9-3	Alzheimer's Disease, Bipolar Disorder, Brain Neoplasms, Glioma, Neuroblastoma, Schizophrenia
+hsa-mir-95	Autism Spectrum Disorder, Cerebral Cavernous Malformation, Glioma
+hsa-mir-96	Amyotrophic Lateral Sclerosis, Glioma, Neurodegenerative Disease
+hsa-mir-98	Alzheimer's Disease, Glioma, Schizophrenia
+hsa-mir-99a	Glioma, Neuroblastoma
+hsa-mir-99b	Glioma
+hsa-mir-9	Acute Ischemic Stroke, Alzheimer's Disease, Amyotrophic Lateral Sclerosis, Cerebral Aneurysm, Glioma, Schizophrenia
+hsa-mir-9a	Epilepsy
+HSD17B10	Intellectual Disability
+HSD17B12	Neuroblastoma
+HSD17B1	Parkinson's Disease
+HSD17B7	Alzheimer's Disease
+HSP70	Glioma
+HSP90AB6P	Autism Spectrum Disorder
+HSPA1A	Autism Spectrum Disorder
+HSPA1B	Autism Spectrum Disorder
+HSPA1L	Autism Spectrum Disorder
+HSPA8P17	Autism Spectrum Disorder
+HSPA8P5	Alzheimer's Disease
+HSPA9	Autism Spectrum Disorder
+HSPB1	Charcot-Marie-Tooth Disease, Glioma
+HSPB8	Charcot-Marie-Tooth Disease
+HSPD1	Autism Spectrum Disorder
+HSPD1P6	Autism Spectrum Disorder
+HSPE1	Autism Spectrum Disorder
+HSPE1-MOB4	Autism Spectrum Disorder
+HSPG2	Alzheimer's Disease
+HSV-Tk	Glioma
+HTERT	Glioma
+HTR2C	Depression Disorder
+HTR3A	Multiple Sclerosis
+HTR6	Alzheimer's Disease
+HTR7	Alzheimer's Disease
+HTRA1	Alzheimer's Disease, Stroke
+HTRA2	Parkinson's Disease
+HTT-AS	Huntington's Disease
+HTT	Huntington's Disease
+HULC	Glioma
+Huntingtin	Glioma
+HUSEYO	Parkinson's Disease
+HUWE1	Intellectual Disability
+HYAL2	Alzheimer's Disease
+HYDIN	Hydrocephalus
+HYI	Alzheimer's Disease
+HYKK	Autism Spectrum Disorder
+IBA57	Autism Spectrum Disorder
+ICOSLG	Glioma
+ID3	Alzheimer's Disease
+IDH1	Glioma
+IDH2	Glioma
+IDH3A	Glioma
+IDH	Glioma
+IDO1	Glioma
+IER3	Autism Spectrum Disorder
+IER3IP1	Epilepsy, Intellectual Disability
+IFI30	Multiple Sclerosis
+IFI44	Autism Spectrum Disorder
+IFI44L	Autism Spectrum Disorder
+IFITM3	Multiple Sclerosis
+IFITM4P	Autism Spectrum Disorder
+IFNA6	Epilepsy
+IFNB1	Multiple Sclerosis
+IFNG-AS1	Multiple Sclerosis
+IFNGR1	Autism Spectrum Disorder
+IFNGR2	Multiple Sclerosis
+IFNK	Amyotrophic Lateral Sclerosis
+IFRD1	Amyotrophic Lateral Sclerosis
+IFT140	Epilepsy
+IFT27	Alzheimer's Disease
+IGBP1	Agenesis Corpus Callosum
+IGF1R	Alzheimer's Disease, Glioma
+IGFBP-2	Glioma
+IGFBP4	Alzheimer's Disease
+IGFN1	Muscular Dystrophy
+IGH	Alzheimer's Disease
+IGSF11	Parkinson's Disease
+IGSF23	Alzheimer's Disease, Multiple Sclerosis
+IGSF9B	Autism Spectrum Disorder, Parkinson's Disease
+IKZF1	Alzheimer's Disease, Multiple Sclerosis
+IKZF2	Multiple Sclerosis
+IKZF3	Multiple Sclerosis
+IL10RB	Multiple Sclerosis, Narcolepsy
+IL12A-AS1	Multiple Sclerosis
+IL12A	Multiple Sclerosis
+IL12B	Multiple Sclerosis
+IL13	Glioma
+IL-13R2	Glioma
+IL-13Rα2	Glioma
+IL15RA	Neuroblastoma
+IL17B	Charcot-Marie-Tooth Disease
+IL17D	Alzheimer's Disease
+IL18BP	Autism Spectrum Disorder
+IL19	Alzheimer's Disease
+IL1R2	Autism Spectrum Disorder, Parkinson's Disease
+IL1RAPL1	Autism Spectrum Disorder, Intellectual Disability
+IL1RN	Stroke
+IL20RA	Multiple Sclerosis
+IL20RB	Autism Spectrum Disorder
+IL21	Alzheimer's Disease
+IL22RA1	Alzheimer's Disease, Multiple Sclerosis
+IL22RA2	Multiple Sclerosis
+IL23A	Multiple Sclerosis
+IL2RA	Multiple Sclerosis
+IL4	Stroke
+IL6	Glioma, Multiple Sclerosis
+IL7	Multiple Sclerosis
+IL7R	Multiple Sclerosis
+ILDR1	Multiple Sclerosis
+ILDR2	Autism Spectrum Disorder
+ILF2	Glioma
+ILF3	Stroke
+IMMP2L	Alzheimer's Disease, Autism Spectrum Disorder, Tourette Syndrome
+IMP3	Glioma
+IMPA2	Stroke
+IMPDH1	Glioma
+INA	Autism Spectrum Disorder, Glioma
+INAVA	Multiple Sclerosis
+INFAR1	Narcolepsy
+INHCAP	Alzheimer's Disease, Autism Spectrum Disorder
+INO80C	Parkinson's Disease
+INO80E	Autism Spectrum Disorder
+INPP5D	Alzheimer's Disease
+INPP5F	Parkinson's Disease
+INPPD5	Alzheimer's Disease
+INSIG1	Alzheimer's Disease
+INTS8	Multiple Sclerosis
+IP6K1	Alzheimer's Disease
+IP6K2	Parkinson's Disease
+IP6K3	Multiple Sclerosis
+IPO13	Autism Spectrum Disorder
+IPW	Prader-Willi Syndrome
+IQCB1	Multiple Sclerosis
+IQCC	Alzheimer's Disease
+IQCK	Alzheimer's Disease
+IQGAP1	Multiple Sclerosis
+IQSEC2	Epilepsy, Intellectual Disability
+IQUB	Alzheimer's Disease
+IREB2	Autism Spectrum Disorder
+IRF1-AS1	Multiple Sclerosis
+IRF6	Alzheimer's Disease
+IRF8	Multiple Sclerosis
+IRS1	Glioma
+ISL2	Glioma
+ISM1	Parkinson's Disease
+IST1	Autism Spectrum Disorder
+ISYNA1	Alzheimer's Disease
+ITGA1	Alzheimer's Disease
+ITGA2B	Parkinson's Disease
+ITGA4	Multiple Sclerosis
+ITGA6	Alzheimer's Disease
+ITGA7	Muscular Dystrophy
+ITGA8	Autism Spectrum Disorder, Parkinson's Disease
+ITGB2	Alzheimer's Disease
+ITGB5	Alzheimer's Disease
+ITGB6	Alopecia with Mental Retardation
+ITIH1	Autism Spectrum Disorder
+ITIH3	Autism Spectrum Disorder, Parkinson's Disease
+ITIH4-AS1	Autism Spectrum Disorder
+ITIH4	Autism Spectrum Disorder, Parkinson's Disease
+ITM2C	Alzheimer's Disease
+ITPKB	Alzheimer's Disease, Parkinson's Disease
+ITPKC	Alzheimer's Disease
+ITPR1	Multiple Sclerosis
+ITPR2	Amyotrophic Lateral Sclerosis
+ITPR3	Multiple Sclerosis
+ITPRIPL2	Alzheimer's Disease
+ITSN1	Down Syndrome, Glioma
+ITSN2	Alzheimer's Disease
+IVD	Coma
+JADE2	Alzheimer's Disease, Multiple Sclerosis
+JAG1	Glioma
+JAK1	Multiple Sclerosis
+JAKMIP3	Alzheimer's Disease
+JAM2	Down Syndrome
+JAM3	Alzheimer's Disease
+JAML	Alzheimer's Disease
+JARID2	Multiple Sclerosis
+JAZF1	Multiple Sclerosis
+JCAD	Alzheimer's Disease
+JDP2	Multiple Sclerosis
+JMJD1C	Autism Spectrum Disorder
+JMJD6	Glioma
+JPH3	Huntington's Disease
+JPT2	Epilepsy
+JRK	Epilepsy
+K27	Glioma
+KALRN	Amyotrophic Lateral Sclerosis, Cerebral Palsy, Stroke
+KANK1	Cerebral Palsy, Intellectual Disability
+KANSL1	Alzheimer's Disease, Autism Spectrum Disorder, Intellectual Disability, Parkinson's Disease
+KANSL1L	Neuroblastoma
+KAT6A	Intellectual Disability
+KAT8	Alzheimer's Disease, Parkinson's Disease
+KATNBL1	Autism Spectrum Disorder
+KAZN	Parkinson's Disease
+KBTBD8	Alzheimer's Disease
+KCNA1	Epilepsy
+KCNA2-AS	Neuropathic pain
+KCNA2	Epilepsy, Intellectual Disability
+KCNA5	Stroke
+KCNB1	Epilepsy
+KCNB2	Multiple Sclerosis
+KCNE2	Stroke
+KCNH2	Glioma
+KCNIP3	Alzheimer's Disease, Parkinson's Disease
+KCNIP4	Autism Spectrum Disorder
+KCNJ10	Autism Spectrum Disorder, Epilepsy
+KCNJ11	Epilepsy
+KCNJ13	Autism Spectrum Disorder
+KCNJ15	Down Syndrome
+KCNJ6	Down Syndrome
+KCNK15	Alzheimer's Disease
+KCNK3	Stroke
+KCNMA1	Epilepsy
+KCNN2	Alzheimer's Disease, Autism Spectrum Disorder
+KCNN3	Alzheimer's Disease
+KCNN4	Alzheimer's Disease
+KCNQ1	Alzheimer's Disease, Stroke
+KCNQ1OT1	Alzheimer's Disease
+KCNQ2	Alzheimer's Disease, Benign Familial Neonatal Seizures, Epilepsy
+KCNQ3	Autism Spectrum Disorder, Benign Familial Neonatal Seizures, Epilepsy
+KCNS3	Amyotrophic Lateral Sclerosis, Parkinson's Disease
+KCNT1	Autosomal Dominant Nocturnal Frontal Lobe Epilepsy, Epilepsy
+KCNV1	Epilepsy
+KCNV2	Alzheimer's Disease
+KCP	Multiple Sclerosis
+KCTD13	Autism Spectrum Disorder
+KCTD16	Autism Spectrum Disorder
+KCTD2	Alzheimer's Disease
+KCTD7	Epilepsy
+KCTD8	Alzheimer's Disease
+KDM1B	Alzheimer's Disease
+KDM2B	Alzheimer's Disease
+KDM3B	Autism Spectrum Disorder
+KDM4A	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder
+KDM4A-AS1	Autism Spectrum Disorder
+KDM5C	Intellectual Disability
+KDM5D	Autism Spectrum Disorder, Glioma
+KDM6B	Glioma
+KDR	Autism Spectrum Disorder, Glioma
+KHDRBS2	Autism Spectrum Disorder
+KHDRBS2-OT1	Alzheimer's Disease
+KHDRBS3	Autism Spectrum Disorder
+KHSRP	Alzheimer's Disease
+KIAA0040	Alzheimer's Disease
+KIAA0319	Dyslexia
+KIAA0513	Amyotrophic Lateral Sclerosis
+KIAA0930	Cerebral Palsy
+KIAA1549L	Alzheimer's Disease
+KIAA2013	Alzheimer's Disease
+KIF1A	Tuberous Sclerosis
+KIF1B	Charcot-Marie-Tooth Disease, Multiple Sclerosis
+KIF20A	Autism Spectrum Disorder
+KIF21A	Motor Neurone Disease
+KIF21B	Autism Spectrum Disorder, Motor Neurone Disease, Multiple Sclerosis
+KIF26B	Alzheimer's Disease, Autism Spectrum Disorder
+KIF27	Multiple Sclerosis
+KIF3A	Motor Neurone Disease
+KIF3C	Alzheimer's Disease
+KIF4A	Epilepsy, Intellectual Disability
+KIF4B	Glioma
+KIF5A	Amyotrophic Lateral Sclerosis
+KIF5B	Stroke
+KIF5C	Autism Spectrum Disorder, Epilepsy
+KIFAP3	Amyotrophic Lateral Sclerosis
+KIFC1	Autism Spectrum Disorder
+KIR3DL2	Alzheimer's Disease
+KIRREL3	Intellectual Disability
+KISS1	Glioma
+KITLG	Glioma
+KIZ	Autism Spectrum Disorder
+KLC1	Autism Spectrum Disorder
+KLF3	Alzheimer's Disease, Multiple Sclerosis
+KLF6	Glioma, Multiple Sclerosis
+KLF8	Autism Spectrum Disorder
+KLHDC1	Parkinson's Disease
+KLHL11	Autism Spectrum Disorder
+KLHL29	Parkinson's Disease
+KLHL32	Multiple Sclerosis
+KLHL35	Alzheimer's Disease
+KLHL4	Alzheimer's Disease
+KLHL7	Parkinson's Disease
+KLK6	Parkinson's Disease
+KL	Multiple Sclerosis, Stroke
+KLRB1	Glioma
+KMT2A	Autism Spectrum Disorder
+KMT2C	Glioma
+KMT2D	Glioma
+KMT2E-AS1	Autism Spectrum Disorder
+KMT2E	Autism Spectrum Disorder
+KMT5A	Autism Spectrum Disorder
+KMT5B	Alzheimer's Disease, Glioma
+KPNA1	Parkinson's Disease
+KPNA7	Epilepsy
+KPNB1	Multiple Sclerosis
+KPTN	Epilepsy, Intellectual Disability
+KRAS	Glioma
+KRIT1	Stroke
+KRT18P24	Amyotrophic Lateral Sclerosis
+KRT18P45	Alzheimer's Disease
+KRTAP4-11	Glioma
+KRTAP4-3	Alzheimer's Disease
+KRTAP4-7	Glioma
+KRTCAP2	Parkinson's Disease
+KTN1	Parkinson's Disease
+L1CAM	Agenesis Corpus Callosum, Aphasia, Glioma, Hydrocephalus, X-linked Hydrocephalus
+L1TD1	Neuroblastoma
+L3MBTL2	Autism Spectrum Disorder
+L3MBTL3	Multiple Sclerosis
+L3MBTL4	Alzheimer's Disease
+LA16c-390E6.3	Autism Spectrum Disorder
+LAMA1	Alzheimer's Disease
+LAMA2	Epilepsy, Muscular Dystrophy
+LAMA3	Amyotrophic Lateral Sclerosis
+LAMA5	Neuroblastoma
+LAMB1	Encephalitis
+LAMB3	Glioma
+LAMC1	Encephalitis
+LAMP1	Alzheimer's Disease
+LAMP3	Parkinson's Disease
+LAMTOR3	Autism Spectrum Disorder, Glioma
+LARGE1	Muscular Dystrophy
+LARGE2	Muscular Dystrophy
+LARS1	Alzheimer's Disease
+LBR	Epilepsy
+LCE4A	Alzheimer's Disease
+LCE6A	Alzheimer's Disease
+LCK	Multiple Sclerosis
+LCN6	Multiple Sclerosis
+LCORL	Alzheimer's Disease, Parkinson's Disease
+LDB1	Alzheimer's Disease
+LDB3	Muscular Dystrophy
+LDHB	Glioma
+LDLRAD4	Parkinson's Disease
+LDLR	Glioma
+LEF1	Multiple Sclerosis
+LEKR1	Multiple Sclerosis
+LEMD1	Cerebral Palsy
+LEMD2	Alzheimer's Disease
+LEPROTL1	Alzheimer's Disease
+let-7g-5p	Glioma
+LETM2	Autism Spectrum Disorder
+LFNG	Alzheimer's Disease
+LGALS3	Alzheimer's Disease
+LGALS3BP	Alzheimer's Disease
+LGI1	Autosomal Dominant Partial Epilepsy with Auditory Features, Epilepsy, Glioma
+LGI2	Epilepsy
+LGI3	Epilepsy
+LGI4	Epilepsy
+LGR5	Glioma
+LGR6	Restless legs Syndrome
+LHCGR	Autism Spectrum Disorder
+LHFPL2	Parkinson's Disease
+LHFPL3-AS2	Autism Spectrum Disorder
+LHFPL3	Autism Spectrum Disorder
+LHX1	Alzheimer's Disease
+LHX8	Alzheimer's Disease
+LIF	Glioma
+LIFR	Dysautonomia, Glioma
+LILRA2	Alzheimer's Disease
+LILRB5	Alzheimer's Disease
+LIMCH1	Autism Spectrum Disorder
+LIMK2	Multiple Sclerosis
+LIMS2	Alzheimer's Disease
+LIN28B	Glioma, Neuroblastoma
+LINC00032	Narcolepsy
+LINC00051	Autism Spectrum Disorder, Parkinson's Disease
+LINC00158	Alzheimer's Disease
+LINC00163	Narcolepsy
+LINC00235	Anorexia Nervosa
+LINC00240	Autism Spectrum Disorder
+LINC00243	Autism Spectrum Disorder
+LINC00271	Multiple Sclerosis, Schizophrenia
+LINC00290	Alzheimer's Disease
+LINC00299	Intellectual Disability, Neurodevelopmental Disability
+LINC00308	Down Syndrome
+LINC00336	Autism Spectrum Disorder
+LINC00343	Alzheimer's Disease
+LINC00376	Autism Spectrum Disorder
+LINC00423	Multiple Sclerosis
+LINC00458	Stroke
+LINC00461	Autism Spectrum Disorder
+LINC00467	Neuroblastoma
+LINC00474	Intracranial Aneurysm
+LINC00476	Parkinson's Disease
+LINC00515	Alzheimer's Disease
+LINC00558	Epilepsy, Intracranial Aneurysm, Stroke
+LINC00578	Major Depression Disorder
+LINC00581	West Syndrome
+LINC00598	Narcolepsy
+LINC00603	Multiple Sclerosis
+LINC00618	Glioma
+LINC00634	Alzheimer's Disease, Autism Spectrum Disorder
+LINC00641	Glioma
+LINC00692	Alzheimer's Disease
+LINC00693	Parkinson's Disease
+LINC00708	Multiple Sclerosis
+LINC00709	Stroke
+LINC00852	Autism Spectrum Disorder
+LINC00877	Alzheimer's Disease
+LINC00917	Alzheimer's Disease
+LINC00922	Autism Spectrum Disorder
+LINC00933	Autism Spectrum Disorder
+LINC00942	Autism Spectrum Disorder
+LINC01004	Autism Spectrum Disorder
+LINC01012	Autism Spectrum Disorder
+LINC01015	Autism Spectrum Disorder
+LINC01019	Epilepsy
+LINC01029	Cognitive Functions and Neuronal plasticity
+LINC01060	Alzheimer's Disease
+LINC01080	Alzheimer's Disease
+LINC01089	Glioma
+LINC01090	Post-traumatic Stress Disorder
+LINC01108	Multiple Sclerosis
+LINC01116	Glioma
+LINC01117	Alzheimer's Disease
+LINC01122	Alzheimer's Disease
+LINC01146	Multiple Sclerosis
+LINC01151	Alzheimer's Disease, Autism Spectrum Disorder
+LINC01184	Alzheimer's Disease
+LINC01185	Alzheimer's Disease, Multiple Sclerosis
+LINC01198	Glioma
+LINC01237	Intracranial Aneurysm
+LINC01239	Autism Spectrum Disorder
+LINC01243	Alzheimer's Disease
+LINC01262	Parkinson's Disease
+LINC01271	Alzheimer's Disease
+LINC01287	Amyotrophic Lateral Sclerosis
+LINC01288	Autism Spectrum Disorder
+LINC01304	Stroke
+LINC01353	Multiple Sclerosis
+LINC01360	Autism Spectrum Disorder
+LINC01394	Stroke
+LINC01411	Stroke
+LINC01416	Autism Spectrum Disorder
+LINC01419	Alzheimer's Disease
+LINC01426	Glioma
+LINC01436	Down Syndrome
+LINC01438	Stroke
+LINC01470	Autism Spectrum Disorder
+LINC01503	Glioma
+LINC01505	Alzheimer's Disease
+LINC01547	Down Syndrome
+LINC01550	Cerebral Palsy
+LINC01556	Autism Spectrum Disorder
+LINC01559	Huntington's Disease
+LINC01561	Glioma
+LINC01574	Glioma
+LINC01587	Neuroblastoma
+LINC01616	Alzheimer's Disease
+LINC01623	Autism Spectrum Disorder
+LINC01648	Autism Spectrum Disorder
+LINC01671	Alzheimer's Disease
+LINC01712	Alzheimer's Disease
+LINC01776	Autism Spectrum Disorder
+LINC01789	Alzheimer's Disease
+LINC01812	Restless legs Syndrome
+LINC01868	Alzheimer's Disease
+LINC01930	Schizophrenia
+LINC01965	Alzheimer's Disease
+LINC01967	Multiple Sclerosis
+LINC02006	Stroke
+LINC02008	Alzheimer's Disease
+LINC02015	Glioma
+LINC02033	Autism Spectrum Disorder
+LINC02055	Amyotrophic Lateral Sclerosis
+LINC02058	Autism Spectrum Disorder
+LINC02098	Alzheimer's Disease
+LINC02109	Epilepsy
+LINC02130	Intracranial Aneurysm
+LINC02151	Major Depression Disorder
+LINC02152	Major Depression Disorder
+LINC02153	Major Depression Disorder
+LINC02181	Alzheimer's Disease
+LINC02210-CRHR1	Autism Spectrum Disorder
+LINC02210	Parkinson's Disease
+LINC02214	Alzheimer's Disease
+LINC02268	Alzheimer's Disease
+LINC02325	Alzheimer's Disease
+LINC02378	Restless legs Syndrome
+LINC02398	Intracranial Aneurysm
+LINC02422	Amyotrophic Lateral Sclerosis
+LINC02455	Stroke
+LINC02460	Alzheimer's Disease
+LINC02477	Narcolepsy
+LINC02518	Alzheimer's Disease
+LINC02527	Parkinson's Disease
+LINC02531	Amyotrophic Lateral Sclerosis
+LINC02567	Attention Deficit Hyperactivity Disorder
+LINC02580	Multiple Sclerosis
+LINC02582	Amyotrophic Lateral Sclerosis
+LINC02633	Multiple Sclerosis
+LINC02651	Alzheimer's Disease
+LINC02653	Alzheimer's Disease
+LINC02686	Autism Spectrum Disorder
+LINC02699	Alzheimer's Disease
+LINC02713	Amyotrophic Lateral Sclerosis
+LINC02714	Amyotrophic Lateral Sclerosis
+LINC02752	Alzheimer's Disease
+LINC02762	Alzheimer's Disease
+LINC02763	Alzheimer's Disease
+LINC02815	Alzheimer's Disease
+LINC02828	Stroke
+LINC02885	Parkinson's Disease
+LINC-PINT	Autism Spectrum Disorder
+LINC-ROR	Glioma
+LINGO1	Parkinson's Disease
+LINGO2	Alzheimer's Disease, Intracranial Aneurysm
+LIPC	Alzheimer's Disease, Amyotrophic Lateral Sclerosis
+LIPG	Multiple Sclerosis
+LITAF	Charcot-Marie-Tooth Disease
+LLGL1	Glioma
+LLNLF-65H9.1	Alzheimer's Disease
+LMCD1	Narcolepsy
+LMF1	Glioma
+LMNA	Cerebral Aneurysm, Charcot-Marie-Tooth Disease, Muscular Dystrophy, Stroke
+LMNB1	Multiple Sclerosis, Parkinson's Disease
+LMNB2	Alzheimer's Disease
+LMO1	Neuroblastoma
+LMOD3	Alzheimer's Disease
+LMX1A	Alzheimer's Disease
+lnc-ANXA2R-1	Glioma
+lnc-BMP6-106	Glioma
+lnc-CRYBA4-52	Glioma
+lnc-CXorf36-46	Glioma
+lnc-DGCR6-6	Glioma
+lnc-DLX2-4	Glioma
+lnc-FGF1-9	Glioma
+lncGRS-1	Glioma
+lnc-IGFBP1-2	Glioma
+lnc-LRRC47-78	Glioma
+lnc-NPC2-2	Glioma
+lnc-PCED1B-5	Glioma
+lnc-POTEH-7	Glioma
+lnc-RICTOR-54	Glioma
+lnc-SLC35F5-3	Glioma
+lnc-SPRYD3-1	Glioma
+lnc-UBAP2-6	Glioma
+lnc-UPF2-5	Glioma
+lnc-USP9X-1	Glioma
+lnc-ZNF140-1	Glioma
+lnc-ZNF705A-7	Glioma
+lnc-ZNF852-2	Glioma
+LNX1	Alzheimer's Disease
+LOC100129203	Multiple Sclerosis
+LOC100129500	Alzheimer's Disease
+LOC100129636	Autism Spectrum Disorder
+LOC100130066	Parkinson's Disease
+LOC100130476	Multiple Sclerosis
+LOC100130911	Parkinson's Disease
+LOC100130985	Parkinson's Disease
+LOC100131234	Multiple Sclerosis
+LOC100131289	Autism Spectrum Disorder, Parkinson's Disease
+LOC100132423	Parkinson's Disease
+LOC100132735	Multiple Sclerosis
+LOC100270746	Autism Spectrum Disorder
+LOC100288892	Parkinson's Disease
+LOC100289506	Multiple Sclerosis
+LOC100289673	Autism Spectrum Disorder
+LOC100294145	Autism Spectrum Disorder
+LOC100505625	Multiple Sclerosis
+LOC100505776	Epilepsy
+LOC100505841	Parkinson's Disease
+LOC100506422	Epilepsy
+LOC100506457	Multiple Sclerosis
+LOC100506746	Amyotrophic Lateral Sclerosis
+LOC100507091	Autism Spectrum Disorder
+LOC100507283	Autism Spectrum Disorder
+LOC100507431	Autism Spectrum Disorder
+LOC100507547	Autism Spectrum Disorder
+LOC101926892	Multiple Sclerosis
+LOC101927229	Autism Spectrum Disorder
+LOC101927257	Autism Spectrum Disorder
+LOC101927537	Epilepsy
+LOC101927686	Multiple Sclerosis
+LOC101927815	Amyotrophic Lateral Sclerosis
+LOC101927839	Autism Spectrum Disorder
+LOC101928304	Multiple Sclerosis
+LOC101928435	Multiple Sclerosis
+LOC101928519	Alzheimer's Disease
+LOC101928782	Autism Spectrum Disorder
+LOC101928943	Autism Spectrum Disorder
+LOC101928961	Autism Spectrum Disorder
+LOC101929282	Multiple Sclerosis
+LOC101929340	Autism Spectrum Disorder
+LOC101929406	Autism Spectrum Disorder
+LOC101929592	Autism Spectrum Disorder
+LOC101929829	Autism Spectrum Disorder
+LOC102723661	Autism Spectrum Disorder
+LOC102723854	Multiple Sclerosis
+LOC102724034	Autism Spectrum Disorder
+LOC102724084	Intracranial Aneurysm
+LOC102724552	Autism Spectrum Disorder
+LOC102724661	Autism Spectrum Disorder
+LOC102724874	Multiple Sclerosis
+LOC103171574	Autism Spectrum Disorder
+LOC103611081	Autism Spectrum Disorder
+LOC105373605	Alzheimer's Disease
+LOC132321	Multiple Sclerosis
+LOC152225	Multiple Sclerosis
+LOC171391	Autism Spectrum Disorder
+LOC257396	Alzheimer's Disease
+LOC285501	Multiple Sclerosis
+LOC285626	Multiple Sclerosis
+LOC285819	Autism Spectrum Disorder
+LOC339788	Multiple Sclerosis
+LOC339902	Parkinson's Disease
+LOC389023	Psychiatric Disease
+LOC390956	Alzheimer's Disease
+LOC390958	Alzheimer's Disease
+LOC399715	Multiple Sclerosis
+LOC440300	Autism Spectrum Disorder
+LOC541471	Glioma
+LOC554223	Autism Spectrum Disorder
+LOC642072	Parkinson's Disease
+LOC642423	Autism Spectrum Disorder
+LOC644246	Parkinson's Disease
+LOC645434	Multiple Sclerosis
+LOC646938	Autism Spectrum Disorder
+LOC728728	Parkinson's Disease
+LOXL4	Alzheimer's Disease
+LPCAT1	Multiple Sclerosis
+LPIN2	Alzheimer's Disease
+LPIN3	Multiple Sclerosis
+LPP	Multiple Sclerosis
+LRAT	Alzheimer's Disease
+LRCH1	Stroke
+LRFN2	Amyotrophic Lateral Sclerosis
+LRIG1	Glioma
+LRP12	Autism Spectrum Disorder
+LRP1-AS	Alzheimer's Disease
+LRP1	Autism Spectrum Disorder
+LRP1B	Alzheimer's Disease
+LRP2	Agenesis Corpus Callosum
+LRP4-AS1	Autism Spectrum Disorder
+LRP4	Autism Spectrum Disorder
+LRPPRC	Coma
+LRRC1	Epilepsy
+LRRC27A	Alzheimer's Disease
+LRRC2	Alzheimer's Disease
+LRRC2-AS1	Alzheimer's Disease
+LRRC30	Alzheimer's Disease
+LRRC31	Glioma
+LRRC34	Multiple Sclerosis
+LRRC37A3	Parkinson's Disease
+LRRC3	Amyotrophic Lateral Sclerosis, Intracranial Aneurysm
+LRRC45	Neuroblastoma
+LRRC4C	Autism Spectrum Disorder
+LRRC4	Glioma
+LRRC58	Autism Spectrum Disorder
+LRRC74A	Alzheimer's Disease
+LRRFIP2	Autism Spectrum Disorder
+LRRK1	Alzheimer's Disease
+LRRK2	Parkinson's Disease
+LRRN1	Restless legs Syndrome
+LRRN3	Autism Spectrum Disorder
+LSM1	Autism Spectrum Disorder
+LSM2	Autism Spectrum Disorder
+LSM7	Parkinson's Disease
+LST1	Autism Spectrum Disorder
+LTA	Autism Spectrum Disorder
+LTB	Autism Spectrum Disorder
+LTBR	Multiple Sclerosis
+LTK	Parkinson's Disease
+LUC7L2	Alzheimer's Disease
+LUZP2	Alzheimer's Disease, Autism Spectrum Disorder
+LY6G5B	Autism Spectrum Disorder
+LY6G5C	Autism Spectrum Disorder
+LY6G6C	Autism Spectrum Disorder
+LY6G6D	Autism Spectrum Disorder
+LY6G6E	Autism Spectrum Disorder
+LY6G6F	Autism Spectrum Disorder
+LY6K	Glioma
+LY86	Multiple Sclerosis
+LYPD6B	Autism Spectrum Disorder
+LYPLA1P1	Alzheimer's Disease
+LYRM4	Friedreich Ataxia
+LYVE1	Alzheimer's Disease
+LZTFL1	Multiple Sclerosis
+LZTR1	Alzheimer's Disease, Glioma
+MACC1	Glioma
+MACROD2	Alzheimer's Disease, Autism Spectrum Disorder
+MAD1L1	Alzheimer's Disease, Autism Spectrum Disorder
+MADD	Autism Spectrum Disorder
+MAF	Alzheimer's Disease, Multiple Sclerosis
+MAGE	Glioma
+MAGEL2	Prader-Willi Syndrome
+MAG	Glioma
+MAGI2	Autism Spectrum Disorder
+MAGI3	Neuroblastoma
+MAIP1	Autism Spectrum Disorder
+MAK	Autism Spectrum Disorder
+MALAT1	Amyotrophic lateral Sclerosis, Glioma, Neuroblastoma, Parkinson's Disease, Pituitary Adenoma, Pituitary Neoplasms
+MALT1	Alzheimer's Disease, Multiple Sclerosis
+MAML2	Glioma
+MAML3	Alzheimer's Disease
+MAMSTR	Multiple Sclerosis
+MAN2A1	Alzheimer's Disease, Autism Spectrum Disorder
+MANBA	Epilepsy, Multiple Sclerosis
+MANEA	Parkinson's Disease
+MAP1LC3A	Alzheimer's Disease
+MAP2	Glioma
+MAP2K5	Restless legs Syndrome
+MAP3K14	Multiple Sclerosis, Parkinson's Disease
+MAP3K21	Alzheimer's Disease
+MAP4K3	Autism Spectrum Disorder
+MAP4K4	Alzheimer's Disease, Autism Spectrum Disorder, Parkinson's Disease
+MAP7	Alzheimer's Disease
+MAPK10	Autism Spectrum Disorder, Epilepsy, Multiple Sclerosis
+MAPK1	Amyotrophic Lateral Sclerosis, Multiple Sclerosis
+MAPK3	Autism Spectrum Disorder, Multiple Sclerosis
+MAPK7	Alzheimer's Disease
+MAPK8IP1	Alzheimer's Disease
+MAPT	Alzheimer's Disease, Autism Spectrum Disorder, Motor Neurone Disease, Parkinson's Disease, Progressive Supranuclear Plasy
+MAPT-AS1	Parkinson's Disease, Parkinson's Disease
+MARCKSL1P1	Intracranial Aneurysm
+MARCO	Glioma
+MARK2P15	Alzheimer's Disease
+MARK3	Autism Spectrum Disorder
+MARK4	Alzheimer's Disease
+MARS2	Autism Spectrum Disorder
+MAS1L	Autism Spectrum Disorder
+MAST3	Alzheimer's Disease
+MATN4	Alzheimer's Disease
+MATR3	Autism Spectrum Disorder
+MAX	Glioma
+MAZ	Multiple Sclerosis
+MB21D2	Alzheimer's Disease
+MBD5	Epilepsy, Intellectual Disability
+MBNL1	Glioma
+MBNL2	Glioma, Parkinson's Disease
+MBNL3	Glioma
+MBOAT7	Alzheimer's Disease
+MCCC1	Parkinson's Disease
+MCCD1	Autism Spectrum Disorder
+MCEE	Coma
+MCF2L2	Alzheimer's Disease
+MCF2L	Alzheimer's Disease
+MCHR1	Autism Spectrum Disorder
+MCHR2-AS1	Psychiatric Disease
+MCL1	Multiple Sclerosis
+MCTP1	Multiple Sclerosis
+MCTP2	Parkinson's Disease
+MDC1-AS1	Autism Spectrum Disorder, Glioma
+MDC1	Autism Spectrum Disorder
+MDGA1	Restless legs Syndrome
+MDGA2	Alzheimer's Disease, Parkinson's Disease
+MDK	Autism Spectrum Disorder, Neuroblastoma
+MDM2	Autism Spectrum Disorder, Glioma
+MDM4	Glioma
+MECP2	Autism Spectrum Disorder, Rett Syndrome
+MED10	Glioma
+MED12	Autism Spectrum Disorder
+MED12L	Alzheimer's Disease, Parkinson's Disease
+MED13	Autism Spectrum Disorder, Parkinson's Disease
+MED13L	Intellectual Disability
+MED19	Autism Spectrum Disorder
+MED23	Intellectual Disability
+MED25	Intellectual Disability
+MEF2B	Multiple Sclerosis
+MEF2C	Alzheimer's Disease, Epilepsy, Multiple Sclerosis
+MEF2C-AS1	Alzheimer's Disease, Autism Spectrum Disorder, Prader-willi Syndrome and Angelman Syndrome
+MEFV	Alzheimer's Disease, Glioma
+MEG3	Glioma, Huntington's Disease, Meningioma, Neuroblastoma, Non-functioning Pituitary Adenoma, Non-functioning Pituitary Neoplasms, Pituitary Adenoma, Pituitary Neoplasms, Stroke
+MEG8	Prader-willi Syndrome and Angelman Syndrome
+MEGF10	Alzheimer's Disease
+MEIS1	Restless legs Syndrome
+MEIS2	Intellectual Disability, Restless legs Syndrome
+MERTK	Glioma, Multiple Sclerosis
+MET	Autism Spectrum Disorder, Glioma, Multiple Sclerosis
+METEX14	Glioma
+METTL1	Multiple Sclerosis
+METTL21C	Alzheimer's Disease
+METTL23	Intellectual Disability
+METTL24	Alzheimer's Disease
+METTL6	Autism Spectrum Disorder
+MEX3C	Parkinson's Disease, Stroke
+MFN2	Charcot-Marie-Tooth Disease
+MFSD13A	Autism Spectrum Disorder
+MFSD2A	Alzheimer's Disease
+MGAT4B	Alzheimer's Disease
+MGAT5	Alzheimer's Disease, Multiple Sclerosis
+MGC16025	Autism Spectrum Disorder
+MGC45800	Alzheimer's Disease, Multiple Sclerosis
+MGMT	Alzheimer's Disease, Glioma
+MHC	Autism Spectrum Disorder
+MIAT	Alzheimer's Disease, Autism Spectrum Disorder, Schizophrenia
+MIB1	Epilepsy, Glioma
+MICA	Autism Spectrum Disorder
+MICAL2	Alzheimer's Disease, Stroke
+MICB	Autism Spectrum Disorder
+MICU3	Parkinson's Disease
+MIEF1	Alzheimer's Disease
+MIF	Glioma
+MINK1	Intracranial Aneurysm, Multiple Sclerosis
+MIPOL1	Parkinson's Disease
+MIR100HG	Multiple Sclerosis, Neuroblastoma, Stroke
+MIR137HG	Autism Spectrum Disorder, Schizophrenia
+MIR155-3p	Glioma
+MIR155HG	Glioma
+MIR210HG	Glioma
+MIR22HG	Glioma
+MIR4300HG	Glioma
+MIR4435-2HG	Multiple Sclerosis
+MIR6079	Autism Spectrum Disorder
+MIR99AHG	Amyotrophic Lateral Sclerosis, Down Syndrome
+MKI67	Alzheimer's Disease, Glioma
+MKLN1	Autism Spectrum Disorder
+MKRN3-AS1	Prader-Willi Syndrome
+MKRN3	Prader-Willi Syndrome
+MLANA	Multiple Sclerosis
+MLH1	Autism Spectrum Disorder
+MLLT10	Meningioma, Multiple Sclerosis
+MMA-1	Down Syndrome
+MMEL1	Alzheimer's Disease, Multiple Sclerosis
+MMP10	Multiple Sclerosis
+MMP12	Alzheimer's Disease
+MMP16	Autism Spectrum Disorder
+MMP17	Alzheimer's Disease
+MMP1	Glioma
+MMP25	Neuroblastoma
+MMP27	Multiple Sclerosis
+MMP3	Alzheimer's Disease
+MMP7	Narcolepsy
+MMP8	Epilepsy
+MMP9	Glioma
+MMRN1	Parkinson's Disease
+MMS22L	Multiple Sclerosis
+MNT	Autism Spectrum Disorder
+MOB2	Alzheimer's Disease
+MOB3B	Amyotrophic Lateral Sclerosis
+MOB4	Autism Spectrum Disorder
+MOBP	Alzheimer's Disease, Amyotrophic Lateral Sclerosis
+MOG	Autism Spectrum Disorder
+MOK	Glioma
+MON2	Autism Spectrum Disorder
+MORC2	Alzheimer's Disease
+MORN1	Alzheimer's Disease
+MORN2	Amyotrophic Lateral Sclerosis
+MPHOSPH9	Autism Spectrum Disorder, Multiple Sclerosis
+MPIG6B	Autism Spectrum Disorder
+MPO	Multiple Sclerosis
+MPP3	Alzheimer's Disease
+MPPED1	Autism Spectrum Disorder
+MPV17L2	Multiple Sclerosis
+MPZ	Charcot-Marie-Tooth Disease
+MPZL1	Alzheimer's Disease
+MRAP	Down Syndrome
+MRE11	Alzheimer's Disease
+MRGPRE	Multiple Sclerosis
+MRLN	Alzheimer's Disease
+MRM2	Autism Spectrum Disorder
+MROCKI	Glioma
+MROH3P	Parkinson's Disease
+MROH5	Autism Spectrum Disorder, Parkinson's Disease
+MRPL10	Alzheimer's Disease
+MRPL39	Alzheimer's Disease
+MRPL58	Alzheimer's Disease
+MRPS16	Agenesis Corpus Callosum
+MRPS18B	Autism Spectrum Disorder, Neuroblastoma
+MRPS22	Alzheimer's Disease
+MRPS30	Parkinson's Disease
+MRTFA	Autism Spectrum Disorder, Glioma
+MS4A2	Alzheimer's Disease
+MS4A3	Alzheimer's Disease
+MS4A4A	Alzheimer's Disease
+MS4A4E	Alzheimer's Disease
+MS4A6A	Alzheimer's Disease
+MS4A6E	Alzheimer's Disease
+MS4A	Alzheimer's Disease
+MS4	Alzheimer's Disease
+MSANTD2	Autism Spectrum Disorder
+MSH2	Alzheimer's Disease
+MSH3	Glioma
+MSH5	Autism Spectrum Disorder
+MSH5-SAPCD1	Autism Spectrum Disorder
+MSI1	Glioma
+MSL2	Autism Spectrum Disorder
+MSN	Glioma
+MSNP1AS	Autism Spectrum Disorder
+MSNP1	Autism Spectrum Disorder
+MSRA	Alzheimer's Disease, Autism Spectrum Disorder
+MSX2	Alzheimer's Disease
+MT1A	Alzheimer's Disease
+MT1E	Glioma
+MTATP6P30	Alzheimer's Disease
+MT-ATP8	Epilepsy
+MT-CO2	Epilepsy
+MT-CO3	Epilepsy, Stroke
+MTCO3P1	Autism Spectrum Disorder, Narcolepsy
+MT-CYB	Epilepsy
+MTCYBP27	Alzheimer's Disease, Autism Spectrum Disorder
+MTDH	Neuroblastoma
+MTHFD1L	Alzheimer's Disease
+MTHFR	Multiple Sclerosis, Stroke
+MTMR2	Charcot-Marie-Tooth Disease
+MTMR3	Intracranial Aneurysm
+MT-ND1	Epilepsy, Parkinson's Disease, Stroke
+MT-ND2	Epilepsy
+MT-ND3	Dystonia, Epilepsy, Parkinson's Disease
+MT-ND4	Dystonia, Epilepsy, Stroke
+MT-ND4L	Epilepsy
+MTND4LP18	Autism Spectrum Disorder
+MTND4P33	Stroke
+MT-ND5	Epilepsy, Parkinson's Disease, Stroke
+MT-ND6	Dystonia, Epilepsy, Parkinson's Disease, Stroke
+MTND6P12	Amyotrophic Lateral Sclerosis
+MTORC2	Glioma
+MTOR	Epilepsy
+mTOR	Glioma
+MTPAP	Autism Spectrum Disorder
+MTR	Autism Spectrum Disorder
+MTRES1	Alzheimer's Disease
+MTRFR	Autism Spectrum Disorder
+MTRR	Down Syndrome
+MTUS1	Autism Spectrum Disorder
+MTX1	Gaucher Disease
+MUC17	Glioma
+MUC21	Autism Spectrum Disorder
+MUC22	Autism Spectrum Disorder
+MUC5AC	Alzheimer's Disease
+MUCL3	Autism Spectrum Disorder
+MUSTN1	Autism Spectrum Disorder
+MVB12B	Glioma
+MVIH	Glioma
+MVK	Glioma
+MXI1	Glioma
+MYBBP1A	Alzheimer's Disease
+MYB	Glioma, Multiple Sclerosis
+MYBL1	Glioma
+MYBPC3	Autism Spectrum Disorder, Multiple Sclerosis
+MYCBPAP	Alzheimer's Disease
+MYC	Glioma, Multiple Sclerosis, Neuroblastoma, Paraganglioma
+MYCN	Glioma, Neuroblastoma
+MYCNUT	Neuroblastoma
+MYEOV	Intracranial Aneurysm
+MYF6	Muscular Dystrophy
+MYH11	Cerebral Aneurysm
+MYH7	Motor Neurone Disease
+MYL2	Alzheimer's Disease
+MYLK2	Parkinson's Disease
+MYNN	Glioma, Multiple Sclerosis
+MYO10	Alzheimer's Disease
+MYO16	Alzheimer's Disease
+MYO1C	Alzheimer's Disease
+MYO5B	Multiple Sclerosis
+MYO6	Stroke
+MYO7A	Alzheimer's Disease
+MYO9B	Autism Spectrum Disorder
+MYOF	Muscular Dystrophy
+MYOT	Muscular Dystrophy
+MYT1	Glioma, Restless legs Syndrome
+n336934	Alzheimer's Disease
+NAA10	Intellectual Disability
+NAA11	Parkinson's Disease
+NAALADL2	Autism Spectrum Disorder
+NAB1	Multiple Sclerosis
+NAB2	Alzheimer's Disease
+NADK	Multiple Sclerosis
+NAGA	Autism Spectrum Disorder, Epilepsy
+NAMPT	Glioma
+NAPA-AS1	Intracranial Aneurysm
+NAPSA	Alzheimer's Disease
+NAPSB	Alzheimer's Disease
+NARS2	Alzheimer's Disease
+NBAT1	Neuroblastoma
+NCAM1	Neuroblastoma
+NCAM2	Down Syndrome
+NCF4	Multiple Sclerosis
+NCK1	Autism Spectrum Disorder
+NCK1-DT	Autism Spectrum Disorder
+NCK2	Alzheimer's Disease
+NCKAP1	Autism Spectrum Disorder
+NCKAP5	Alzheimer's Disease, Multiple Sclerosis
+NCKIPSD	Parkinson's Disease
+NCOA2	Multiple Sclerosis
+NCOA5	Multiple Sclerosis
+NCOA6	Alzheimer's Disease
+NCOR2	Alzheimer's Disease, Multiple Sclerosis
+NCR2	Alzheimer's Disease
+NCR3	Autism Spectrum Disorder
+NCS1	Alzheimer's Disease
+NCTIN2	Alzheimer's Disease
+NDFIP1	Multiple Sclerosis
+NDN	Parkinson's Disease, Prader-Willi Syndrome
+NDRG1	Charcot-Marie-Tooth Disease, Glioma
+NDRG2	Glioma
+NDUFA11	Parkinson's Disease
+NDUFA12	Alzheimer's Disease
+NDUFA1	Parkinson's Disease
+NDUFA4L2	Autism Spectrum Disorder
+NDUFA6	Autism Spectrum Disorder
+NDUFA6-DT	Autism Spectrum Disorder
+NDUFAF2	Autism Spectrum Disorder, Parkinson's Disease
+NDUFAF3	Parkinson's Disease
+NDUFAF4	Parkinson's Disease, Stroke
+NDUFAF5	Parkinson's Disease
+NDUFAF6	Alzheimer's Disease, Parkinson's Disease
+NDUFS1	Parkinson's Disease
+NDUFS2	Parkinson's Disease
+NDUFS4	Parkinson's Disease
+NDUFS7	Parkinson's Disease
+NDUFV1	Epilepsy, Parkinson's Disease
+NDUFV2	Epilepsy, Parkinson's Disease
+NEAT1_2	Amyotrophic lateral Sclerosis
+NEAT1	Amyotrophic lateral Sclerosis, Frontotemporal Lobar Degeneration, Glioma, Huntington's Disease, Multiple Sclerosis, Parkinson's Disease
+NEBL	Alzheimer's Disease, Autism Spectrum Disorder
+NECAP1	Epilepsy
+NECTIN2	Alzheimer's Disease
+NEDD1	Autism Spectrum Disorder
+NEDD4L	Autism Spectrum Disorder
+NEFL	Charcot-Marie-Tooth Disease
+NEFM	Glioma
+NEGR1	Alzheimer's Disease
+NEGR1-IT1	Alzheimer's Disease
+NEK1	Autism Spectrum Disorder
+NEK2	Glioma
+NEK4	Autism Spectrum Disorder
+NELFB	Alzheimer's Disease
+NELFE	Autism Spectrum Disorder
+NEMP1	Alzheimer's Disease
+NEU1	Autism Spectrum Disorder
+NEU4	Narcolepsy
+NEURL1	Autism Spectrum Disorder
+NEUROG2	Neuroblastoma
+NEXMIF	Intellectual Disability
+NF1	Glioma, Neurofibromatosis, Paraganglioma
+NF2	Glioma
+NFIA-AS1	Glioma
+NFIA	Glioma, Hydrocephalus, Intellectual Disability
+NFIB	Alzheimer's Disease
+NFIC	Alzheimer's Disease
+NFKB1	Multiple Sclerosis
+NFKBIA	Glioma
+NFKBIL1	Autism Spectrum Disorder
+NFKBIZ	Multiple Sclerosis
+NF-kB-p65	Glioma
+NGEF	Autism Spectrum Disorder, Parkinson's Disease
+NGFR	Alzheimer's Disease
+NGLY1	Intellectual Disability
+NgR1	Glioma
+NGRN	Multiple Sclerosis
+NHLRC1	Epilepsy
+NHLRC3	Alzheimer's Disease
+NHSL1	Alzheimer's Disease
+NICN1	Glioma
+NID1	Encephalitis
+NINJ2-AS1	Stroke
+NIN	Stroke
+NIPA2	Prader-Willi Syndrome
+NIPBL-AS1	Autism Spectrum Disorder
+NISCH	Autism Spectrum Disorder, Parkinson's Disease
+NIT2	Alzheimer's Disease, Down Syndrome
+NKAIN2	Alzheimer's Disease
+NKAIN3	Alzheimer's Disease
+NKAPL	Autism Spectrum Disorder
+NKPD1	Alzheimer's Disease
+NKX2-1	Benign Hereditary Chorea
+NKX2-2	Autism Spectrum Disorder
+NKX2-4	Autism Spectrum Disorder
+NLGN2	Autism Spectrum Disorder
+NLGN3	Autism Spectrum Disorder, Intellectual Disability
+Nlgn3	Glioma
+NLGN4X	Autism Spectrum Disorder
+NLGN4Y	Autism Spectrum Disorder
+NLRC5	Multiple Sclerosis
+NLRP11	Multiple Sclerosis
+NLRP3	Meningitis
+NLRP4	Autism Spectrum Disorder
+NLRP5	Glioma
+NMB	Autism Spectrum Disorder
+NME5	Autism Spectrum Disorder
+NME8	Alzheimer's Disease
+NME9	Amyotrophic Lateral Sclerosis
+NMNAT1P2	Alzheimer's Disease
+NOD2	Parkinson's Disease
+NOL6	Neuroblastoma
+NONHSAT041499	Schizophrenia
+NONHSAT089447	Schizophrenia
+NONO	Dystonia
+NOP14	Huntington's Disease
+NOS1	Glioma
+NOS2	Glioma
+NOS3	Glioma, Stroke
+NOSIP	Alzheimer's Disease
+NOSTRIN	Stroke
+NOTCH1	Glioma
+NOTCH2NLA	Glioma
+NOTCH3	Coma, Stroke
+NOTCH4	Autism Spectrum Disorder
+NOVA1	Autism Spectrum Disorder, Glioma
+NPAP1	Angelman Syndrome, Prader-Willi Syndrome
+NPC1	Alzheimer's Disease, Dystonia
+NPC2	Dystonia
+NPEPPS	Multiple Sclerosis
+NPHP4	Autism Spectrum Disorder
+NPHS1	Alzheimer's Disease
+NPPA	Stroke
+NPRL3	Autosomal Dominant Nocturnal Frontal Lobe Epilepsy
+NPS	Amyotrophic Lateral Sclerosis
+NPVF	Alzheimer's Disease
+NR1D1	Multiple Sclerosis
+NR1D2	Parkinson's Disease
+NR1H2	Alzheimer's Disease
+NR1H3	Autism Spectrum Disorder
+NR1I3	Glioma
+NR2C1	Intracranial Aneurysm
+NR2E1	Glioma
+NR3C2	Alzheimer's Disease
+NR4A2	Parkinson's Disease
+NRAS	Autism Spectrum Disorder
+NRG2	Charcot-Marie-Tooth Disease
+NRGN	Autism Spectrum Disorder
+NRL	Glioma
+NRM	Autism Spectrum Disorder
+NRON	Down Syndrome
+NRSN1	Alzheimer's Disease
+NRXN1	Alzheimer's Disease, Autism Spectrum Disorder
+NRXN3	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder
+NSD3	Autism Spectrum Disorder
+NSDHL	Intellectual Disability
+NSF	Parkinson's Disease
+NSG2	Alzheimer's Disease
+NSMAF	Autism Spectrum Disorder
+NSMCE2	Amyotrophic Lateral Sclerosis
+NSMCE3	Autism Spectrum Disorder
+NSUN6	Autism Spectrum Disorder
+NT5C1A	Amyotrophic Lateral Sclerosis
+NT5C2	Autism Spectrum Disorder, Intracranial Aneurysm
+NT5DC2	Autism Spectrum Disorder
+NTN3	Tuberous Sclerosis
+NTNG1	Restless legs Syndrome, Rett Syndrome
+NTRK1	Dysautonomia, Glioma, Neuroblastoma
+NTRK2	Parkinson's Disease
+NTRK3	Autism Spectrum Disorder
+NUAK1	Alzheimer's Disease
+NUCKS1	Parkinson's Disease
+NUDT12	Multiple Sclerosis
+NUDT1	Autism Spectrum Disorder
+NUP42	Parkinson's Disease
+NUP43	Autism Spectrum Disorder
+NUP62	Dystonia
+NUSAP1	Glioma
+NXN	Alzheimer's Disease
+NXPE2	Parkinson's Disease
+NXPE3	Autism Spectrum Disorder
+NXPH4	Autism Spectrum Disorder
+NYAP2	Alzheimer's Disease
+OARD1	Alzheimer's Disease
+OBSCN	Glioma
+OCA2	Parkinson's Disease, Prader-Willi Syndrome
+OCIAD2	Glioma
+ODAPH	Parkinson's Disease
+ODF3B	Multiple Sclerosis
+OFCC1	Alzheimer's Disease
+OGFOD2	Autism Spectrum Disorder, Parkinson's Disease
+OGFRL1	Cerebral Palsy
+OGFRP1	Autism Spectrum Disorder
+OLFML2A	Intracranial Aneurysm
+OLIG1	Glioma
+OLIG2	Glioma
+OLIG3	Multiple Sclerosis
+OPALIN	Autism Spectrum Disorder, Epilepsy
+OPHN1	Intellectual Disability
+OR10C1	Autism Spectrum Disorder
+OR11A1	Autism Spectrum Disorder
+OR12D2	Autism Spectrum Disorder
+OR12D3	Autism Spectrum Disorder
+OR14J1	Autism Spectrum Disorder
+OR2B2	Autism Spectrum Disorder
+OR2B3	Autism Spectrum Disorder
+OR2B6	Autism Spectrum Disorder
+OR2H1	Autism Spectrum Disorder
+OR2H2	Autism Spectrum Disorder
+OR2J2	Autism Spectrum Disorder
+OR2J3	Autism Spectrum Disorder
+OR2M4	Autism Spectrum Disorder
+OR2W1	Autism Spectrum Disorder
+OR4F15	Alzheimer's Disease
+OR4F6	Alzheimer's Disease
+OR51E1	Neuroblastoma
+OR52K1	Amyotrophic Lateral Sclerosis
+OR52N1	Alzheimer's Disease
+OR5V1	Autism Spectrum Disorder
+OR7E89P	Alzheimer's Disease
+OR7G2	Neuroblastoma
+OR7H2P	Stroke
+OR8I1P	Restless legs Syndrome
+OR8K3	Glioma, Restless legs Syndrome
+OR8K5	Alzheimer's Disease
+OR9Q1	Parkinson's Disease
+OS9	Alzheimer's Disease, Multiple Sclerosis
+OSBPL3	Alzheimer's Disease
+OSBPL6	Alzheimer's Disease
+OSBPL7	Alzheimer's Disease
+OSGIN1	Alzheimer's Disease
+OSM	Glioma
+OSMR	Glioma
+OSTCP1	Alzheimer's Disease
+OSTNIL1-RAP	Alzheimer's Disease
+OTC	Coma
+OTOF	Alzheimer's Disease
+OTOGL	Alzheimer's Disease
+OTOP1	Alzheimer's Disease
+OTOS	Alzheimer's Disease
+OTX2	Agenesis Corpus Callosum, Glioma
+OVCH1-AS1	Alzheimer's Disease
+OVGP1	Alzheimer's Disease
+OXNAD1	Cerebral Palsy
+OXR1	Autism Spectrum Disorder
+P2RX5	Alzheimer's Disease
+P2RY11	Narcolepsy
+P2RY13	Alzheimer's Disease
+P2RY8/CRLF2	Down Syndrome
+P4HA2	Intracranial Aneurysm
+P4HA3-AS1	Parkinson's Disease
+PABPC3	Intracranial Aneurysm
+PABPN1	Muscular Dystrophy
+PACRG	Alzheimer's Disease, Parkinson's Disease
+PACSIN3	Autism Spectrum Disorder
+PAG1	Autism Spectrum Disorder
+PAH	Epilepsy
+PAK3	Intellectual Disability
+PALB2	Autism Spectrum Disorder
+PAM	Parkinson's Disease
+PAMR1	Muscular Dystrophy
+PANK2	Dystonia
+PANTR1	Glioma
+PAPOLG	Multiple Sclerosis
+PAPPA	Muscular Dystrophy
+PAQR3	Parkinson's Disease
+PAQR8	Epilepsy
+PARD3B	Autism Spectrum Disorder, Intracranial Aneurysm
+PARD3	Parkinson's Disease
+PARK16	Parkinson's Disease
+PARK7	Amyotrophic Lateral Sclerosis, Parkinson's Disease
+PARP10	Alzheimer's Disease
+PARP4P2	Alzheimer's Disease
+PARP8	Neuroblastoma
+PARP9	Parkinson's Disease
+PART1	Glioma
+PARVB	Alzheimer's Disease
+PATJ	Autism Spectrum Disorder
+PATZ1	Glioma
+PAWR	Amyotrophic Lateral Sclerosis, Stroke
+PAX2	Alzheimer's Disease
+PAX5	Alzheimer's Disease
+PBDC1	Amyotrophic Lateral Sclerosis
+PBK	Glioma
+PBRM1	Autism Spectrum Disorder, Glioma
+PBX1	Neuroblastoma
+PBX2	Alzheimer's Disease, Autism Spectrum Disorder
+PBX2P1	Autism Spectrum Disorder
+PCAT1	Intracranial Aneurysm, Multiple Sclerosis
+PCAT29	Glioma
+PCAT7	Alzheimer's Disease
+PCBP1	Alzheimer's Disease
+PCCB	Autism Spectrum Disorder
+PCDH11X	Alzheimer's Disease
+PCDH15	Glioma
+PCDH19	Epilepsy, Intellectual Disability
+PCDH7	Alzheimer's Disease, Epilepsy
+PCDH9	Autism Spectrum Disorder
+PCDHA1	Glioma
+PCED1B	Alzheimer's Disease
+PCGEM1	Autism Spectrum Disorder, Glioma
+PCGF6	Autism Spectrum Disorder
+PCLO	Pontocerebellar Hypoplasia
+PCNA	Glioma
+PCNT	Alzheimer's Disease
+PCNX1	Alzheimer's Disease, Autism Spectrum Disorder
+PCSK5	Alzheimer's Disease, Amyotrophic Lateral Sclerosis
+PDCD10	Glioma, Stroke
+PDCD11	Autism Spectrum Disorder
+PDCD1	Glioma
+PDCD1LG2	Alzheimer's Disease
+PDE10A	Alzheimer's Disease, Parkinson's Disease
+PDE1A	Alzheimer's Disease
+PDE3A	Stroke
+PDE3B	Alzheimer's Disease, Multiple Sclerosis
+PDE4A	Multiple Sclerosis
+PDE4B	Alzheimer's Disease, Multiple Sclerosis
+PDE4C	Glioma
+PDE4D	Alzheimer's Disease, Stroke
+PDE6B	Alzheimer's Disease
+PDE7A	Epilepsy
+PDE7B	Alzheimer's Disease, Autism Spectrum Disorder
+PDGFA	Glioma
+PDGF	Glioma
+PDGFRA	Glioma
+PDGFRB	Glioma
+PDLIM2	Parkinson's Disease
+PDLIM3	Muscular Dystrophy
+PDLIM4	Glioma
+PDPN	Glioma
+PDZD2	Intracranial Aneurysm
+PDZRN4	Multiple Sclerosis
+PEG13	Intellectual Disability
+PER3	Alzheimer's Disease
+PET117	Parkinson's Disease
+PEX6	Alzheimer's Disease
+PFDN1	Alzheimer's Disease
+PFDN6	Alzheimer's Disease, Autism Spectrum Disorder
+PFKP	Glioma
+PGAM5P1	Alzheimer's Disease
+PGAP3	Intellectual Disability
+PGBD1	Autism Spectrum Disorder
+PGBD3P4	Alzheimer's Disease
+PGK1	Autism Spectrum Disorder
+PGLYRP4	Autism Spectrum Disorder
+PGM2	Alzheimer's Disease
+PHACTR1	Alzheimer's Disease, Autism Spectrum Disorder
+PHETA2	Autism Spectrum Disorder
+PHF14	Alzheimer's Disease
+PHF19	Alzheimer's Disease
+PHF1	Autism Spectrum Disorder
+PHF20	Glioma
+PHF5A	Glioma
+PHF6	Epilepsy
+PHF7	Autism Spectrum Disorder, Parkinson's Disease
+PHF8	Intellectual Disability
+PHGDH	Multiple Sclerosis
+PHKG1	Alzheimer's Disease, Multiple Sclerosis
+PHLDB1	Glioma, Multiple Sclerosis
+PHOX2B	Neuroblastoma
+PICALM	Alzheimer's Disease
+PICSAR	Narcolepsy, Narcolepsy
+PIEZO1	Parkinson's Disease
+PIGA	Ferro-Cerebro-Cutaneous Syndrome
+PIGC	Epilepsy, Intellectual Disability
+PIGL	Amyotrophic Lateral Sclerosis
+PIGN	Epilepsy, Intellectual Disability
+PIGP	Down Syndrome
+PIGT	Epilepsy, Intellectual Disability
+PIGZ	Alzheimer's Disease
+PIK3C2G	Alzheimer's Disease
+PIK3CA	Glioma
+PIK3CD	Alzheimer's Disease
+PIK3R1	Alzheimer's Disease, Glioma
+PIK3R6	Alzheimer's Disease
+PILRA	Alzheimer's Disease
+PINK1-AS	Parkinson's Disease
+PINK1	Parkinson's Disease, Parkinson's Disease
+PINX1	Autism Spectrum Disorder
+PIP4K2A	Alzheimer's Disease
+PIP4K2B	Alzheimer's Disease
+PIP5K1B	Friedreich Ataxia
+PITPNC1	Alzheimer's Disease
+PITPNM2	Autism Spectrum Disorder, Multiple Sclerosis
+PITRM1	Multiple Sclerosis
+PITX2	Stroke
+PIWIL2	Glioma
+PKD1	Tuberous Sclerosis
+PKD2L2	Autism Spectrum Disorder
+PKIA	Multiple Sclerosis
+PKM	Glioma
+PKN1	Down Syndrome
+PKN2	Narcolepsy
+PKNOX2	Alzheimer's Disease
+PKP2	Parkinson's Disease
+PKP4	Autism Spectrum Disorder, Restless legs Syndrome
+PLA2G2C	Alzheimer's Disease
+PLA2G6	Dystonia
+PLA2G7	Stroke
+PLAGL2	Glioma
+PLAT	Alzheimer's Disease, Stroke
+PLB1	Intracranial Aneurysm
+PLCB1	Autism Spectrum Disorder, Epilepsy
+PLCE1-AS1	Intracranial Aneurysm
+PLCE1	Intracranial Aneurysm
+PLCG2	Alzheimer's Disease
+PLCL1	Autism Spectrum Disorder, Intracranial Aneurysm
+PLCL2	Multiple Sclerosis
+PLEC	Alzheimer's Disease, Muscular Dystrophy
+PLEKHG1	Alzheimer's Disease
+PLEKHG5	Motor Neurone Disease, Multiple Sclerosis
+PLEKHM1	Parkinson's Disease
+PLEKHN1	Parkinson's Disease
+PLEK	Multiple Sclerosis
+PLOD3	Glioma
+PLPP4	Alzheimer's Disease
+PLPP5	Autism Spectrum Disorder
+PLPPR1	Parkinson's Disease
+PLVAP	Alzheimer's Disease
+PLXNB2	Glioma
+PLXNC1	Alzheimer's Disease, Multiple Sclerosis
+PM20D1	Parkinson's Disease
+PMAIP1	Alzheimer's Disease
+PMEPA1	Alzheimer's Disease
+PMF1-BGLAP	Stroke
+PMF1	Stroke
+PMP22	Amyotrophic Lateral Sclerosis, Charcot-Marie-Tooth Disease, Chronic Inflammatory Demyelinating Polyneuropathy
+PMS2CL	Alzheimer's Disease
+PMVK	Parkinson's Disease
+PNKD	Dystonia
+PNMA2	Encephalitis, Neuroblastoma
+PNPLA6	Motor Neurone Disease
+PNPLA7	Alzheimer's Disease
+PNPO	Epilepsy
+PODXL	Alzheimer's Disease
+POFUT1	Alzheimer's Disease
+POGZ	Intellectual Disability
+POLG	Epilepsy
+POLN	Alzheimer's Disease
+POLR1F	Intracranial Aneurysm
+POLR1H	Autism Spectrum Disorder
+POLR2A	Glioma
+POLR2E	Autism Spectrum Disorder
+POLR2F	Autism Spectrum Disorder
+POLR3B	Glioma
+POLRMTP1	Parkinson's Disease
+POM121L2	Autism Spectrum Disorder
+POMGNT1	Hydrocephalus, Muscular Dystrophy
+POMGNT2	Alzheimer's Disease
+POMT1	Hydrocephalus, Muscular Dystrophy
+POMT2	Hydrocephalus, Muscular Dystrophy
+POPDC3	Multiple Sclerosis
+POU2AF1	Multiple Sclerosis
+POU3F3	Glioma
+POU5F1	Autism Spectrum Disorder
+PPAT	Glioma
+PPDPF	Autism Spectrum Disorder
+PPIAP17	Alzheimer's Disease
+PPM1D	Glioma
+PPM1M	Autism Spectrum Disorder
+PPP1R10	Autism Spectrum Disorder
+PPP1R11	Autism Spectrum Disorder
+PPP1R13B	Autism Spectrum Disorder
+PPP1R13B-DT	Autism Spectrum Disorder
+PPP1R13L	Alzheimer's Disease, Glioma
+PPP1R16B	Autism Spectrum Disorder
+PPP1R18	Autism Spectrum Disorder
+PPP1R37	Alzheimer's Disease
+PPP1R3B	Alzheimer's Disease
+PPP1R42	Alzheimer's Disease
+PPP2R1B	Alzheimer's Disease
+PPP2R2B	Autism Spectrum Disorder
+PPP2R2D	Amyotrophic Lateral Sclerosis
+PPP2R3A	Autism Spectrum Disorder
+PPP2R5C	Autism Spectrum Disorder
+PPP2R5D	Hydrocephalus, Intellectual Disability
+PPP3CA	Alzheimer's Disease
+PPP4C	Autism Spectrum Disorder
+PPP4R3A	Alzheimer's Disease
+PPT2	Autism Spectrum Disorder
+PPT2-EGFL8	Autism Spectrum Disorder
+PRAC1	Restless legs Syndrome
+PRAG1	Parkinson's Disease
+PRAP1	Alzheimer's Disease
+PRB2	Glioma
+PRC2	Glioma
+PRDM15	Down Syndrome, Parkinson's Disease
+PRDM16	Alzheimer's Disease
+PRDM2	Intracranial Aneurysm, Parkinson's Disease
+PRDM9	Alzheimer's Disease
+PRDX1	Glioma
+PRDX5	Multiple Sclerosis
+PREPL	Autism Spectrum Disorder
+PREX1	Narcolepsy
+PRG2	Encephalitis, Glioma, Multiple Sclerosis
+PRICKLE1	Epilepsy, Multiple Sclerosis, Parkinson's Disease
+PRICKLE2	Alzheimer's Disease, Epilepsy
+Prion-associated RNAs	Prion Disease
+PRKACB	Autism Spectrum Disorder
+PRKAR1B	Alzheimer's Disease
+PRKCA	Glioma
+PRKCB	Glioma
+PRKCG	Glioma
+PRKCH	Stroke
+PRKCSH	Alzheimer's Disease
+PRKG1	Autism Spectrum Disorder, Stroke
+PRKN	Dysautonomia, Dystonia, Parkinson's Disease
+PRKRA	Dystonia, Multiple Sclerosis
+PRM1	Multiple Sclerosis
+PRM2	Multiple Sclerosis
+PRM3	Multiple Sclerosis
+PRMT1	Alzheimer's Disease
+PRMT5	Glioma
+PRMT5P1	Intracranial Aneurysm
+PRMT6	Restless legs Syndrome
+PRNCR1	Glioma, Multiple Sclerosis
+PRNP	Creutzfeldt Jakob Disease, Huntington's Disease
+PROM1	Glioma, Intracranial Aneurysm
+PROSER1	Alzheimer's Disease
+PROX1-AS1	Alzheimer's Disease
+PRPF31	Alzheimer's Disease
+PRPF3	Autism Spectrum Disorder
+PRPF40A	Huntington's Disease
+PRPF40B	Huntington's Disease
+PRPF8	Stroke
+PRPS1	Charcot-Marie-Tooth Disease, Glioma, Intellectual Disability
+PRR3	Autism Spectrum Disorder
+PRR5L	Multiple Sclerosis
+PRRC2A	Autism Spectrum Disorder
+PRRC2C	Alzheimer's Disease
+PRRG4	Parkinson's Disease
+PRRT1	Autism Spectrum Disorder
+PRSS16	Autism Spectrum Disorder
+PRSS35	Autism Spectrum Disorder
+PRSS53	Parkinson's Disease
+PRTFDC1	Alzheimer's Disease
+PRTN3	Alzheimer's Disease
+PRX	Charcot-Marie-Tooth Disease
+PRXL2B	Multiple Sclerosis
+PSAP	Gaucher Disease
+PSAT1	Glioma
+PSG11	Alzheimer's Disease
+PSG8	Glioma
+PSMA1	Alzheimer's Disease
+PSMA4	Autism Spectrum Disorder, Intracranial Aneurysm
+PSMA5	Down Syndrome
+PSMA6P4	Parkinson's Disease
+PSMA7	Glioma, Meningitis
+PSMB8-AS1	Autism Spectrum Disorder
+PSMB8	Autism Spectrum Disorder
+PSMB9	Autism Spectrum Disorder
+PSMC1P8	Amyotrophic Lateral Sclerosis
+PSMD4	Alzheimer's Disease
+PSMD6-AS1	Glioma
+PSMG1	Down Syndrome
+PSORS1C1	Autism Spectrum Disorder
+PSORS1C2	Autism Spectrum Disorder
+PSORS1C3	Autism Spectrum Disorder
+PSTK	Alzheimer's Disease
+PSTPIP1	Alzheimer's Disease
+PTBP2	Autism Spectrum Disorder
+PTCH1	Glioma
+PTCHD3	Epilepsy
+PTEN	Autism Spectrum Disorder, Glioma, Hydrocephalus, Multiple Sclerosis
+PTGDS	Multiple Sclerosis
+PTGER4	Multiple Sclerosis
+PTGFR	Alzheimer's Disease
+PTGS1	Epilepsy
+PTK2B	Alzheimer's Disease, Autism Spectrum Disorder
+PTK6	Autism Spectrum Disorder
+PTK7	Alzheimer's Disease, Glioma
+PTN	Glioma
+PTPDC1	Parkinson's Disease
+PTPN11	Glioma, Multiple Sclerosis
+PTPN12	Alzheimer's Disease
+PTPN18	Alzheimer's Disease
+PTPRC	Multiple Sclerosis
+PTPRD	Autism Spectrum Disorder, Epilepsy, Intracranial Aneurysm, Parkinson's Disease, Restless legs Syndrome
+PTPRE	Alzheimer's Disease
+PTPRF	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Stroke
+PTPRG	Alzheimer's Disease, Stroke
+PTPRK	Multiple Sclerosis
+PTPRN2	Alzheimer's Disease
+PTPRN	Glioma
+PTPRZ1	Glioma
+PTS	Dystonia
+PURA	Epilepsy, Intellectual Disability
+PUS10	Multiple Sclerosis
+PVR	Alzheimer's Disease, Multiple Sclerosis
+PVT1	Alzheimer's Disease, Multiple Sclerosis, Neuroblastoma
+PWAR1	Prader-willi Syndrome and Angelman Syndrome
+PWAR4	Prader-willi Syndrome and Angelman Syndrome
+PWAR5	Glioma, Prader-Willi Syndrome, Prader-willi Syndrome and Angelman Syndrome
+PWP2	Epilepsy
+PWRN1	Prader-Willi Syndrome
+PWRN2	Prader-Willi Syndrome
+PWRN4	Parkinson's Disease
+PXT1	Multiple Sclerosis
+PYCARD	Glioma
+PYGB	Autism Spectrum Disorder
+PYGL	Alzheimer's Disease
+PYGO2	Glioma
+QARS1	Epilepsy
+QKI	Glioma
+QSER1	Parkinson's Disease
+R3HDM1	Autism Spectrum Disorder
+R3HDM2	Autism Spectrum Disorder
+RAB11FIP5	Alzheimer's Disease
+RAB1A	Alzheimer's Disease, Glioma
+RAB25	Parkinson's Disease
+RAB27A	Glioma
+RAB29	Parkinson's Disease
+RAB38	Multiple Sclerosis
+RAB39B	Autism Spectrum Disorder, Epilepsy, Intellectual Disability
+RAB3D	Alzheimer's Disease
+RAB40AL	Muscular Dystrophy
+RAB43	Glioma
+RAB5C	Alzheimer's Disease
+RAB7A	Charcot-Marie-Tooth Disease
+RABEP1	Tuberous Sclerosis
+RABEPKP1	Alzheimer's Disease
+RABL6	Alzheimer's Disease
+RAC1	Down Syndrome
+RAC1P2	Alzheimer's Disease
+RAD23BP2	Stroke
+RAD51B	Multiple Sclerosis
+RAI1	Parkinson's Disease
+RALGAPA1	Tuberous Sclerosis
+RALGAPA2	Tuberous Sclerosis
+RALGAPB	Tuberous Sclerosis
+RALGDS	Tuberous Sclerosis
+RALY	Autism Spectrum Disorder
+RALYL	Autism Spectrum Disorder
+RAMP2-AS1	Glioma
+RANBP2	Coma
+RanBP6	Glioma
+RANGAP1	Autism Spectrum Disorder
+RANP7	Alzheimer's Disease
+RAPGEF1	Alzheimer's Disease
+RAPGEF6	Alzheimer's Disease
+RARS2	Epilepsy, Pontocerebellar Hypoplasia
+RASA3	Alzheimer's Disease
+RASAL3	Alzheimer's Disease
+RASD2	Huntington's Disease
+RASGEF1A	Multiple Sclerosis
+RASGRP1	Multiple Sclerosis
+RASSF10	Glioma
+RASSF2	Glioma
+RASSF5	Cerebral Palsy
+RAVER2	Glioma
+RB1	Glioma
+RBBP4P4	Alzheimer's Disease
+RBBP8	Intracranial Aneurysm
+RBFOX1	Alzheimer's Disease, Autism Spectrum Disorder, Intracranial Aneurysm
+RBM11	Down Syndrome
+RBM17	Multiple Sclerosis
+RBM19	Alzheimer's Disease
+RBM20	Alzheimer's Disease
+RBM33	Alzheimer's Disease
+RBM45	Multiple Sclerosis
+RBM4	Down Syndrome
+RBM5	Autism Spectrum Disorder
+RBMS1	Amyotrophic Lateral Sclerosis
+RBMS3	Alzheimer's Disease, Intracranial Aneurysm, Parkinson's Disease
+RBP-Jk	Glioma
+RBPJL	Alzheimer's Disease
+RBSN	Autism Spectrum Disorder
+RBX1	Autism Spectrum Disorder
+RCAN1	Down Syndrome
+RCAN2	Down Syndrome
+RCAN3	Down Syndrome
+RCL1	Multiple Sclerosis
+RCOR1	Multiple Sclerosis
+RD3	Autism Spectrum Disorder
+RD3L	Autism Spectrum Disorder
+RDX	Multiple Sclerosis
+REEP2	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder
+REG1A	Down Syndrome
+REG4	Alzheimer's Disease, Glioma
+RELB	Alzheimer's Disease
+RELN	Alzheimer's Disease, Epilepsy, Multiple Sclerosis
+RERE	Autism Spectrum Disorder, Epilepsy, Intellectual Disability, Parkinson's Disease
+REST/CoREST-regulated lncRNAs	Huntington's Disease
+RET	Neuroblastoma, Paraganglioma
+RETREG3	Parkinson's Disease
+RFC3	Alzheimer's Disease
+RFC5P1	Alzheimer's Disease
+RFK	Multiple Sclerosis
+RFPL2	Alzheimer's Disease
+RFT1	Autism Spectrum Disorder
+RFTN2	Autism Spectrum Disorder, Stroke
+RFX3	Glioma
+RFX5	Alzheimer's Disease
+RGCC	Multiple Sclerosis
+RGL2	Alzheimer's Disease, Autism Spectrum Disorder
+RGS14	Multiple Sclerosis
+RGS1	Multiple Sclerosis
+RGS21	Multiple Sclerosis
+RGS6	Autism Spectrum Disorder, Intellectual Disability, Intracranial Aneurysm
+RGS7	Autism Spectrum Disorder
+RGS9BP	Alzheimer's Disease
+RHBDF1	Alzheimer's Disease, Glioma
+RHBDF2	Alzheimer's Disease
+RHEB	Tuberous Sclerosis
+RHOBTB2	Alzheimer's Disease
+RHOH	Multiple Sclerosis
+RIC8A	Meningioma
+RILPL2	Autism Spectrum Disorder
+RIMS1	Autism Spectrum Disorder, Parkinson's Disease
+RIMS2	Autism Spectrum Disorder
+RIN3	Alzheimer's Disease
+RIPPLY3	Down Syndrome
+RIT2	Autism Spectrum Disorder, Parkinson's Disease
+RLN1	Glioma
+RLN3	Glioma
+RMI2	Multiple Sclerosis
+RMND1	Epilepsy
+RMST	Stroke
+RN7SK	Multiple Sclerosis
+RN7SKP141	Alzheimer's Disease
+RN7SKP168	Alzheimer's Disease
+RN7SKP27	Alzheimer's Disease
+RN7SL271P	Alzheimer's Disease
+RN7SL363P	Stroke
+RN7SL474P	Parkinson's Disease
+RN7SL509P	Stroke
+RN7SL568P	Stroke
+RN7SL636P	Alzheimer's Disease
+RN7SL802P	Stroke
+RN7SL813P	Parkinson's Disease
+RN7SL825P	Alzheimer's Disease
+RN7SL831P	Autism Spectrum Disorder
+RNA5-8SP2	Alzheimer's Disease
+RNA5SP127	Restless legs Syndrome
+RNA5SP130	Glioma
+RNA5SP189	Alzheimer's Disease
+RNA5SP347	Amyotrophic Lateral Sclerosis
+RNA5SP379	Alzheimer's Disease
+RNA5SP459	Autism Spectrum Disorder
+RNA5SP471	Narcolepsy
+RNA5SP63	Autism Spectrum Disorder
+RNASE2	Glioma
+RNASEH1P1	Cerebral Palsy
+RNASEH2A	Encephalitis
+RNASEH2B	Encephalitis
+RNASEH2C	Encephalitis
+RNASEL	Multiple Sclerosis
+RND2	Alzheimer's Disease
+RNF115	Epilepsy
+RNF11	Parkinson's Disease
+RNF141	Parkinson's Disease
+RNF144A	Intracranial Aneurysm
+RNF166	Alzheimer's Disease
+RNF19A	Parkinson's Disease
+RNF19B	Alzheimer's Disease
+RNF39	Autism Spectrum Disorder
+RNF43	Alzheimer's Disease, Stroke
+RNF4	Alzheimer's Disease, Huntington's Disease
+RNF5	Autism Spectrum Disorder
+RNF5P1	Autism Spectrum Disorder
+RNF6	Alzheimer's Disease
+RNF7	Autism Spectrum Disorder
+RNF8	Restless legs Syndrome
+RNFT2	Alzheimer's Disease
+RNU1-138P	Parkinson's Disease
+RNU1-61P	Autism Spectrum Disorder
+RNU1-98P	Amyotrophic Lateral Sclerosis
+RNU6-1032P	Intracranial Aneurysm
+RNU6-1037P	Alzheimer's Disease
+RNU6-1103P	Autism Spectrum Disorder
+RNU6-1180P	Stroke
+RNU6-19P	Multiple Sclerosis
+RNU6-1	Glioma
+RNU6-248P	Alzheimer's Disease
+RNU6-261P	Alzheimer's Disease
+RNU6-363P	Intracranial Aneurysm
+RNU6-412P	Alzheimer's Disease
+RNU6-478P	Alzheimer's Disease
+RNU6-637P	Alzheimer's Disease
+RNU6-649P	Alzheimer's Disease
+RNU6-67P	Alzheimer's Disease
+RNU6-682P	Autism Spectrum Disorder
+RNU6-967P	Narcolepsy
+RNU6-976P	Alzheimer's Disease, Autism Spectrum Disorder
+RNU7-106P	Alzheimer's Disease
+RNU7-159P	Stroke
+RORA	Multiple Sclerosis
+RP11-1029J19.4	Autism Spectrum Disorder
+RP11-102N11.1	Neuroblastoma
+RP11-1035H13.3	Alzheimer's Disease
+RP11-114H23.1	Alzheimer's Disease
+RP11-115K3.1	Autism Spectrum Disorder
+RP11-118	Glioma
+RP1-111C20.4	Alzheimer's Disease
+RP11-122K13.7	Alzheimer's Disease
+RP11-1252I4.2	Alzheimer's Disease
+RP11-126K1.8	Alzheimer's Disease
+RP11-126O1.5	Alzheimer's Disease
+RP11-127L20.6	Autism Spectrum Disorder
+RP11-128A17.1	Glioma
+RP11-129B22.1	Alzheimer's Disease
+RP11-12J10.3	Alzheimer's Disease
+RP11-142A22.3	Glioma
+RP11-146F11.5	Alzheimer's Disease
+RP11-14H3.3	Alzheimer's Disease
+RP11-151A10.3	Alzheimer's Disease
+RP11-154D6.1	Cerebral Palsy
+RP11-162I7	Parkinson's Disease
+RP11-164H13.1	Alzheimer's Disease
+RP11-168L7.3	Alzheimer's Disease
+RP11-16N10.2	Alzheimer's Disease
+RP11-170M17.1	Alzheimer's Disease
+RP11-182N22.9	Alzheimer's Disease
+RP11-190A12.10	Alzheimer's Disease
+RP11-190A12.4	Alzheimer's Disease
+RP11-190A12.7	Alzheimer's Disease
+RP11-196G11.1	Alzheimer's Disease
+RP11-196G11.3	Alzheimer's Disease
+RP11-196H14.2	Autism Spectrum Disorder
+RP11-20I23.1	Autism Spectrum Disorder
+RP11-20I23.2	Autism Spectrum Disorder
+RP11-20I23.3	Autism Spectrum Disorder
+RP11-216L13.18	Alzheimer's Disease
+RP11-219B17.1	Alzheimer's Disease
+RP11-231C18.3	Alzheimer's Disease
+RP11-239E10.2	Alzheimer's Disease
+RP11-23F23.2	Alzheimer's Disease
+RP11-247A12.2	Alzheimer's Disease
+RP11-252K23.2	Intracranial Aneurysm
+RP11-264B17.3	Alzheimer's Disease
+RP11-269C23.3	Alzheimer's Disease
+RP11-26J3.1	Alzheimer's Disease
+RP11-276H1.3	Alzheimer's Disease
+RP11-27N21.3	Alzheimer's Disease
+RP11-297K7.2	Alzheimer's Disease
+RP11-2N1.2	Alzheimer's Disease
+RP11-306I1.2	Alzheimer's Disease
+RP11-307N16.6	Alzheimer's Disease
+RP11-309N17.4	Alzheimer's Disease
+RP11-310N16.1	Autism Spectrum Disorder
+RP11-319G9.5	Alzheimer's Disease
+RP11-335L23.3	Alzheimer's Disease
+RP11-335O13.7	Alzheimer's Disease
+RP11-33N16.3	Alzheimer's Disease
+RP11-342M3.5	Alzheimer's Disease, Autism Spectrum Disorder
+RP11-34F20.7	Alzheimer's Disease
+RP11-359E8.3	Autism Spectrum Disorder
+RP11-363N22.3	Alzheimer's Disease
+RP11-367G18.1	Alzheimer's Disease
+RP11-374C13.1	Neuroblastoma
+RP11-375D13.2	Alzheimer's Disease
+RP11-385E5.3	Alzheimer's Disease
+RP11-385E5.4	Alzheimer's Disease
+RP11-385E5.8	Alzheimer's Disease
+RP11-407B7.1	Alzheimer's Disease
+RP11-407B7.3	Alzheimer's Disease
+RP11-417N10.4	Autism Spectrum Disorder
+RP11-423H2.1	Alzheimer's Disease
+RP11-423H2.3	Alzheimer's Disease
+RP11-437L7.1	Alzheimer's Disease
+RP11-444E17.6	Alzheimer's Disease
+RP11-452H21.1	Alzheimer's Disease
+RP11-454P7.3	Alzheimer's Disease
+RP11-459C13.1	Alzheimer's Disease
+RP11-45P15.5	Alzheimer's Disease
+RP11-465B22.5	Autism Spectrum Disorder
+RP11-492M23.1	Alzheimer's Disease
+RP11-495P10.3	Alzheimer's Disease
+RP11-505E24.2	Alzheimer's Disease
+RP11-508N22.2	Alzheimer's Disease
+RP11-510C10.4	Alzheimer's Disease
+RP11-513O17.2	Alzheimer's Disease
+RP11-513O17.3	Alzheimer's Disease
+RP11-517I3.1	Alzheimer's Disease
+RP11-536C5.2	Autism Spectrum Disorder
+RP11-554D14.6	Alzheimer's Disease
+RP11-558F24.4	Alzheimer's Disease
+RP11-564D11.3	Alzheimer's Disease
+RP11-576D8.4	Cerebral Palsy
+RP11-58H20.3	Alzheimer's Disease
+RP11-613D13.5	Alzheimer's Disease
+RP11-624M8.1	Alzheimer's Disease
+RP11-630C16	Parkinson's Disease
+RP11-637O19.3	Autism Spectrum Disorder
+RP1-167G20.1	Autism Spectrum Disorder
+RP11-689B22.2	Alzheimer's Disease
+RP11-691N7.6	Alzheimer's Disease
+RP11-6O2.4	Alzheimer's Disease
+RP11-726G23.11	Alzheimer's Disease
+RP11-726G23.2	Alzheimer's Disease
+RP11-76N22.3	Narcolepsy
+RP11-771O11.3	Alzheimer's Disease
+RP11-798K3.2	Alzheimer's Disease
+RP11-809O17.1	Alzheimer's Disease
+RP11-80F22.14	Alzheimer's Disease
+RP11-80F22.15	Alzheimer's Disease
+RP11-814P5.1	Alzheimer's Disease
+RP11-830F9.6	Alzheimer's Disease
+RP11-867G23.13	Cerebral Palsy
+RP11-887P2.1	Alzheimer's Disease
+RP11-887P2.5	Alzheimer's Disease
+RP11-930P14.1	Alzheimer's Disease
+RP11-94C24.6	Alzheimer's Disease
+RP11-961A15.1	Alzheimer's Disease
+RP11-977G19.10	Alzheimer's Disease
+RP11-977G19.11	Alzheimer's Disease
+RP11-97N10.1	Alzheimer's Disease
+RP13-143G15.4	Autism Spectrum Disorder
+RP1-34M23.5	Alzheimer's Disease
+RP13-516M14.10	Alzheimer's Disease
+RP13-614K11.1	Neuroblastoma
+RP1-93H18.7	Alzheimer's Disease
+RP1L1	Alzheimer's Disease, Autism Spectrum Disorder
+RP3-340N1.6	Alzheimer's Disease
+RP3-406A7.3	Alzheimer's Disease
+RP3-467L1.4	Alzheimer's Disease
+RP4-535B20.1	Autism Spectrum Disorder
+RP4-614C10.2	Alzheimer's Disease
+RP4-622L5.7	Alzheimer's Disease
+RP4-635E18.7	Glioma
+RP4-713A8.1	Alzheimer's Disease
+RP4-728D4.2	Alzheimer's Disease
+RP4-745E8.2	Alzheimer's Disease
+RP4-761J14.9	Alzheimer's Disease
+RP5-1029K10.2	Alzheimer's Disease
+RP5-1125A11.1	Autism Spectrum Disorder
+RP5-1169K15.1	Alzheimer's Disease
+RP5-965G21.5	Autism Spectrum Disorder
+RPAP2	Multiple Sclerosis
+RPL10A	Glioma
+RPL10	Autism Spectrum Disorder, Intellectual Disability
+RPL10P2	Autism Spectrum Disorder
+RPL12P37	Alzheimer's Disease
+RPL13AP25	Amyotrophic Lateral Sclerosis
+RPL13AP7	Alzheimer's Disease
+RPL13P	Alzheimer's Disease
+RPL15P2	Alzheimer's Disease
+RPL34P19	Alzheimer's Disease
+RPL34P29	Alzheimer's Disease
+RPL36AP26	Stroke
+RPL3P8	Alzheimer's Disease
+RPL5	Multiple Sclerosis
+RPL5P26	Alzheimer's Disease
+RPL7AP36	Alzheimer's Disease
+RPP21	Autism Spectrum Disorder
+RPS10P21	Stroke
+RPS12	Parkinson's Disease
+RPS14P7	Narcolepsy
+RPS15A	Alzheimer's Disease
+RPS17P2	Alzheimer's Disease
+RPS18	Autism Spectrum Disorder
+RPS19P1	Alzheimer's Disease
+RPS27P10	Alzheimer's Disease
+RPS4XP18	Intracranial Aneurysm
+RPS6KA2	Alzheimer's Disease
+RPS6KA5	Multiple Sclerosis
+RPS6KB1	Multiple Sclerosis
+RPS6KL1	Parkinson's Disease
+RPS9	Alzheimer's Disease
+RPTN	Neuroblastoma
+RRAS2	Alzheimer's Disease, Multiple Sclerosis
+RREB1	Alzheimer's Disease, Multiple Sclerosis
+RRP1B	Spinocerebellar Ataxia
+RSL24D1P1	Parkinson's Disease
+RSPH9	Intracranial Aneurysm
+RSRC1	Autism Spectrum Disorder, Glioma
+RSU1	Autism Spectrum Disorder
+RTEL1	Glioma
+RTEL1-TNFRSF6B	Glioma
+RTK	Glioma
+RTN3	Autism Spectrum Disorder
+RTN4	Alzheimer's Disease, Autism Spectrum Disorder
+RTP5	Autism Spectrum Disorder
+RUNX1	Stroke
+RUNX1T1	Tourette Syndrome
+RUNX2	Alzheimer's Disease
+RUNX3	Multiple Sclerosis
+S100G	Autism Spectrum Disorder
+S100	Glioma
+S1PR1	Multiple Sclerosis
+SACS	Epilepsy
+SAE1	Multiple Sclerosis
+SALL4	Neuroblastoma
+SALL4P5	Alzheimer's Disease
+SAMD12-AS1	Neuroblastoma
+SAMD12	Multiple Sclerosis
+SAMD14	Alzheimer's Disease
+SAMHD1	Encephalitis
+SAP30L	Alzheimer's Disease
+SAPCD1-AS1	Autism Spectrum Disorder, Glioma
+SAPCD1	Autism Spectrum Disorder
+SARM1	Amyotrophic Lateral Sclerosis
+SART3	Glioma
+SASH1	Alzheimer's Disease
+SATB1-AS1	Multiple Sclerosis
+SATB1	Glioma, Parkinson's Disease
+SATB2	Autism Spectrum Disorder, Intellectual Disability
+SBF2	Charcot-Marie-Tooth Disease
+SBNO1	Autism Spectrum Disorder
+SCAANT1-AS	Spinocerebellar Ataxia
+SCAANT1	Spinocerebellar Ataxia
+SCAF11	Multiple Sclerosis, Parkinson's Disease
+SCAMP2	Multiple Sclerosis
+SCAMP3	Gaucher Disease
+SCAND2P	Autism Spectrum Disorder
+SCARA3	Autism Spectrum Disorder
+SCARB1	Alzheimer's Disease
+SCARB2	Epilepsy, Parkinson's Disease
+SCARF1	Intracranial Aneurysm
+SCD	Glioma
+SCFD1	Amyotrophic Lateral Sclerosis
+SCGB3A2	Alzheimer's Disease
+SCGN	Autism Spectrum Disorder
+SCIMP	Alzheimer's Disease
+SCN1A	Autism Spectrum Disorder, Epilepsy, Generalized Epilepsy with Febrile Seizures Plus
+SCN1B	Epilepsy, Generalized Epilepsy with Febrile Seizures Plus
+SCN2A	Autism Spectrum Disorder, Epilepsy, Generalized Epilepsy with Febrile Seizures Plus
+SCN3A	Autism Spectrum Disorder, Epilepsy, Parkinson's Disease
+SCN7A	Amyotrophic Lateral Sclerosis
+SCN8A	Epilepsy, Intellectual Disability
+SCN9A	Generalized Epilepsy with Febrile Seizures Plus
+SCO2	Multiple Sclerosis
+SCUBE2	Alzheimer's Disease
+SDCBP	Autism Spectrum Disorder
+SDF-1	Glioma
+SDHA	Dystonia
+SDHAF1	Alzheimer's Disease, Dystonia
+SDK1	Alzheimer's Disease
+SDR42E2	Alzheimer's Disease
+SDR9C7	Alzheimer's Disease
+SEC11A	Autism Spectrum Disorder
+Sec11C	Alzheimer's Disease
+SEC13	Autism Spectrum Disorder
+SEC14L1	Alzheimer's Disease
+SEC14L3	Alzheimer's Disease
+SEC16B	Amyotrophic Lateral Sclerosis
+SELENOH	Autism Spectrum Disorder
+SELENON	Muscular Dystrophy
+SELL	Amyotrophic Lateral Sclerosis
+SELP	Stroke
+SEMA3A	Autism Spectrum Disorder, Stroke
+SEMA3G	Autism Spectrum Disorder
+SEMA4A	Parkinson's Disease
+SEMA4D	Alzheimer's Disease
+SEMA5A	Autism Spectrum Disorder, Parkinson's Disease
+SEMA6A	Amyotrophic Lateral Sclerosis
+SEMA6D	Restless legs Syndrome
+SENP7	Alzheimer's Disease
+SEPT5-GP1BB	Alzheimer's Disease
+SEPTIN14	Glioma
+SEPTIN3	Autism Spectrum Disorder
+SEPTIN5	Alzheimer's Disease, Parkinson's Disease
+SERINC5	Alzheimer's Disease
+SERPINA10	Neuroblastoma
+SERPINA1	Autism Spectrum Disorder
+SERPINA2	Autism Spectrum Disorder
+SERPINA3	Alzheimer's Disease, Glioma
+SERPING1	Autism Spectrum Disorder
+SERPINI1	Autism Spectrum Disorder
+SETBP1	Restless legs Syndrome
+SETD1A	Multiple Sclerosis, Parkinson's Disease
+SETD2	Huntington's Disease
+SETD5	Intellectual Disability
+SETD6	Autism Spectrum Disorder
+SETD7	Alzheimer's Disease
+SETD9	Alzheimer's Disease
+SETDB1	Huntington's Disease
+SETX	Motor Neurone Disease
+SEZ6L2	Autism Spectrum Disorder
+SF3B1	Autism Spectrum Disorder
+SFMBT1	Autism Spectrum Disorder, Multiple Sclerosis
+SFRP2	Glioma
+SFSWAP	Alzheimer's Disease
+SFT2D2	Alzheimer's Disease
+SFTA2	Autism Spectrum Disorder
+SFXN2	Autism Spectrum Disorder, Parkinson's Disease
+SFXN4	Glioma, Stroke
+SFXN5	Autism Spectrum Disorder
+SGCA	Muscular Dystrophy
+SGCB	Muscular Dystrophy
+SGCD	Multiple Sclerosis, Muscular Dystrophy
+SGCE	Dystonia, Muscular Dystrophy
+SGCG	Muscular Dystrophy
+SGK1	Alzheimer's Disease
+SGK3	Alzheimer's Disease
+SGO1-AS1	Autism Spectrum Disorder
+SGSM2	Autism Spectrum Disorder, Multiple Sclerosis
+SH2B3	Alzheimer's Disease, Multiple Sclerosis, Stroke
+SH2D4B	Alzheimer's Disease
+SH3BP2	Huntington's Disease, Multiple Sclerosis
+SH3GL2	Multiple Sclerosis, Parkinson's Disease
+SH3PXD2A	Alzheimer's Disease, Stroke
+SH3PXD2B	Alzheimer's Disease
+SH3RF1	Alzheimer's Disease
+SH3TC1	Alzheimer's Disease
+SH3TC2	Charcot-Marie-Tooth Disease
+SHANK3	Autism Spectrum Disorder
+SHC3	Autism Spectrum Disorder
+SHISA9	Autism Spectrum Disorder
+SHMT1	Multiple Sclerosis
+SHMT2	Autism Spectrum Disorder
+SHTN1	Autism Spectrum Disorder
+SIAH1	Parkinson's Disease
+SIDT1	Multiple Sclerosis
+SIK1	Alzheimer's Disease, Epilepsy
+SIM1	Down Syndrome
+SIM2	Down Syndrome
+SIN3A	Intellectual Disability
+SIPA1L2	Alzheimer's Disease, Parkinson's Disease
+SIRPG	Intracranial Aneurysm
+SIRT2	Glioma
+SKAP2	Multiple Sclerosis
+SKIV2L	Autism Spectrum Disorder
+SKOR1	Restless legs Syndrome
+SLAMF1	Multiple Sclerosis
+SLAMF6	Alzheimer's Disease, Multiple Sclerosis
+SLAMF7	Multiple Sclerosis
+SLA	Multiple Sclerosis
+SLC12A6	Agenesis Corpus Callosum
+SLC14A2	Alzheimer's Disease
+SLC15A2	Multiple Sclerosis
+SLC15A4	Alzheimer's Disease
+SLC16A1	Glioma
+SLC16A2	Dystonia
+SLC16A3	Alzheimer's Disease
+SLC16A8	Glioma
+SLC17A1	Autism Spectrum Disorder
+SLC17A2	Autism Spectrum Disorder
+SLC17A3	Autism Spectrum Disorder
+SLC17A4	Autism Spectrum Disorder
+SLC17A6	Autism Spectrum Disorder
+SLC18A1	Amyotrophic Lateral Sclerosis
+SLC19A3	Dystonia
+SLC1A2	Amyotrophic Lateral Sclerosis
+SLC1A4	Intellectual Disability
+SLC22A18AS	Autism Spectrum Disorder
+SLC22A4	Intracranial Aneurysm
+SLC22A5	Intracranial Aneurysm
+SLC22A7	Autism Spectrum Disorder, Stroke
+SLC24A3	Intracranial Aneurysm
+SLC24A4	Alzheimer's Disease
+SLC25A13	Coma
+SLC25A15	Coma
+SLC25A17	Autism Spectrum Disorder
+SLC25A20	Coma
+SLC25A22	Epilepsy
+SLC25A26	Glioma
+SLC25A27	Autism Spectrum Disorder
+SLC25A36	Multiple Sclerosis
+SLC25A37	Alzheimer's Disease
+SLC25A6P5	Alzheimer's Disease
+SLC28A1	Alzheimer's Disease, Autism Spectrum Disorder
+SLC29A3	Alzheimer's Disease
+SLC2A13	Alzheimer's Disease, Parkinson's Disease
+SLC2A14	Intracranial Aneurysm
+SLC2A1	Dystonia, Epilepsy
+SLC2A3	Glioma
+SLC2A4A	Alzheimer's Disease
+SLC2A4RG	Huntington's Disease, Multiple Sclerosis
+SLC2A5	Alzheimer's Disease
+SLC2A9	Alzheimer's Disease
+SLC30A7	Multiple Sclerosis
+SLC34A3	Cerebral Palsy
+SLC35A2	Epilepsy
+SLC35F2	Autism Spectrum Disorder
+SLC35F3	Intracranial Aneurysm
+SLC35G2	Autism Spectrum Disorder
+SLC39A11	Amyotrophic Lateral Sclerosis
+SLC39A8	Alzheimer's Disease, Autism Spectrum Disorder, Parkinson's Disease
+SLC41A1	Parkinson's Disease
+SLC44A2	Multiple Sclerosis
+SLC44A4	Autism Spectrum Disorder, Parkinson's Disease
+SLC45A1	Autism Spectrum Disorder
+SLC45A3	Parkinson's Disease
+SLC47A1	Intracranial Aneurysm
+SLC4A1AP	Alzheimer's Disease
+SLC4A8	Alzheimer's Disease
+SLC52A2	Autism Spectrum Disorder
+SLC5A4-AS1	Intracranial Aneurysm
+SLC6A16	Multiple Sclerosis
+SLC6A3	Attention Deficit Hyperactivity Disorder
+SLC6A8	Intellectual Disability
+SLC6A9	Autism Spectrum Disorder
+SLC7A10	Multiple Sclerosis
+SLC7A2-IT1A/B	Progressive Encephalopathy with Severe infantile Anorexia
+SLC7A5	Alzheimer's Disease, Autism Spectrum Disorder
+SLC7A6OS	Multiple Sclerosis
+SLC7A7	Coma
+SLC8A1-AS1	Alzheimer's Disease
+SLC9A3R1	Glioma
+SLC9A6	Epilepsy, Intellectual Disability
+SLC9A8	Multiple Sclerosis
+SLC9A9	Attention Deficit Hyperactivity Disorder, Autism Spectrum Disorder
+SLC9B1	Multiple Sclerosis
+SLCO1B3	Parkinson's Disease
+SLCO4A1	Alzheimer's Disease
+SLIT1	Alzheimer's Disease
+SLITRK1	Tourette Syndrome
+SLK	Neuroblastoma
+SLURP1	Hydrocephalus
+SMAD3	Restless legs Syndrome
+SMAD4	Glioma
+SMAD6	Glioma
+SMARCA2	Autism Spectrum Disorder, Parkinson's Disease
+SMARCA4	Glioma, Multiple Sclerosis, Stroke
+SMARCE1P4	Alzheimer's Disease
+SMC1A	Epilepsy, Intellectual Disability
+SMC4P1	Alzheimer's Disease
+SMCR2	Smith-Magenis Syndrome
+SMCR5	Smith-Magenis Syndrome
+SMCR6	Smith-Magenis Syndrome
+SMDT1	Autism Spectrum Disorder
+SMG6	Autism Spectrum Disorder, Multiple Sclerosis
+SMILR	Alzheimer's Disease
+SMIM11A	Down Syndrome
+SMIM12	Alzheimer's Disease
+SMIM15	Autism Spectrum Disorder
+SMIM21	Autism Spectrum Disorder
+SMIM29	Multiple Sclerosis
+SMIM2-AS1	Amyotrophic Lateral Sclerosis
+SMIM30	Major Depression Disorder
+SMIM4	Autism Spectrum Disorder
+SMLR1	Neuroblastoma
+SMOC1	Glioma
+SMO	Glioma
+SMOM2	Glioma
+SMTNL2	Alzheimer's Disease
+SMURF1	Alzheimer's Disease
+SMYD3	Alzheimer's Disease
+SNAP91	Autism Spectrum Disorder
+SNAR-I	Alzheimer's Disease
+SNCA	Alzheimer's Disease, Dementia (Non Alzheimer), Dysautonomia, Parkinson's Disease
+SNCAIP	Dysautonomia, Parkinson's Disease
+SNCB	Alzheimer's Disease, Parkinson's Disease
+SND1	Alzheimer's Disease
+SNHG14	Alzheimer's Disease, Angelman Syndrome, Cerebral infarction, Prader-Willi Syndrome
+SNHG18	Glioma
+SNHG1	Glioma, Neuroblastoma, Parkinson's Disease
+SNHG20	Glioma
+SNHG32	Autism Spectrum Disorder
+SNHG3	Alzheimer's Disease
+SNORA105A	Autism Spectrum Disorder
+SNORA105B	Autism Spectrum Disorder
+SNORA28	Autism Spectrum Disorder
+SNORA38	Autism Spectrum Disorder
+SNORA46	Autism Spectrum Disorder
+SNORA50A	Autism Spectrum Disorder
+SNORC	Autism Spectrum Disorder
+SNORD117	Autism Spectrum Disorder
+SNORD128	Autism Spectrum Disorder
+SNORD136	Autism Spectrum Disorder
+SNORD140	Autism Spectrum Disorder
+SNORD19	Autism Spectrum Disorder
+SNORD19B	Autism Spectrum Disorder
+SNORD32B	Autism Spectrum Disorder
+SNORD48	Autism Spectrum Disorder
+SNORD52	Autism Spectrum Disorder
+SNORD63	Autism Spectrum Disorder
+SNORD67	Autism Spectrum Disorder
+SNORD69	Autism Spectrum Disorder
+SNORD84	Autism Spectrum Disorder
+SNORD91A	Autism Spectrum Disorder
+SNORD91B	Autism Spectrum Disorder
+snoU13	Alzheimer's Disease
+snoZ6	Alzheimer's Disease
+SNRNP200	Autism Spectrum Disorder
+SNRNP27	Alzheimer's Disease
+SNRPB	Cerebrocostomandibular Syndrome
+SNRPG	Alzheimer's Disease
+SNRPN	Prader-Willi Syndrome
+SNX13	Parkinson's Disease
+SNX14	Intellectual Disability
+SNX19	Autism Spectrum Disorder
+SNX29	Alzheimer's Disease
+SNX31	Alzheimer's Disease
+SNX8	Autism Spectrum Disorder
+SNX9	Alzheimer's Disease
+SOAT1	Glioma
+SOBP	Alzheimer's Disease, Intellectual Disability
+SOCS1	Multiple Sclerosis
+SOCS2	Alzheimer's Disease
+SOD1	Amyotrophic Lateral Sclerosis, Motor Neurone Disease
+SON	Epilepsy, Intellectual Disability
+SORBS1	Autism Spectrum Disorder
+SORBS3	Alzheimer's Disease, Parkinson's Disease
+SORCS3	Alzheimer's Disease, Autism Spectrum Disorder
+SORD	Alzheimer's Disease
+SORL1	Alzheimer's Disease
+SOX10	Glioma
+SOX14	Alzheimer's Disease
+SOX17	Intracranial Aneurysm
+SOX21-AS1	Glioma
+SOX21	Glioma
+SOX2	Glioma
+SOX2-OT	Alzheimer's Disease, Glioma, Neurodevelopmental Disability
+SOX7	Autism Spectrum Disorder, Intracranial Aneurysm
+SOX8	Multiple Sclerosis
+SOX9	Glioma
+SP140	Multiple Sclerosis
+SP6	Alzheimer's Disease
+SPATA13	Alzheimer's Disease
+SPATA31D1	Autism Spectrum Disorder
+SPATA31D3	Autism Spectrum Disorder
+SPATA31D4	Autism Spectrum Disorder
+SPATA31D5P	Autism Spectrum Disorder
+SPATA48	Alzheimer's Disease, Multiple Sclerosis
+SPATC1	Alzheimer's Disease
+SPATS2L	Autism Spectrum Disorder
+SPCS1	Autism Spectrum Disorder
+SPCS3	Intracranial Aneurysm
+SPDYA	Glioma
+SPEG	Alzheimer's Disease
+SPG7	Alzheimer's Disease, Glioma
+SPI1	Alzheimer's Disease, Cerebral Palsy
+SPINK2	Stroke
+SPIRE2	Neuroblastoma
+SPNS1	Alzheimer's Disease
+SPNS2	Alzheimer's Disease
+SPOCK1	Intellectual Disability, Neuroblastoma
+SPON1	Alzheimer's Disease
+SPOP	Glioma
+SPPL2A	Alzheimer's Disease
+SPPL2B	Parkinson's Disease
+SPPL2C	Parkinson's Disease
+SPR	Dystonia
+SPRED2	Alzheimer's Disease, Multiple Sclerosis
+SPRY2	Glioma
+SPRY4-IT1	Glioma
+SPSB4	Stroke
+SPTAN1	Epilepsy
+SPTLC1	Charcot-Marie-Tooth Disease
+SPTSSB	Parkinson's Disease
+SPTY2D1	Alzheimer's Disease
+SQLE	Amyotrophic Lateral Sclerosis
+SQOR	Parkinson's Disease
+SQSTM1	Alzheimer's Disease, Parkinson's Disease
+SRC	Glioma
+SREBF1	Alzheimer's Disease, Parkinson's Disease
+SRGAP1	Autism Spectrum Disorder
+SRMS	Autism Spectrum Disorder
+SRPK2	Autism Spectrum Disorder
+SRPX2	Dyspraxia, Epilepsy, Rolandic Epilepsy with Speech impairment
+SRR	Autism Spectrum Disorder
+SRRM4	Stroke
+SRRT	Glioma
+SRSF10P1	Parkinson's Disease
+SRXN1	Autism Spectrum Disorder
+SSBP2	Glioma
+SSBP4	Alzheimer's Disease
+SSOs	Glioma
+SSR4	Intellectual Disability
+SSTR2	Neuroblastoma
+SSUH2	Autism Spectrum Disorder
+SSX2IP	Autism Spectrum Disorder
+ST13	Autism Spectrum Disorder, Glioma
+ST13P4	Multiple Sclerosis
+ST18	Alzheimer's Disease
+ST3GAL3	Amyotrophic Lateral Sclerosis, Autism Spectrum Disorder, Epilepsy, Intellectual Disability
+ST3GAL5	Epilepsy
+ST6GALNAC3	Alzheimer's Disease, Cerebral Palsy
+ST7-AS1	Autism Spectrum Disorder, Glioma
+ST7-AS2	Autism Spectrum Disorder
+ST7-OT3	Autism Spectrum Disorder
+ST7-OT4	Autism Spectrum Disorder
+STAB1	Autism Spectrum Disorder, Parkinson's Disease
+STAC3	Autism Spectrum Disorder
+STAG1	Autism Spectrum Disorder
+STAG3	Alzheimer's Disease
+STAP1	Parkinson's Disease
+STARD13	Intracranial Aneurysm
+STAT1	Glioma
+STAT3	Glioma, Multiple Sclerosis
+STAT4	Multiple Sclerosis
+STAU2	Alzheimer's Disease
+STBD1	Parkinson's Disease
+STEAP4	Restless legs Syndrome
+STH	Parkinson's Disease, Progressive Supranuclear Plasy
+STIMATE	Autism Spectrum Disorder
+STIMATE-MUSTN1	Autism Spectrum Disorder
+STK10	Alzheimer's Disease
+STK19	Autism Spectrum Disorder
+STK24	Alzheimer's Disease
+STK26	Glioma
+STK32B	Alzheimer's Disease
+STK32C	Alzheimer's Disease
+STK36	Amyotrophic Lateral Sclerosis
+STK38L	Glioma
+STK39	Parkinson's Disease
+STM-7	Friedreich Ataxia
+STN1	Glioma, Neuroblastoma
+STRADA	Alzheimer's Disease, Epilepsy
+STRBP	Autism Spectrum Disorder
+STT3A	Autism Spectrum Disorder, Intellectual Disability
+STT3B	Intellectual Disability
+STUM	Autism Spectrum Disorder
+STX1B	Epilepsy, Parkinson's Disease
+STXBP1	Dystonia, Epilepsy
+SUCLA2	Dystonia
+SUCLG2P4	Alzheimer's Disease
+SUFU	Autism Spectrum Disorder, Glioma
+SULT1C2	Parkinson's Disease
+SUMF1	Hydrocephalus, Multiple Sclerosis
+SUMO2P6	Alzheimer's Disease, Stroke
+SUN1	Autism Spectrum Disorder
+SUSD1	Amyotrophic Lateral Sclerosis, Intracranial Aneurysm
+SUSD2	Amyotrophic Lateral Sclerosis
+SUSD6	Alzheimer's Disease
+SUV39H1	Glioma
+SUZ12P1	Alzheimer's Disease
+SV2A	Glioma
+SV2C	Parkinson's Disease
+SVIL2P	Multiple Sclerosis
+SYCP2	Dystonia
+SYDE2	Multiple Sclerosis
+SYK	Alzheimer's Disease, Multiple Sclerosis
+SYN1	Epilepsy, Intellectual Disability
+SYN3	Alzheimer's Disease, Intracranial Aneurysm
+SYNDIG1L	Huntington's Disease
+SYNE1	Autism Spectrum Disorder, Autosomal Recessive Cerebellar Ataxia Type 1, Muscular Dystrophy
+SYNE2	Muscular Dystrophy
+SYNGAP1-AS1	Autism Spectrum Disorder
+SYNGAP1	Autism Spectrum Disorder, Epilepsy, Intellectual Disability
+SYNJ1	Alzheimer's Disease
+SYNM	Alzheimer's Disease
+SYNPO2	Muscular Dystrophy
+SYP	Intellectual Disability
+SYT10	Parkinson's Disease
+SYT11	Parkinson's Disease
+SYT16	Alzheimer's Disease
+SYT17	Parkinson's Disease
+SYT1	Autism Spectrum Disorder
+SYT2	Epilepsy
+SYT4	Parkinson's Disease
+SYTL2	Alzheimer's Disease
+SZT2	Alzheimer's Disease, Epilepsy, Intellectual Disability
+TACC	Glioma
+TAF1C	Autism Spectrum Disorder
+TAF1	Dystonia, Huntington's Disease
+TAF2	Intellectual Disability
+TAF5	Autism Spectrum Disorder
+TAFA4	Alzheimer's Disease
+TAGAP	Alzheimer's Disease, Multiple Sclerosis
+TAGLN2	Glioma
+TANC1	Restless legs Syndrome
+TAOK2	Autism Spectrum Disorder
+TAP1	Autism Spectrum Disorder
+TAP2	Autism Spectrum Disorder
+TAPBP	Autism Spectrum Disorder
+TARDBP	Motor Neurone Disease
+TAS1R2	Parkinson's Disease
+TAS2R1	Autism Spectrum Disorder
+TAS2R62P	Alzheimer's Disease
+TATDN2	Autism Spectrum Disorder
+TBC1D1	Amyotrophic Lateral Sclerosis, Cerebral Palsy
+TBC1D24	Cerebral Palsy, Epilepsy, Intellectual Disability
+TBC1D5	Parkinson's Disease
+TBC1D7	Intellectual Disability
+TBCD	Alzheimer's Disease, Epilepsy, Intellectual Disability
+TBCK	Epilepsy, Intellectual Disability
+TBK1	Amyotrophic Lateral Sclerosis
+TBKBP1	Multiple Sclerosis
+TBL1Y	Autism Spectrum Disorder
+TBX21	Multiple Sclerosis
+TBX6	Autism Spectrum Disorder, Multiple Sclerosis
+TCAM1P	Alzheimer's Disease
+TCAP	Alzheimer's Disease, Muscular Dystrophy
+TCERG1	Huntington's Disease
+TCF15	Autism Spectrum Disorder
+TCF19	Autism Spectrum Disorder
+TCF20	Autism Spectrum Disorder
+TCF24	Intracranial Aneurysm
+TCF3	Alzheimer's Disease, Glioma
+TCF4-AS1	Autism Spectrum Disorder
+TCF4	Autism Spectrum Disorder, Epilepsy
+TCF7	Multiple Sclerosis
+TCIM	Parkinson's Disease
+TCL1A	Alzheimer's Disease
+TCP10L2	Alzheimer's Disease
+TDGF1	Glioma
+TDRD9	Autism Spectrum Disorder
+TEAD1	Glioma
+TEAD2	Glioma
+TEAD4	Narcolepsy, Neuroblastoma
+TECR	Intellectual Disability
+TECTA	Alzheimer's Disease
+TEF	Autism Spectrum Disorder, Multiple Sclerosis
+TEK	Glioma
+TELO2	Alzheimer's Disease
+TENM4	Alzheimer's Disease, Autism Spectrum Disorder
+TENT2	Autism Spectrum Disorder
+TEPSIN	Alzheimer's Disease
+TERC	Alzheimer's Disease, Glioma
+TERF1	Glioma
+TERT	Glioma, Multiple Sclerosis
+TES	Glioma
+TET2	Cerebral Palsy, Multiple Sclerosis
+TET3	Glioma
+TEX33	Alzheimer's Disease
+TFAP2E	Alzheimer's Disease
+TF	Glioma
+TFPT	Alzheimer's Disease
+TFRC	Glioma
+TG2	Glioma
+TG	Autism Spectrum Disorder, Multiple Sclerosis
+TGFB1	Glioma
+TGFB2	Alzheimer's Disease
+TGFBI	Stroke
+TGFBR1	Cerebral Aneurysm
+TGFBR2	Cerebral Aneurysm
+TGFBR3	Multiple Sclerosis
+TGM6	Alzheimer's Disease
+THADA	Multiple Sclerosis
+THAP1	Dystonia
+THBS3	Gaucher Disease
+TH	Dystonia, Neuroblastoma, Parkinson's Disease
+THEM4	Epilepsy
+THEMIS	Multiple Sclerosis
+THNSL1	Alzheimer's Disease
+THOC6	Intellectual Disability
+THSD4	Alzheimer's Disease, Parkinson's Disease
+THSD7A	Alzheimer's Disease
+TIAL1	Parkinson's Disease
+TIMM10B	Dystonia
+TIMM10	Dystonia
+TIMM13	Alzheimer's Disease, Dystonia
+TIMM8A	Dystonia
+TIMM8B	Dystonia
+TIMM9	Dystonia
+TIMMDC1	Multiple Sclerosis
+TIMP1	Glioma
+TIMP2	Alzheimer's Disease
+TIMP3	Alzheimer's Disease
+TJP2	Friedreich Ataxia
+TLCD3B	Autism Spectrum Disorder
+TLE5	Alzheimer's Disease
+TLL1	Multiple Sclerosis
+TLN2	Alzheimer's Disease
+TLR3	Coma, Encephalitis
+TLR4	Glioma
+TLR5	Alzheimer's Disease
+TLR9	Autism Spectrum Disorder, Glioma, Parkinson's Disease
+TMC3	Parkinson's Disease
+TMC5	Alzheimer's Disease
+TMED9	Alzheimer's Disease
+TMEM106B	Alzheimer's Disease
+TMEM108	Stroke
+TMEM114	Intracranial Aneurysm
+TMEM132C	Alzheimer's Disease
+TMEM140	Glioma
+TMEM14B	Autism Spectrum Disorder
+TMEM161B-AS1	Autism Spectrum Disorder
+TMEM163	Parkinson's Disease
+TMEM175	Parkinson's Disease
+TMEM17	Cerebral Palsy
+TMEM196	Intracranial Aneurysm
+TMEM200A	Alzheimer's Disease
+TMEM204	Epilepsy
+TMEM212	Parkinson's Disease
+TMEM219	Autism Spectrum Disorder
+TMEM229B	Parkinson's Disease
+TMEM244	Multiple Sclerosis
+TMEM39A	Glioma, Multiple Sclerosis
+TMEM41A	Alzheimer's Disease
+TMEM47	Multiple Sclerosis
+TMEM67	Agenesis Corpus Callosum
+TMEM72-AS1	Parkinson's Disease
+TMEM74B	Multiple Sclerosis
+TMEM94	Alzheimer's Disease
+TMOD1	Intracranial Aneurysm
+TMX2	Autism Spectrum Disorder
+TMX2-CTNND1	Autism Spectrum Disorder
+TNETS	Neuroblastoma
+TNFAIP3	Glioma, Multiple Sclerosis
+TNFAIP8	Multiple Sclerosis
+TNF	Autism Spectrum Disorder, Glioma
+TNFRSF12A	Glioma
+TNFRSF14	Multiple Sclerosis
+TNFRSF1A	Multiple Sclerosis
+TNFSF10	Glioma
+TNFSF14	Multiple Sclerosis
+TNFSF4	Narcolepsy
+TNIK	Intellectual Disability
+TNIP1	Amyotrophic Lateral Sclerosis
+TNIP2	Multiple Sclerosis
+TNIP3	Multiple Sclerosis
+TNNC1	Autism Spectrum Disorder
+TNP2	Multiple Sclerosis
+TNS3	Epilepsy
+TNXA	Autism Spectrum Disorder
+TNXB	Alzheimer's Disease, Autism Spectrum Disorder
+TOB2	Autism Spectrum Disorder
+TOB2P1	Autism Spectrum Disorder
+TOMM40	Alzheimer's Disease
+TOP3A	Glioma
+TOR1A	Dystonia
+TOR1B	Dystonia
+TOX2	Multiple Sclerosis
+TOX3	Parkinson's Disease, Restless legs Syndrome
+TP53	Glioma, Hydrocephalus, Neuroblastoma
+TP53INP1	Alzheimer's Disease
+TP53INP2	Alzheimer's Disease
+TP53TG1	Ataxia Telangiectasia
+TP53TG3HP	Alzheimer's Disease
+TP73-AS1	Glioma
+TP73	Glioma, Huntington's Disease
+TPH2	Attention Deficit Hyperactivity Disorder
+TPM1	Parkinson's Disease
+TPM3	Alzheimer's Disease
+TPO	Intellectual Disability
+TPP1	Epilepsy
+TPRG1	Alzheimer's Disease
+TPST1	Alzheimer's Disease
+TPT1-AS1	Glioma
+TPT1P9	Epilepsy
+TPX2	Glioma
+TRABD	Alzheimer's Disease
+TRAC	Multiple Sclerosis
+TRAF3IP2-AS1	Schizophrenia
+TRAF3	Multiple Sclerosis
+TRAJ10	Narcolepsy
+TRAK1	Alzheimer's Disease
+TRA	Narcolepsy
+TRANK1	Autism Spectrum Disorder
+TRAP1	Glioma
+TRAPPC10	Epilepsy
+TRAPPC6A	Alzheimer's Disease
+TRAPPC9	Intellectual Disability
+TRB	Narcolepsy
+TREH	Multiple Sclerosis
+TREM2	Alzheimer's Disease
+TREM	Alzheimer's Disease
+TREML2	Alzheimer's Disease
+TREX1	Encephalitis
+TRH	Alzheimer's Disease
+TRIB2	Multiple Sclerosis
+TRIM10	Autism Spectrum Disorder
+TRIM14	Multiple Sclerosis
+TRIM15	Alzheimer's Disease, Autism Spectrum Disorder
+TRIM22	Glioma
+TRIM24	Glioma
+TRIM26	Alzheimer's Disease, Autism Spectrum Disorder
+TRIM27	Autism Spectrum Disorder
+TRIM29	Stroke
+TRIM2	Autism Spectrum Disorder, Multiple Sclerosis
+TRIM31-AS1	Autism Spectrum Disorder
+TRIM31	Autism Spectrum Disorder
+Trim32	Glioma
+TRIM32	Muscular Dystrophy
+TRIM33	Autism Spectrum Disorder
+TRIM38	Autism Spectrum Disorder
+TRIM39	Autism Spectrum Disorder
+TRIM39-RPP21	Autism Spectrum Disorder
+TRIM40	Autism Spectrum Disorder, Parkinson's Disease
+TRIM51CP	Alzheimer's Disease
+TRIM56	Alzheimer's Disease
+TRIM5	Alzheimer's Disease
+TRIM65	Autism Spectrum Disorder
+TRIM71	Multiple Sclerosis
+TRIM8	Autism Spectrum Disorder
+TRIO	Intellectual Disability
+TRIP10	Huntington's Disease
+TRIP4	Alzheimer's Disease
+TRMT10A	Intellectual Disability
+TRMT61A	Autism Spectrum Disorder
+TRP53	Glioma
+TRPM1	Alzheimer's Disease
+TRPM2	Alzheimer's Disease, Parkinson's Disease
+TRPM4	Alzheimer's Disease
+TRPM5	Alzheimer's Disease
+TRPM7	Amyotrophic Lateral Sclerosis
+TRPS1	Parkinson's Disease
+TRPV1	Glioma
+TRPV5	Glioma
+TRRAP	Alzheimer's Disease, Glioma
+TSBP1-AS1	Autism Spectrum Disorder
+TSBP1	Autism Spectrum Disorder, Multiple Sclerosis
+TSC1	Epilepsy, Glioma, Tuberous Sclerosis
+TSC2	Glioma, Tuberous Sclerosis
+TSEN15	Pontocerebellar Hypoplasia
+TSEN2	Epilepsy, Pontocerebellar Hypoplasia
+TSEN34	Epilepsy, Pontocerebellar Hypoplasia
+TSEN54	Epilepsy, Pontocerebellar Hypoplasia
+TSFM	Multiple Sclerosis
+TSG1	Parkinson's Disease
+TSHR	Down Syndrome
+TSHZ2	Parkinson's Disease
+TSLC1-AS1	Glioma
+TSNARE1	Autism Spectrum Disorder
+TSPAN13	Alzheimer's Disease
+TSPAN16	Alzheimer's Disease
+TSPAN5	Stroke
+TSPEAR	Amyotrophic Lateral Sclerosis, Epilepsy
+TSPOAP1	Alzheimer's Disease
+TSPOAP1-AS1	Alzheimer's Disease, Stroke
+TSPO	Glioma
+TSR1	Autism Spectrum Disorder
+TST	Alzheimer's Disease
+TTBK1	Autism Spectrum Disorder, Stroke
+TTC21B	Epilepsy
+TTC22	Alzheimer's Disease
+TTC28	Multiple Sclerosis
+TTC3	Down Syndrome
+TTC5	Alzheimer's Disease
+TTLL4	Amyotrophic Lateral Sclerosis
+TTLL7	Alzheimer's Disease, Autism Spectrum Disorder
+TTN	Muscular Dystrophy
+TTPA	Friedreich Ataxia
+TTR	Stroke
+TUBA1B	Glioma
+TUBB2A	Epilepsy
+TUBB3	Agenesis Corpus Callosum
+TUBB4A	Dystonia, Intellectual Disability
+TUBB8P6	Alzheimer's Disease
+TUBB	Autism Spectrum Disorder
+TUG1	Alzheimer's Disease, Glioma, Huntington's Disease, Multiple Sclerosis
+TULP4	Alzheimer's Disease
+TUSC2	Alzheimer's Disease
+TUSC3	Intellectual Disability
+TUSC7	Glioma, Parkinson's Disease
+TUT4	Cerebral Palsy
+TWF2	Autism Spectrum Disorder
+TWIST1	Stroke
+TXK	Multiple Sclerosis
+TYK2	Multiple Sclerosis
+TYW3	Amyotrophic Lateral Sclerosis
+TYW5	Autism Spectrum Disorder
+U1 spliceosomal lncRNA	Parkinson's Disease
+U91319.1	Autism Spectrum Disorder
+U95743.1	Autism Spectrum Disorder
+UBA52P1	Alzheimer's Disease
+UBA5	Epilepsy, Intellectual Disability
+UBAP1L	Alzheimer's Disease
+UBAP2	Parkinson's Disease
+UBASH3B	Alzheimer's Disease, Multiple Sclerosis
+UBD	Autism Spectrum Disorder
+UBE2A	Epilepsy, Intellectual Disability
+UBE2C	Glioma
+UBE2D2	Alzheimer's Disease
+UBE2D3	Autism Spectrum Disorder
+UBE2E3	Multiple Sclerosis
+UBE2J2	Alzheimer's Disease
+UBE2Q2L	Autism Spectrum Disorder
+UBE2Q2P1	Autism Spectrum Disorder
+UBE3C	Alzheimer's Disease
+UBTF	Parkinson's Disease
+UBXN11	Alzheimer's Disease
+UBXN2B	Narcolepsy
+UBXN6	Multiple Sclerosis
+uc.283-plus	Glioma
+UCA1	Glioma
+UCH1LAS	Parkinson's Disease
+UCHL1-DT	Parkinson's Disease
+UCHL1	Parkinson's Disease
+UCK2	Multiple Sclerosis
+UGT1A10	Neuroblastoma
+UGT1A6	Neuroblastoma
+UGT1A7	Neuroblastoma
+UGT1A8	Neuroblastoma
+UGT1A9	Neuroblastoma
+UMODL1	Alzheimer's Disease
+UMODL1-AS1	Alzheimer's Disease
+UNC13A	Amyotrophic Lateral Sclerosis
+UNC13B	Parkinson's Disease
+UNC5B	Alzheimer's Disease
+UNC5CL	Alzheimer's Disease
+UNC80	Epilepsy, Intellectual Disability
+UNC93B1	Coma, Encephalitis
+UNK	Multiple Sclerosis
+UPF3B	Intellectual Disability
+USP15	Glioma
+USP25	Parkinson's Disease
+USP32	Alzheimer's Disease
+USP36	Alzheimer's Disease
+USP6NL	Alzheimer's Disease
+USP9X	Epilepsy
+UTRNB	Muscular Dystrophy
+UTRN	Restless legs Syndrome
+UTS2B	Alzheimer's Disease
+UTY	Autism Spectrum Disorder
+UVRAG	Stroke
+VAMP4	Parkinson's Disease
+VAMP8	Glioma
+VANGL1	Meningitis
+VANGL2	Multiple Sclerosis
+VARS1	Autism Spectrum Disorder
+VARS2	Autism Spectrum Disorder
+VASORIN	Glioma
+VAT1	Alzheimer's Disease
+VAT1L	Alzheimer's Disease
+VAV2	Multiple Sclerosis, Tuberous Sclerosis
+VAX1	Autism Spectrum Disorder
+VCAM1	Multiple Sclerosis
+VCP	Muscular Dystrophy, Parkinson's Disease
+VEGFA	Glioma
+VEGFC	Glioma
+VEG	Glioma
+VEZT	Autism Spectrum Disorder
+VIPR2	Alzheimer's Disease, Cerebral Palsy
+VKORC1	Alzheimer's Disease
+VLDLR	Alzheimer's Disease, "Cerebellar Ataxia, Mental Retardation and Disequilibrium Syndrome"
+VMP1	Multiple Sclerosis
+VN1R10P	Autism Spectrum Disorder
+VN2R20P	Alzheimer's Disease
+VPS13A	Epilepsy
+VPS13C	Autism Spectrum Disorder, Parkinson's Disease
+VPS13D	Autism Spectrum Disorder
+VPS26C	Down Syndrome
+VPS51	Glioma
+VPS52	Autism Spectrum Disorder
+VRK1	Pontocerebellar Hypoplasia
+VRK2	Autism Spectrum Disorder, Epilepsy
+VRK3	Alzheimer's Disease
+VRTN	Alzheimer's Disease
+VSIG2	Autism Spectrum Disorder
+VSIG8	Alzheimer's Disease
+VSIR	Alzheimer's Disease
+VSX2	Alzheimer's Disease
+VTI1A	Glioma, Multiple Sclerosis
+VWA1	Alzheimer's Disease
+VWA5B1	Alzheimer's Disease
+VWA7	Autism Spectrum Disorder
+VWA8	Multiple Sclerosis
+VWC2	Autism Spectrum Disorder
+VWF	Alzheimer's Disease
+W1	Glioma
+WAC	Alzheimer's Disease, Intellectual Disability
+WASHC5	Amyotrophic Lateral Sclerosis
+WBP1L	Autism Spectrum Disorder
+WBP2NL	Autism Spectrum Disorder
+WDFY4	Cerebral Palsy, Stroke
+WDR25	Alzheimer's Disease
+WDR33	Autism Spectrum Disorder
+WDR41	Alzheimer's Disease
+WDR46	Autism Spectrum Disorder
+WDR4	Epilepsy
+WDR70	Alzheimer's Disease
+WDR73	Autism Spectrum Disorder
+WDR7	Multiple Sclerosis
+WDR81	Alzheimer's Disease, "Cerebellar Ataxia, Mental Retardation and Disequilibrium Syndrome"
+WDR82	Autism Spectrum Disorder
+WDR86	Alzheimer's Disease
+WDR89	Epilepsy
+WEE1	Glioma
+WHAMMP3	Prader-Willi Syndrome
+WIPF1	Alzheimer's Disease
+WNT2	Autism Spectrum Disorder
+WNT2B	Stroke
+WNT3	Alzheimer's Disease, Parkinson's Disease
+WNT5A	Glioma
+WNT5B	Alzheimer's Disease
+WNT7a	Glioma
+WNT7b	Glioma
+WNT8A	Autism Spectrum Disorder
+WNT9A	Parkinson's Disease
+WT1	Glioma
+WWC1	Alzheimer's Disease
+WWOX	Alzheimer's Disease, Epilepsy, Intellectual Disability, Multiple Sclerosis
+WWP1P1	Narcolepsy
+WWTR1	Glioma
+XIAP	Autism Spectrum Disorder
+XIST	Down Syndrome, Glioma
+XKR4	Autism Spectrum Disorder
+XKR6	Autism Spectrum Disorder, Intracranial Aneurysm
+XLOC_001711	Glioma
+XLOC_010967	Glioma
+XPNPEP3	Autism Spectrum Disorder
+XPO4	Neuroblastoma
+XR_246024.1	Epilepsy
+XRCC3	Autism Spectrum Disorder
+XRN2	Autism Spectrum Disorder
+XXbac-B135H6.18	Alzheimer's Disease
+XXbac-B135H6.19	Alzheimer's Disease
+XXbac-BPG181M17.5	Cerebral Palsy
+XXbac-BPG308K3.6	Alzheimer's Disease
+XXyac-YR21IF11.3	Alzheimer's Disease
+XYLB	Autism Spectrum Disorder
+YAP1	Huntington's Disease
+YARS1	Charcot-Marie-Tooth Disease
+YKL-40	Glioma
+YPEL3	Autism Spectrum Disorder
+YPEL4	Autism Spectrum Disorder
+Y_RNA	Alzheimer's Disease
+YWHAG	Multiple Sclerosis
+YY1AP1	Glioma
+Z82202.1	Restless legs Syndrome
+ZAR1	Glioma
+ZBED3-AS1	Autism Spectrum Disorder
+ZBED5-AS1	Alzheimer's Disease
+ZBED9	Autism Spectrum Disorder
+ZBTB12	Autism Spectrum Disorder
+ZBTB16	Glioma
+ZBTB18	Intellectual Disability
+ZBTB22	Autism Spectrum Disorder
+ZBTB38	Multiple Sclerosis
+ZBTB40	Amyotrophic Lateral Sclerosis
+ZBTB46	Multiple Sclerosis
+ZBTB7B	Multiple Sclerosis
+ZBTB9	Autism Spectrum Disorder
+ZC2HC1A	Multiple Sclerosis
+ZC3H7B	Autism Spectrum Disorder
+ZC3HAV1	Multiple Sclerosis
+ZC4H2	Intellectual Disability
+ZCCHC10	Alzheimer's Disease
+ZCCHC24	Alzheimer's Disease, Autism Spectrum Disorder
+ZCH13	Glioma
+ZCWPW1	Alzheimer's Disease
+ZDHHC2	Parkinson's Disease
+ZDHHC5	Autism Spectrum Disorder
+ZDHHC9	Intellectual Disability
+ZEB2	Epilepsy
+ZFAND3	Glioma
+ZFAS1	Glioma
+ZFHX3	Alzheimer's Disease, Multiple Sclerosis, Stroke
+ZFP36L1	Alzheimer's Disease, Multiple Sclerosis
+ZFP57	Autism Spectrum Disorder, Glioma
+ZFP64	Amyotrophic Lateral Sclerosis, Parkinson's Disease
+ZFPM2	Autism Spectrum Disorder
+ZFYVE21	Autism Spectrum Disorder
+ZFYVE9P2	Alzheimer's Disease
+ZHX3	Multiple Sclerosis
+ZIC1	Multiple Sclerosis
+ZKSCAN3	Autism Spectrum Disorder
+ZKSCAN4	Autism Spectrum Disorder
+ZKSCAN8	Autism Spectrum Disorder
+ZKSCAN8P1	Autism Spectrum Disorder
+ZMIZ1	Autism Spectrum Disorder, Multiple Sclerosis
+ZNF12	Alzheimer's Disease
+ZNF142	Amyotrophic Lateral Sclerosis
+ZNF165	Autism Spectrum Disorder, Parkinson's Disease
+ZNF184	Autism Spectrum Disorder, Parkinson's Disease
+ZNF204P	Autism Spectrum Disorder
+ZNF217	Multiple Sclerosis
+ZNF224	Alzheimer's Disease
+ZNF232	Alzheimer's Disease
+ZNF264	Autism Spectrum Disorder
+ZNF273	Alzheimer's Disease
+ZNF295-AS1	Alzheimer's Disease
+ZNF311	Autism Spectrum Disorder
+ZNF318	Autism Spectrum Disorder
+ZNF322	Autism Spectrum Disorder
+ZNF354A	Autism Spectrum Disorder
+ZNF365	Autism Spectrum Disorder, Multiple Sclerosis, Narcolepsy
+ZNF37BP	Autism Spectrum Disorder
+ZNF391	Autism Spectrum Disorder
+ZNF395	Huntington's Disease
+ZNF396	Parkinson's Disease
+ZNF408	Autism Spectrum Disorder
+ZNF41	Intellectual Disability
+ZNF433	Multiple Sclerosis
+ZNF438	Multiple Sclerosis
+ZNF440	Autism Spectrum Disorder
+ZNF441	Autism Spectrum Disorder
+ZNF462	Alzheimer's Disease
+ZNF469	Alzheimer's Disease
+ZNF491	Autism Spectrum Disorder
+ZNF501	Alzheimer's Disease
+ZNF529	Autism Spectrum Disorder
+ZNF568	Autism Spectrum Disorder
+ZNF573	Alzheimer's Disease
+ZNF57	Alzheimer's Disease
+ZNF580	Alzheimer's Disease
+ZNF581	Alzheimer's Disease
+ZNF592	Alzheimer's Disease, Autism Spectrum Disorder
+ZNF599	Alzheimer's Disease
+ZNF608	Parkinson's Disease
+ZNF615	Autism Spectrum Disorder
+ZNF646	Parkinson's Disease
+ZNF652	Multiple Sclerosis
+ZNF674	Intellectual Disability
+ZNF680	Autism Spectrum Disorder
+ZNF689	Alzheimer's Disease
+ZNF708	Autism Spectrum Disorder
+ZNF711	Intellectual Disability
+ZNF746	Amyotrophic Lateral Sclerosis, Multiple Sclerosis
+ZNF767P	Multiple Sclerosis
+ZNF772	Alzheimer's Disease
+ZNF77	Alzheimer's Disease
+ZNF804A	Alzheimer's Disease, Autism Spectrum Disorder
+ZNF804B	Restless legs Syndrome
+ZNF813	Alzheimer's Disease
+ZNF81	Intellectual Disability
+ZNF821	Autism Spectrum Disorder
+ZNF823	Autism Spectrum Disorder
+ZNF862	Alzheimer's Disease
+ZNF877P	Autism Spectrum Disorder
+ZNHIT3	Multiple Sclerosis
+ZNRD1ASP	Autism Spectrum Disorder
+ZP3P1	Narcolepsy
+ZP3P2	Autism Spectrum Disorder
+ZPLD1	Multiple Sclerosis
+ZSCAN12	Autism Spectrum Disorder
+ZSCAN12P1	Autism Spectrum Disorder
+ZSCAN16-AS1	Autism Spectrum Disorder, Parkinson's Disease
+ZSCAN16	Autism Spectrum Disorder
+ZSCAN23	Autism Spectrum Disorder
+ZSCAN26	Autism Spectrum Disorder
+ZSCAN2	Autism Spectrum Disorder
+ZSCAN31	Autism Spectrum Disorder
+ZSCAN9	Autism Spectrum Disorder
+ZSWIM6	Autism Spectrum Disorder
+ZYG11B	Autism Spectrum Disorder
+ZZEF1	Alzheimer's Disease
